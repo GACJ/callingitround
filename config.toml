@@ -1,4 +1,4 @@
-baseURL = "http://ebook.brynmarie.com/"
+baseURL = "https://ebook.brynmarie.com/"
 languageCode = "en-us"
 title = "[title here]"
 theme = "book"
