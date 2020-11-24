@@ -1,8 +1,9 @@
 ---
-title: Introduction
+title: Calling It Round 
 type: docs
 ---
 
-# Welcome to my site!
+# Welcome 
 
-It's definitely under construction.
+Welcome to _Calling It Round_, an online publication focussed on getting ringers involved in calling and conducting from any bell.
+
