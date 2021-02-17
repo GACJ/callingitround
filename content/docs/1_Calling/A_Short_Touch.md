@@ -1,3 +1,6 @@
+---
+weight: 3 
+---
 
 # A short touch of… : Some simple touches for practice
 

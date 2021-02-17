@@ -1,3 +1,7 @@
+---
+weight: 2 
+---
+
 # Finding your voice: Putting the calls in
 
 Now it’s time to start building up skills to help you learn to call your first touch. Now that you’ve got some terminology floating around your head, let’s put it to practical use and think about where and how to put the bobs in. 

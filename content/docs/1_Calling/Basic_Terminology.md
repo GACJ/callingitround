@@ -1,3 +1,7 @@
+---
+weight: 1
+---
+
 # Submodule 1: Basic Terminology
 
 English change ringing has a rich history spanning hundreds of years; it’s little wonder we’ve managed to create a language all our own. By this time in your ringing development, you will be familiar with quite a lot of ringing terminology. “Look to” makes your ears perk up, you might have a favorite “method,” and you might already have rung a “quarter peal” (and if you haven’t already -- you know what it is!). 

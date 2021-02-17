@@ -1,4 +1,6 @@
-
+---
+weight: 6
+---
 
 # Submodule 6: Handbell-specific guidance
 

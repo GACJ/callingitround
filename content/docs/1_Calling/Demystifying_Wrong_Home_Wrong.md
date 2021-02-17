@@ -1,3 +1,7 @@
+---
+weight: 4
+---
+
 # Demystifying “In, Out, Make”: The most common calling positions
 
 In this section, we’ll start to build the vocabulary and skills you’ll need to call longer and more complicated touches. When touches are longer than a few leads, it quickly becomes tiresome to memorize a long series of “plain, bob, bob, plain, bob, plain…”. To fix that problem, callers and conductors often use **calling positions** to help them remember where to put in the calls. We’ll first define calling positions and then tell you about some of the most common ones. Knowing this vocabulary will give you access to a much bigger number of compositions! In the next submodule, we’ll get down to brass tacks learning new compositions using this new vocabulary.
