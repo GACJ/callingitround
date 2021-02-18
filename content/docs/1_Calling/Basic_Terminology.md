@@ -75,18 +75,8 @@ We will be talking a lot more about lead ends when we discuss where to put calls
 
 ## Test Yourself!
 
-For all the questions below, assume we're discussing Plain Bob Minor unless otherwise specified. To read the answers, click on the grey bar containing the text of the question.
+For all the questions below, assume we're discussing Plain Bob Minor unless otherwise specified.
 
-{{< expand "The caller calls “Bob!”. The row where the treble is leading at backstroke is 132456. Who made the bob?" >}}
-The 4 made the bob. It is in fourths place at the backstroke, so it must have made fourths over the lead end.
-{{< /expand >}}
-
-{{< expand "The caller calls “Single!”. The row where the treble is leading at handstroke is 124365. Who will make 3rds? What is the resulting row?" >}}
-The 4 is in 3rds place at handstroke, so it must make 3rds at the call. The resulting row is 124356.
-{{< /expand >}}
-
-{{< expand "Bonus: A “big bob” is called during a quarter of Cornwall. The row where the treble is leading at handstroke is 15327486; what is the next row?">}}
-
-The row where the treble is at backstroke will be 13572468 (perhaps a familiar change!). The 4 will have made the bob, which is a 6ths place bob since it's a "big bob"!
-
-{{< /expand >}}
+{{< question id="1_1001" >}}
+{{< question id="1_1002" >}}
+{{< question id="1_1003" >}}

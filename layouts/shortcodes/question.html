@@ -1,0 +1,42 @@
+{{- $question_id := "" -}}
+
+<script type="text/javascript">
+  function changeLabel(lab_id,
+                       new_text,
+                       correct) {
+    let label = document.getElementById(lab_id);
+    let old_text = label.innerText
+    label.innerText = old_text + " — " + new_text;
+    console.log(typeof correct)
+    if (correct) {
+      label.style.color = "blue"
+    } else {
+      label.style.color = "red"
+    }
+  }
+</script>
+
+{{- with .Get "id" -}}
+  {{- $question_id = . -}}
+{{- else -}}
+  {{- errorf "The '%s' shortcode requires a named parameter (id), the ID of the question. See %s" .Name .Position -}}
+{{- end -}}
+
+{{- with $item := index .Site.Data.questions $question_id  -}}
+  {{- $question := index $item.question -}}
+  {{- $possible_answers := index $item.possible_answers -}}
+  <div style="margin-left: 50px">
+  <p><b>{{ $question }}</b></p>
+  <form id="question-{{$question_id}}">
+    {{- range $k, $v := $possible_answers }}
+      <input type="radio" name="answer"
+        onclick="changeLabel('{{$question_id}} + {{ $k }}',
+                             '{{ $v.response }}',
+                             '{{ $v.correct }}');">
+      <label id="{{$question_id}} + {{ $k }}">{{ $v.label }}</label><br>
+    {{- end }}
+  </form>
+  </div>
+{{- else -}}
+  {{- errorf "The '%s' shortcode was unable to find a question with ID '%s'. See %s" .Name $question_id .Position -}}
+{{- end -}}

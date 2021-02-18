@@ -1,0 +1,197 @@
+{
+    "1_1001": {
+        "question": "The caller calls 'Bob!'. The row where the treble is leading at backstroke is 132456. Which bell made the bob?",
+        "possible_answers": {
+            "a": {
+                "label": "The 2",
+                "response": "Not quite. The 2 is in thirds place at the backstroke, which means it must have run out during the bob; it couldn't have made the bob.",
+                "correct": ""
+            },
+            "b": {
+                "label": "The 4", 
+                "response": "Yes, that's it! The 4 is in fourths place at the backstroke, so it must have made fourths over the lead end.",
+                "correct": "yes"
+            },
+            "c": {
+                "label": "The 6",
+                "response": "The 6 is at the back of the row and is unaffected by the bob; it did not make the bob.",
+                "correct": ""
+            }
+        }
+    },
+    "1_1002": {
+        "question": "The caller calls 'Single!'. The row where the treble is leading at handstroke is 124365. Who will make 3rds?",
+        "possible_answers": {
+            "a": {
+                "label": "The 2",
+                "response": "Not quite. The 2 is in seconds place at the handstroke and will make seconds during the single.",
+                "correct": ""
+            },
+            "b": {
+                "label": "The 3", 
+                "response": "No, the 3 will make fourths during the single since it is in fourths place at the handstroke.",
+                "correct": ""
+            },
+            "c": {
+                "label": "The 4",
+                "response": "Exactly. The 4 will make thirds over the lead end.",
+                "correct": "yes"
+            }
+        }
+    },
+    "1_1003": {
+        "question": "The caller calls 'Single!'. The row where the treble is leading at handstroke is 124365. What is the resulting (backstroke) row, after the single is executed?",
+        "possible_answers": {
+            "a": {
+                "label": "123456",
+                "response": "This is rounds, and is what would happen after a plain lead; that is, after the 2 makes seconds and all other bells dodge. How should a single affect the bells in 3 and 4?",
+                "correct": ""
+            },
+            "b": {
+                "label": "142356", 
+                "response": "This row would result after a bob was called, but what about a single?",
+                "correct": ""
+            },
+            "c": {
+                "label": "124356",
+                "response": "That's right. This trick of using a single to cross over the 34 is often used in compositions of Plain Bob (and other methods) because it keeps most bells in their home positions and it maintains much of the music of the plain course. There's another reason, too, having to do with falseness, but that will be covered more later!",
+                "correct": "yes"
+            }
+        }
+    },
+    "1_2001": {
+        "question": "What calls were used in this touch?",
+        "possible_answers": {
+            "a": {
+                "label": "Bobs only",
+                "response": "Yes!",
+                "correct": "yes"
+            },
+            "b": {
+                "label": "Bobs and singles",
+                "response": "Try another listen; did you hear any singles being called?",
+                "correct": ""
+            },
+            "c": {
+                "label": "Singles only",
+                "response": "Not quite; does Plain Bob Doubles have singles?",
+                "correct": ""
+            }
+        }
+    },
+    "1_2002": {
+        "question": "When (in the row) was 'Go, Bob Doubles' said?",
+        "possible_answers": {
+            "a": {
+                "label": "Just before the treble's handstroke in 1 during rounds",
+                "response": "That's right!",
+                "correct": "yes"
+            },
+            "b": {
+                "label": "Just before the treble's backstroke in 2 during rounds",
+                "response": "Does the treble have a backstroke in 2 during rounds?",
+                "correct": ""
+            },
+            "c": {
+                "label": "Just before the treble's backstroke in 1 during rounds",
+                "response": "Not quite; try another listen.",
+                "correct": ""
+            }
+        }
+    },
+    "1_2003": {
+        "question": "When (in the row) was 'Bob' said?",
+        "possible_answers": {
+            "a": {
+                "label": "Just before the treble's backstroke in 2",
+                "response": "That's right!",
+                "correct": "yes"
+            },
+            "b": {
+                "label": "Just before the treble's handstroke lead",
+                "response": "Technically true, but be more precise...",
+                "correct": ""
+            },
+            "c": {
+                "label": "Just before the treble's backstroke lead",
+                "response": "That would be a bit too late!",
+                "correct": ""
+            }
+        }
+    },
+    "1_2004": {
+        "question": "Go, next time!", 
+        "possible_answers": {
+            "a": {
+                "label": "On time",
+                "response": "'Go, next time!' was said halfway through the row where the treble was leading at handstroke. This timing is within the realm of acceptable!",
+                "correct": "yes"
+            },
+            "b": {
+                "label": "Not quite right",
+                "response": "The timing of the call gives less than a whole pull’s warning, so it is reasonable to think that it's a bit off.  However, some may prefer to call it at the later time, especially if the bells are light or not too loud; both timing choices can be acceptable depending on the situation.",
+                "correct": "yes"
+            }
+        }
+    },
+    "1_2005": {
+        "question": "First bob:", 
+        "possible_answers": {
+            "a": {
+                "label": "On time",
+                "response": "Yes, it was given with a whole pull's warning.",
+                "correct": "yes"
+            },
+            "b": {
+                "label": "Not quite right",
+                "response": "Try another listen; the call was given with a whole pull's warning when the treble was in 2.",
+                "correct": "yes"
+            }
+        }
+    },
+    "1_2005": {
+        "question": "Second bob:", 
+        "possible_answers": {
+            "a": {
+                "label": "On time",
+                "response": "Hmm, try another listen. How much warning was given?",
+                "correct": ""
+            },
+            "b": {
+                "label": "Not quite right",
+                "response": "Right. 'Bob' was said while the treble was in 3rds place, not 2nds; a whole row too early! This timing can be particularly confusing for some methods, like Grandsire or Stedman, and it is important not to get into the habit of giving calls too early.",
+                "correct": "yes"
+            }
+        }
+    },
+    "1_2006": {
+        "question": "That's all:", 
+        "possible_answers": {
+            "a": {
+                "label": "On time",
+                "response": "This one is a bit nuanced and up to personal interpretation. The 'That's all' didn’t give a whole pull's warning. That said, you may see this from time to time; not all conductors choose to give a whole pull's warning with 'That’s all', especially if it comes round at hand or in an otherwise non-standard way.",
+                "correct": "yes"
+            },
+            "b": {
+                "label": "Not quite right",
+                "response": "This one is a bit nuanced and up to personal interpretation. The 'That's all' didn’t give a whole pull's warning. That said, you may see this from time to time; not all conductors choose to give a whole pull's warning with 'That’s all', especially if it comes round at hand or in an otherwise non-standard way.",
+                "correct": "yes"
+            }
+        }
+    },
+    "1_2007": {
+        "question": "Stand next", 
+        "possible_answers": {
+            "a": {
+                "label": "On time",
+                "response": "Hm, try another listen. Was enough warning given?",
+                "correct": ""
+            },
+            "b": {
+                "label": "Not quite right",
+                "response": "This call was given too late in the row to give the bells sufficient warning (these ringers, happily, managed to set their bells just fine!)",
+                "correct": "yes"
+            }
+        }
+    }
+}
