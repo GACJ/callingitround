@@ -1,3 +1,21 @@
 /* You can add custom styles here. */
 
 // @import "plugins/numbered";
+figure.float-right {
+    max-width: 50%;
+	height: auto;
+	float: right;
+}
+
+figure.float-left {
+    max-width: 50%;
+	height: auto;
+	float: left;
+}
+
+figure.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
