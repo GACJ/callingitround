@@ -26,7 +26,7 @@ There are a couple of different things that a caller needs to know how to say (a
 
 The diagram on the right shows, visually, where the calls might go in a short touch of Plain Bob Doubles. As with many aspects of ringing, there is no strictly correct place to make the calls, but we’ll cover some of the more common conventions.
 
-{{< figure src="pb5.png" class="float-right">}}
+{{< figure src="pb5.png" class="float-right" >}}
 
 **Go, next time!** This call tells your band to stop ringing rounds and start ringing the method. Some people will exclusively say “Go, next time!” but others include the method name and would say something like “Go, Plain Bob Minor!”. Either is fine. Using the latter convention is particularly helpful if there was any confusion about which method or stage was going to be rung before ringing started (e.g., if there was a kerfuffle over whether to ring minor or doubles). Others will choose to include different information such as “Go, next handstroke!” or “Go, Double Norwich at next backstroke!”, especially if there is an unusual start for a date touch or something. You can use your judgement and when in doubt, “Go, [method here]” is a safe bet. 
 
