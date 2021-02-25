@@ -58,7 +58,7 @@ Throughout _Calling It Round_, I will try to say _row_ when I mean _row_, and _c
 
 ## Leads and lead ends
 
-It is important to understand the distinctions above in order to understand the somewhat esoteric, but hopefully useful, discussion we are about to have about the definition of a **lead**, a **lead head**, and a **lead end**, with which we will finish this section on basic terminology. It is useful to have these straight in your head as you are first learning how to read and interpret compositions, as often they are written out in a very condensed form.
+It is important to understand the distinctions above in order to understand the somewhat esoteric, but hopefully useful, discussion we are about to have about the definition of a **lead**, a **lead head**, and a **lead end**, with which we will finish this section on basic terminology. It is useful to have these straight in your head as you are first learning how to read and interpret compositions, as often they are written out in a very condensed form. It is also useful to know the "anatomy of a lead" as you're learning where exactly to put calls in.
 
 In the diagram on the right, you can see a lead (and a little) of Little Bob Minor:
 
@@ -72,7 +72,7 @@ There is not wide agreement on _exactly_ where a lead begins and ends, and _exac
 
 The distinction between these two camps is complicated by the common use of the term **lead end**. While it is generally agreed upon that the lead end row is technically the row containing the treble’s handstroke lead, the term “lead end” in common usage refers more often to either the _two_ rows in the treble’s lead (in this case, 165432 and 164523) or to the lead end _change_ itself, that is, the change that results in the transformation from the lead end row to the lead head row.
 
-We will be talking a lot more about lead ends when we discuss where to put calls and how to read simple compositions, but I think that’s enough for now!
+We will be talking a lot more about lead ends when we discuss where to put calls in and how to read simple compositions, but I think that’s enough for now!
 
 ## Resources
 

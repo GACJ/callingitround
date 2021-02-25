@@ -1,10 +1,11 @@
 ---
 weight: 5
+title: Reading and Learning Short Touches
 ---
 
-# Submodule 5: Reading and learning short touches using the most common calling positions 
+# Reading and learning short touches using the most common calling positions 
 
-In this section, we’ll put together everything we’ve learned over the course of the module and learn 2 different short touches that use the most common calling positions. In addition, I’ve compiled some collections of other short touches that use these calling positions as well; these will be included at the bottom as resources.
+In this section, we’ll put together everything we’ve covered over the course of _Caling It Round_ by learning 2 different short touches that use the most common calling positions. In addition, I’ve compiled some collections of other short touches that use these calling positions as well; these collections will be included at the bottom as resources.
 
 
 ## Wrong Home, Wrong Home
@@ -35,26 +36,26 @@ You can use “Three Homes” not only from different observation bells, but als
 ---
 
 
-Both of the above touches and more are included in the complib.org collection, linked below. Just click to access. Once you’re there, you’ll find a list of compositions. You can click on any of the compositions to learn more. If you are interested in learning more about calling and conducting, I strongly recommend availing yourself of this excellent resource, built and maintained by Graham John. It is well-worth the time spent playing with all of the settings and figuring out what is most useful. For a starting caller, it is often very useful to click the composition and then the “Blue Line” section of the composition, so you can get a good sense of what all the bells do through the composition (and maybe remind yourself of where the calling positions come!)
+Both of the above touches and more are included in the complib.org collection, linked below. Just click to access. Once you’re there, you’ll find a list of compositions. You can click on any of the compositions to learn more. If you are interested in learning more about calling and conducting, I strongly recommend availing yourself of this excellent resource, built and maintained by Graham John. It is well worth the time spent playing with all of the settings and figuring out what is most useful. For a starting caller, it is often very useful to click the composition and then the “Blue Line” section of the composition, so you can get a good sense of what all the bells do through the composition (and maybe remind yourself of where the calling positions come!)
 
-Short & Sweet: Touches of Plain Bob Collection: [https://complib.org/collection/10903](https://complib.org/collection/10903)
+* [Short & Sweet: Touches of Plain Bob Collection](https://complib.org/collection/10903)
 
 
-## **Exercises**
+## Exercises
 
-**Click This**
+### Click this
 
 I really recommend creating an account and exploring around [complib.org](https://complib.org/). Another resource I use very frequently is [ringing.org](https://ringing.org/), an excellent curated collection compiled and maintained by Don Morrison. I find that [ringing.org](https://ringing.org/) is easier to navigate and has a more curated collection, whereas [complib.org](https://complib.org/) has more (and more complex) features but less curation. I use both frequently, though often for different things. For handbell ringers, I particularly recommend Don Morrison’s site as it frequently annotates which compositions are particularly suitable for handbells. You can simply navigate to a page of compositions and ctrl+F for “handbells” to see what I mean.
 
-**Read this**
+### Read This
 
 Want to know more about calling from a lighter bell? Try “The Lightweight Conductor” series, published in the _Ringing World_ in 2017/2018 in the Education Column, or try my own article “Everything you _don’t_ need to know” (issue 5716, 13 Nov 2020) which discusses one of the touches taught above.
 
-**Call This**
+### Call This
 
 Try calling one of the above touches!
 
-**Find This**
+### Find This
 
 Can you find another touch that uses only Wrong and Home for calling positions? It can be any method or any stage. In addition to online resources, try the _Ringing World Diary_!
 
@@ -70,5 +71,5 @@ Can you find another touch that uses only Wrong and Home for calling positions? 
      These combination calls are some of the most treacherous territory for any conductor. A lot is changing, all at once, and it can be all-too-easy to lose your concentration (and the coursing order, or the part end, or…) amidst the chaos. So give yourself as many sign-posts as you can!
 
 [^3]:
-     Technically, you only need 10.5 extents of Plain Bob Doubles to make a quarter peal. However, you’d have to use a different composition for the half extent. :) 
+     Technically, you only need 10.5 extents of Plain Bob Doubles to make a quarter peal. However, you’d have to use a different composition for the half extent! 
 

@@ -5,7 +5,7 @@ title: Finding Your Voice
 
 # Finding your voice: Putting the calls in
 
-Now it’s time to start building up skills to help you learn to call your first touch. Now that you’ve got some terminology floating around your head, let’s put it to practical use and think about where and how to put the bobs in. 
+Now that you’ve got some terminology floating around your head, it’s time to start building up skills to help you learn to call your first touch. Let’s put your knowledge to practical use and think about where and how to put the bobs in. 
 
 By the end of this submodule, you should be able to:
 
@@ -18,7 +18,7 @@ In addition, you will be given some exercises to try out in your tower or with y
 
 Just a bit of a review from last time. You’ll remember that in the first submodule we reviewed the definition of a **_lead_**. There is not wide agreement on _exactly_ where a lead begins and ends, and _exactly_ which changes are contained in a lead, though there are two common groups of thought (and many more groups of thought that are less common!). The important thing to know is that there is a **lead head** and a **lead end** associated with each lead, and the term **lead end** may also refer to the _change_ (not the _row_) at the end of the lead; in this case, it may be thought of as being an abbreviation of the term **lead end change**, though I think very few people consciously think of it as an abbreviation. **Lead end** may also refer to both _rows_ at the end of the lead (in other words, it may refer also to the lead head of the following lead). 
 
-However, in the ringing chamber, it is relatively unusual to hear the words **lead head** shouted (unless ringers are somewhat heatedly discussing a composition in advance of starting ringing!). As a general rule: If you’re thinking about composing, you will likely want to remember the exact distinction between lead heads and lead ends. If you’re thinking about conducting, likely you will ignore the fine distinctions and think about the more general, broad use of the term **lead end**. As this publication has the teaching of calling and conducting as its primary aim, I will use the broad sense of **lead end** throughout, only referring to lead heads where it would otherwise be confusing to the reader.
+However, in the ringing chamber, it is relatively unusual to hear the words **lead head** shouted (unless ringers are somewhat heatedly discussing a composition in advance of starting ringing!). As a general rule: If you’re thinking about composing, you will likely want to remember the exact distinction between lead heads and lead ends. If you’re thinking about conducting, likely you will ignore the fine distinctions and think about the more general, broad use of the term **lead end** to mean the last two rows in a lead and the change between them. As this publication has the teaching of calling and conducting as its primary aim, I will use the broad sense of **lead end** throughout, only referring to lead heads where it would otherwise be confusing to the reader.
 
 ## Where to put the calls in
 
@@ -28,15 +28,15 @@ The diagram on the right shows, visually, where the calls might go in a short to
 
 {{< figure src="pb5.png" class="float-right" >}}
 
-**Go, next time!** This call tells your band to stop ringing rounds and start ringing the method. Some people will exclusively say “Go, next time!” but others include the method name and would say something like “Go, Plain Bob Minor!”. Either is fine. Using the latter convention is particularly helpful if there was any confusion about which method or stage was going to be rung before ringing started (e.g., if there was a kerfuffle over whether to ring minor or doubles). Others will choose to include different information such as “Go, next handstroke!” or “Go, Double Norwich at next backstroke!”, especially if there is an unusual start for a date touch or something. You can use your judgement and when in doubt, “Go, [method here]” is a safe bet. 
+**Go, next time!** This call tells your band to stop ringing rounds and start ringing the method. Some people will exclusively say “Go, next time!” but others include the method name and would say something like “Go, Plain Bob Doubles!”. Either is fine. Using the latter convention is particularly helpful if there was any confusion about which method or stage was going to be rung before ringing started (e.g., if there was a kerfuffle over whether to ring minor or doubles). Others will choose to include different information such as “Go, next handstroke!” or “Go, Double Norwich at next backstroke!”, especially if there is an unusual start for a date touch or something. You can use your judgement and when in doubt, “Go, [method here]” is a safe bet. 
 
 The **Go** call is often made right before (or right as) the treble is leading at handstroke. Then the band has a handstroke and a backstroke to prepare to start moving around. However, on higher stages (or on heavier peals of bells), the call is often made a little later so as not to confuse the back bells, who are often finishing a backstroke as the treble starts the handstroke of the next row. I suggest watching what the other callers in your tower do, and see how it affects the start of the method. After a while watching, you’ll be able to get a sense for where to put this call to make it effective. When you go visiting, if you’re asked to call it’s wise to take a moment to think through how the differences in the bells may affect how you call. Louder bells or quieter voices, for example, may persuade you to make calls in the gaps between rows so that you can be heard sufficiently well.
 
-**Bob!** Or **Single!** or .... This call tells your band that it’s time to change the pattern a little bit. In most methods, this call is made right before the row where the treble’s backstroke will be in 2; that is, a whole pull before the call will take effect. Sometimes the call can be made a little later. For example, a handbell caller may make the call in the middle of the row where the treble’s backstroke is in 2, since there is no need to give the heavy bells quite as much time to maneuver. 
+**Bob!** or **Single!** This call tells your band that it’s time to change the pattern a little bit. In most methods, this call is made right before the row where the treble’s backstroke will be in 2; that is, a whole pull before the call will take effect. Sometimes the call can be made a little later. For example, a handbell caller may make the call in the middle of the row where the treble’s backstroke is in 2, since there is no need to give the heavy bells quite as much time to maneuver.
 
 **This will be all!** or **That’s all!** This call (and variants thereof) tells your band to stop ringing the method and start ringing rounds again. This call has perhaps the most wiggle-room in terms of where to put it! If the touch is about to come round at a backstroke, some callers will say “That’s all!” right before the treble’s _handstroke_ in 1 in the previous row, though this author typically makes the call later than that. Other callers will announce the coming rounds at the middle or end of the row where the treble’s handstroke was in 1. In other situations, especially if the touch is about to come round at handstroke, callers will announce “That’s all!” in the gap right before the bells come into rounds. In handbells, this call is not infrequently made as late as in the middle of the rounds themselves! When you are first learning to call, you are likely going to be calling a touch that comes round at backstroke. If you resolve to say “This will be all!” right before the treble’s handstroke in 1, even if you are a little late it will likely be fine. 
 
-**Stand next** or **Stand** or...: This call lets the ringers know it’s time to set their bells. “Stand!” is often said at a similar point in the rounds to when “Go, next time!” is said, and for similar reasons; you need to give the back bells enough warning to prepare to set their bells, but not confuse anyone by calling it too early. 
+**Stand next** or **Stand** This call lets the ringers know it’s time to set their bells. “Stand!” is often said at a similar point in the rounds to when “Go, next time!” is said, and for similar reasons; you need to give the back bells enough warning to prepare to set their bells, but not confuse anyone by calling it too early. 
 
 ## Tips for speaking clearly
 
@@ -50,11 +50,11 @@ Calls often go in a whole pull in advance, but there can be considerable variati
 
 ## Exercises and Activities
 
-This submodule also comes with a variety of exercises that can be tried at home or with other ringers.
+This section also comes with a variety of exercises that can be tried at home or with other ringers.
 
 ### Watch this
 
-Watch this touch of Plain Bob Doubles and then answer the questions. This quiz will test your listening and ropesight skills as you watch the conductor put the calls in the correct place. ([https://www.youtube.com/watch?v=TQjfYuEqKIs](https://www.youtube.com/watch?v=TQjfYuEqKIs)) [n.b. I haven’t gotten permission yet to use this clip -- believed to belong to Lizzie Colliss.]
+Watch [this touch](https://www.youtube.com/watch?v=TQjfYuEqKIs) of Plain Bob Doubles and then answer the questions. The quiz will test your listening and ropesight skills as you watch the conductor put the calls in the correct place. [n.b. I haven’t gotten permission yet to use this clip -- believed to belong to Lizzie Colliss.]
 
 {{< question id="1_2001" >}}
 {{< question id="1_2002" >}}
@@ -63,16 +63,12 @@ Watch this touch of Plain Bob Doubles and then answer the questions. This quiz w
 
 ### Troubleshoot this 
 
-A caller has called a touch of Little Bob Minor (ok, I admit -- it was me). Because of the coronavirus lockdown, I had to call it in Ringing Room, but no matter --- the touch came round and I’m happy to share the video with you to get some feedback. However, I didn’t do a perfect job! What feedback do you have about the timing of my calls? [https://youtu.be/sRclOAUGH10](https://youtu.be/sRclOAUGH10) [n.b. This movie I made myself, so I definitely have permission to use it :) ]
+A caller has called a touch of Little Bob Minor (ok --- it was me). Because of the coronavirus lockdown, I had to call it in Ringing Room, but the touch came round and I’m happy to share the video with you to get some feedback. However, I didn’t do a perfect job! What feedback do you have about the timing of my calls? [https://youtu.be/sRclOAUGH10](https://youtu.be/sRclOAUGH10)
 
 {{< question id="1_2004" >}}
 {{< question id="1_2005" >}}
 {{< question id="1_2006" >}}
 {{< question id="1_2007" >}}
-
-### Label this
-
-This diagram of St Clement’s Bob Major shows a short touch. Label the diagram where the caller should make the calls! n.b. Would have empty dialog/input boxes nearby (n.b. Diagram moved to bottom of this document so you can read all the text in one place)
 
 ### Try this
 
