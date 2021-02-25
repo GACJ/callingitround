@@ -208,5 +208,90 @@
                 "correct": "yes"
             }
         }
+    },
+    "1_demyst1": {
+        "question": "If I make a call at In (I), the tenor will run out at the lead end.", 
+        "possible_answers": {
+            "a": {
+                "label": "True",
+                "response": "Review the definitions of calling positions above.",
+                "correct": ""
+            },
+            "b": {
+                "label": "False",
+                "response": "That's right. The tenor will run in at the lead end if you make a call at In (I).",
+                "correct": "yes"
+            }
+        }
+    },
+    "1_demyst2": {
+        "question": "If I make a call at Wrong (W), the tenor will be in 6ths place after the dodge.", 
+        "possible_answers": {
+            "a": {
+                "label": "True",
+                "response": "What happens at a Home (H)? How is this different to a Wrong (W)?",
+                "correct": ""
+            },
+            "b": {
+                "label": "False",
+                "response": "That's right. The tenor will be in 6ths place before the dodge, but will wind up in 5ths place.",
+                "correct": "yes"
+            }
+        }
+    },
+    "1_demyst3": {
+        "question": "If I make a call at Fourths (F), the tenor will make the bob.", 
+        "possible_answers": {
+            "a": {
+                "label": "True",
+                "response": "Yes!",
+                "correct": "yes"
+            },
+            "b": {
+                "label": "False",
+                "response": "Review the definition of Fourths (F).",
+                "correct": ""
+            }
+        }
+    },
+    "1_demyst4": {
+        "question": "How many calling positions are there in Plain Bob Minor?", 
+        "possible_answers": {
+            "a": {
+                "label": "4",
+                "response": "Try taking a look at the blue line above. How many different positions in the blue line are there to make a call?",
+                "correct": ""
+            },
+            "b": {
+                "label": "5",
+                "response": "That's right.",
+                "correct": "yes"
+            },
+            "c": {
+                "label": "6",
+                "response": "Not quite. Can you list all of the calling positions for Plain Bob Minor?",
+                "correct": ""
+            }
+        }
+    },
+    "1_demyst5": {
+        "question": "How many calling positions are there in Plain Bob Doubles?", 
+        "possible_answers": {
+            "a": {
+                "label": "4",
+                "response": "That's right!",
+                "correct": "yes"
+            },
+            "b": {
+                "label": "5",
+                "response": "How many place bells are there for Plain Bob Doubles? Can there be more calling positions than place bells?",
+                "correct": ""
+            },
+            "c": {
+                "label": "6",
+                "response": "Try writing out all of the calling positions for Plain Bob Doubles.",
+                "correct": ""
+            }
+        }
     }
 }

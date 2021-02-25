@@ -7,7 +7,7 @@ title: A Short Touch
 
 In this section, we’ll be covering some short and simple touches you can use for practice. This section will focus on touches that are short enough that it is practical to discuss which call is made at each lead, leaving discussions of “calling positions” (such as In, Wrong, or Make) for a later submodule.
 
-**Terminology**
+## Terminology
 
 Here we’ll be learning about calling using very simple **compositions** which are limited to a single method and a small number of calls. A **touch** is simply the result of a composition being rung. Today we’ll discuss **short touches**, which are shorter than a quarter peal in length (less than 1250 changes), but our focus will be on _very_ short touches that are easy to memorize and practice.
 
@@ -21,7 +21,7 @@ So, what makes a touch a touch, and why can’t you just call bob at random time
 
 Are the above guidelines set in stone? No, they are not, and people do sometimes ignore them for a variety of reasons. Some people don’t bother ensuring the truth or musicality of every practice night touch as long as it’s useful for some other pedagogical purpose. Starting a composition from a place other than rounds can also be a useful pedagogical tool. However, most of the time, most callers and conductors keep to true, musical compositions that start and end with rounds; so I’ll give you a few of those here to practice with.
 
-**A first touch**
+## A first touch
 
 In my experience, it is traditional for a ringer’s first experience calling to happen as an immediate consequence of some tower captain saying something like: “Well, have you ever called a touch? I know a simple one of bob doubles, _it’s just_…” 
 
@@ -61,7 +61,7 @@ I really like this touch as a first touch, and let me tell you why.
 
 Compositions like this, where you make the call ‘bob’ at every lead, are called **bob courses**. A **bob course** can also be a touch that is the same length as the plain course, but has bob and plain leads in it. Many of the simple touches I’ll present below are bob courses!
 
-**Several more short practice night touches**
+## Several more short practice night touches
 
 These practice night touches were chosen for being short (so that they can be put in notation that is easy-to-read) and for being true in commonly-rung methods. For each touch in this table, I put the method, the number of rows, the composition, and some notes. Calling from the treble is appropriate for every touch; calling from an inside bell will be easier for some touches than others, and this fact is noted where appropriate.
 
