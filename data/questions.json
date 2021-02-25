@@ -59,6 +59,21 @@
             }
         }
     },
+    "1_1004": {
+        "question": "True or False: The rounds lead head (123456) is contained in the first lead of Plain Bob Minor.",
+        "possible_answers": {
+            "a": {
+                "label": "True",
+                "response": "Many people believe that the rounds lead head is contained within the first lead of the method. However, bear in mind that others do not.",
+                "correct": "yes"
+            },
+            "b": {
+                "label": "False", 
+                "response": "Many people believe that the rounds lead head is not contained within the first lead of the method. However, bear in mind that others do think it is.",
+                "correct": "yes"
+            }
+        }
+    },
     "1_2001": {
         "question": "What calls were used in this touch?",
         "possible_answers": {
