@@ -25,8 +25,8 @@ Although I tried to give as much information as I thought expedient (and not mor
 
 ## About the Author
 
-I am an early-career conductor in the Boston, Massachusetts area. I learned to ring in late 2017 and called my first quarter a year later; and that was that! Since then, I've conducted only a modest complement of quarters and peals, and a good number of practice night touches. Many of those have been called from a lighter bell, and through _Calling It Round_ I hope to encourage those who prefer to ring lighter bells to give it a try!
+I am an early-career conductor in the Boston, Massachusetts area. I learned to ring in late 2017 and called my first quarter a year later; and that was that! Since then, I've conducted a modest complement of quarters and peals, and a good number of practice night touches. Many of those have been called from a lighter bell, and through _Calling It Round_ I hope to encourage those who prefer to ring lighter bells to give calling a try!
 
 ## About the Publication
 
-I can't claim to be a preeminent expert on conducting, but I _have_ trod the path of the beginning conductor very recently and remember what it was like trying to cobble together all of this advice from various sources, whether in the pub, through a book, or online. This publication therefore represents a collection of wisdom I've received and found useful, or tricks I've thought of and want to share. It's by no means a comprehensive resource, but I hope it represents a useful jumping-off-point for those who are interested.
+I can't claim to be a preeminent expert on conducting, but I _have_ trod the path of the beginning conductor very recently and remember what it was like trying to cobble together all of this advice from various sources, whether in the pub, through a book, or online. This publication therefore represents a collection of wisdom I've received and found useful, or tricks I've thought of and want to share. It's by no means a comprehensive resource, but I hope it is a useful jumping-off-point for those who are interested.

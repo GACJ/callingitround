@@ -1,6 +1,6 @@
 {
-  "name": "[title here]",
-  "short_name": "[title here]",
+  "name": "Calling It Round",
+  "short_name": "Calling It Round",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",

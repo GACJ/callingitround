@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Calling It Round</title>
-    <link>https://ebook.brynmarie.com/</link>
+    <link>https://ebook.brynmarie.com/docs/calling/</link>
     <description>Recent content on Calling It Round</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://ebook.brynmarie.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://ebook.brynmarie.com/docs/calling/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Basic Terminology</title>
       <link>https://ebook.brynmarie.com/docs/calling/basic_terminology/</link>
@@ -13,15 +13,6 @@
       
       <guid>https://ebook.brynmarie.com/docs/calling/basic_terminology/</guid>
       <description>Basic Terminology #  English change ringing has a rich history spanning hundreds of years; it’s little wonder we’ve managed to create a language all our own. Calling It Round assumes you have a certain amount of knowledge about change ringing terminology already. For example, by this time in your ringing development, you will be familiar with quite a lot of ringing terminology. “Look to” makes your ears perk up, you might have a favorite “method,” and you might already have rung a “quarter peal” (and if you haven’t already &amp;ndash; you know what it is!</description>
-    </item>
-    
-    <item>
-      <title>Less Common Calling Positions</title>
-      <link>https://ebook.brynmarie.com/docs/conducting_part_a/less_common_calling_positions/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ebook.brynmarie.com/docs/conducting_part_a/less_common_calling_positions/</guid>
-      <description>Less Common Calling Positions #  You’ve made it! Welcome to the start of Learning to Conduct, Part A. From here, we’ll start getting into the nitty-gritty of using and building upon the calling skills that you’ve already developed. By the end of this module, you will have learned about conducting quarter peals from around the circle, and about how to “put it right” without the use of coursing orders. So if you’re not quite sure what a coursing order is, but you’ve called a touch or two and want to learn more &amp;mdash; this is the place for you!</description>
     </item>
     
     <item>
@@ -36,15 +27,6 @@ By the end of this submodule, you should be able to:
     </item>
     
     <item>
-      <title>Reading and Learning Quarter-Length Compositions (or Longer)</title>
-      <link>https://ebook.brynmarie.com/docs/conducting_part_a/reading_and_learning_quarter/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ebook.brynmarie.com/docs/conducting_part_a/reading_and_learning_quarter/</guid>
-      <description>Reading and learning quarter-length compositions (or longer) #  value of part ends, learning structure</description>
-    </item>
-    
-    <item>
       <title>A Short Touch</title>
       <link>https://ebook.brynmarie.com/docs/calling/a_short_touch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -55,39 +37,12 @@ Terminology #  Here we’ll be learning about calling using very simple composit
     </item>
     
     <item>
-      <title>Conducting from the observation bell</title>
-      <link>https://ebook.brynmarie.com/docs/conducting_part_a/observation_bell/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ebook.brynmarie.com/docs/conducting_part_a/observation_bell/</guid>
-      <description>Conducting from: the observation bell #  </description>
-    </item>
-    
-    <item>
-      <title>Conducting from the treble</title>
-      <link>https://ebook.brynmarie.com/docs/conducting_part_a/treble/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ebook.brynmarie.com/docs/conducting_part_a/treble/</guid>
-      <description>Conducting from the treble #  </description>
-    </item>
-    
-    <item>
       <title>Demystifying &#34;In, Out, Make&#34;</title>
       <link>https://ebook.brynmarie.com/docs/calling/demystifying_wrong_home_wrong/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ebook.brynmarie.com/docs/calling/demystifying_wrong_home_wrong/</guid>
       <description>Demystifying “In, Out, Make”: The most common calling positions #  In this section, we’ll start to build the vocabulary and skills you’ll need to call longer and more complicated touches. When touches are longer than a few leads, it quickly becomes tiresome to memorize a long series of “plain, bob, bob, plain, bob, plain…”. To fix that problem, callers and conductors often use calling positions to help them remember where to put in the calls.</description>
-    </item>
-    
-    <item>
-      <title>Conducting from a non-observation working bell</title>
-      <link>https://ebook.brynmarie.com/docs/conducting_part_a/nonobservation_working_bell/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ebook.brynmarie.com/docs/conducting_part_a/nonobservation_working_bell/</guid>
-      <description>Conducting from a non-observation working bell #  Rotating the composition, picking a fixed bell that isn&amp;rsquo;t technically &amp;ldquo;observation,&amp;rdquo; watching the observation bell as hard mode&amp;hellip; some would argue just easier to look at coursing orders but&amp;hellip;</description>
     </item>
     
     <item>
@@ -101,30 +56,12 @@ Wrong Home, Wrong Home #   The first touch we’ll go over is a great one for pr
     </item>
     
     <item>
-      <title>Conducting from a handbell pair</title>
-      <link>https://ebook.brynmarie.com/docs/conducting_part_a/handbell_pair/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ebook.brynmarie.com/docs/conducting_part_a/handbell_pair/</guid>
-      <description>Conducting from a handbell pair #  fixed pair or not (not all fixed pairs are made equal) trebles vs tenors vs other inside bells</description>
-    </item>
-    
-    <item>
       <title>Handbell-Specific Guidance</title>
       <link>https://ebook.brynmarie.com/docs/calling/handbell_guidance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ebook.brynmarie.com/docs/calling/handbell_guidance/</guid>
       <description>Handbell-specific guidance #  Much of the information in Calling It Round applies equally well to tower bell ringers and handbell ringers. However, there are some special tricks that are mostly suitable for handbell ringers that I think will be useful for you as you make a start at calling. Some of these tips may not be useful right away, and this will likely vary ringer to ringer; so take what&amp;rsquo;s useful and leave the rest!</description>
-    </item>
-    
-    <item>
-      <title>Putting it right</title>
-      <link>https://ebook.brynmarie.com/docs/conducting_part_a/putting_it_right_no_co/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ebook.brynmarie.com/docs/conducting_part_a/putting_it_right_no_co/</guid>
-      <description>Putting it right (without the use of coursing orders) #  Local/structural conducting &amp;ndash; correcting ringing by method structure or using social+physical cues (link Simon&amp;rsquo;s blog)</description>
     </item>
     
   </channel>
