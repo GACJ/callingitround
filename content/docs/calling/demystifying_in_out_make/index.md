@@ -20,7 +20,7 @@ In a tiny font off to the right hand side of each lead, you can see letters poin
 A **calling position** is a position in the blue line (of the observation bell) where a call may be made.[^1] You can see that the hyphen next to the letter indicates the position in the row where the call would be made; it would then be executed at the treble’s lead. For convenience, many methods and principles have _named_ calling positions. In the image above, five of these named calling positions are labelled: Wrong (W), Fourths (F), Before (B), In (I), and Home (H). In this section, I will always spell out the whole name, but give the common abbreviation in parentheses after. The calling positions in the diagram refer to the position that the observation bell (here, the tenor) _would be in_ if a call were to be made. This fact can feel a bit unintuitive, because the plain course is written out such that there is a plain at every lead, but the calling positions refer to what _would_ happen if a call were made. Let’s work our way through those calling positions with that in mind:
 
 
-**Calling Positions** | **Abbr** | **Definition (with tenor as observation bell)** 
+**Calling Position(s)** | **Abbr** | **Definition (with tenor as observation bell)** 
 ----- | ----- | ----- |
 Home | H | This calling position is the one where the tenor ends up at home (the 6th bell ending up in 6th place) at the lead end if a call is made.
 In | I | This calling position is the one where the tenor would end up running in if a call were made. 

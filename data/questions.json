@@ -293,5 +293,45 @@
                 "correct": ""
             }
         }
+    },
+    "2_less1": {
+        "question": "The tenor will be 6ths place bell at the lead end after the dodge. What is this calling position called?", 
+        "possible_answers": {
+            "a": {
+                "label": "Wrong",
+                "response": "Not quite. Try checking the diagram at the top again.",
+                "correct": ""
+            },
+            "b": {
+                "label": "Before",
+                "response": "Was the tenor coursing before the treble?",
+                "correct": ""
+            },
+            "c": {
+                "label": "Middle",
+                "response": "That's right! It's Plain Bob Major, and 8 take away 2 is 6, so the Middle is when the tenor is becoming 6ths place bell.",
+                "correct": "yes"
+            }
+        }
+    },
+    "2_less2": {
+        "question": "A bob is called at the Before calling position. What does the tenor do?", 
+        "possible_answers": {
+            "a": {
+                "label": "Run in",
+                "response": "the tenor was coursing before the treble, not after.",
+                "correct": ""
+            },
+            "b": {
+                "label": "Run out",
+                "response": "That's right!",
+                "correct": "yes"
+            },
+            "c": {
+                "label": "Make",
+                "response": "Not quite. Try checking the diagram at the top again.",
+                "correct": ""
+            }
+        }
     }
 }
