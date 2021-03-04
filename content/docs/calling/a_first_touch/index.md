@@ -1,9 +1,9 @@
 ---
 weight: 3 
-title: A Short Touch
+title: A First Touch
 ---
 
-# A short touch of… : Some simple touches for practice
+# A first touch: Some simple touches for practice
 
 In this section, we’ll be covering some short and simple touches you can use for practice. This section will focus on touches that are short enough that it is practical to discuss which call is made at each lead, leaving discussions of “calling positions” (such as In, Wrong, or Make) for a later submodule.
 

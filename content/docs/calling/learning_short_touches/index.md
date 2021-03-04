@@ -1,6 +1,6 @@
 ---
 weight: 5
-title: Reading and Learning Short Touches
+title: Learning Short Touches
 ---
 
 # Reading and learning short touches using the most common calling positions 

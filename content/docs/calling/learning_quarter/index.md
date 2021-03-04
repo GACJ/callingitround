@@ -1,6 +1,6 @@
 ---
-weight: 1
-title: Reading and Learning Quarter-Length Compositions (or Longer)
+weight: 8 
+title: Learning Quarter-Length Compositions (or Longer)
 ---
 
 You’ve made it! Welcome to the start of Learning to Conduct, Part A. From here, we’ll start getting into the nitty-gritty of using and building upon the calling skills that you’ve already developed. By the end of this chapter, you will have learned about conducting quarter peals from around the circle, and about how to “put it right” without the use of coursing orders. So if you’re not quite sure what a coursing order is, but you’ve called a touch or two and want to learn more --- this is the place for you!
