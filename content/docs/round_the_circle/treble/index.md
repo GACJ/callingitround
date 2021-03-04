@@ -1,5 +1,5 @@
 ---
-weight: 4
+weight: 3
 title: Conducting from the treble
 ---
 

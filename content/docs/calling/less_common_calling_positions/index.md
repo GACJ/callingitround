@@ -1,13 +1,11 @@
 ---
-weight: 1
+weight: 7 
 title: Less Common Calling Positions
 ---
 
 # Less Common Calling Positions
 
-You’ve made it! Welcome to the start of Learning to Conduct, Part A. From here, we’ll start getting into the nitty-gritty of using and building upon the calling skills that you’ve already developed. By the end of this section, you will have learned about conducting quarter peals from around the circle, and about how to “put it right” without the use of coursing orders. So if you’re not quite sure what a coursing order is, but you’ve called a touch or two and want to learn more --- this is the place for you!
-
-As we discussed in the previous section, you can do a lot with a little; knowing only a few calling positions can enable you to call a good number of touches. However, to unlock the rest of the huge treasure trove of compositions that exist, it’s necessary to know just a few more things to get started. In this subsection, we’ll cover:
+As we discussed in the previous section, you can do a lot with a little; knowing only a few calling positions can enable you to call a good number of touches. However, to unlock the rest of the huge treasure trove of compositions that exist, it’s necessary to know just a few more things. In this subsection, we’ll cover:
 
 
 1. A few more common calling positions (enough to get you through a majority of commonly-called compositions)
@@ -78,11 +76,11 @@ Maybe in the modern age this is a bit old-fashioned. After all, what are iPads f
 
 Graham John's [Composition Library](https://www.complib.org) is a huge boon for ringers everywhere, and it is an especially invaluable resource for the conductor (at any stage of their development!). If you've got a new composition you'd like to figure out, try finding it on complib (or, try inputting it yourself!). Here is a link to [W3BMH](https://complib.org/composition/11243). Click the gear button to adjust viewing settings. Do you like to view it by courses or by leads? 
 
-Of particular use, I think, is the "Blue Line" section, which can be expanded by clicking on the words "Blue Line". There, you can see each of the rows in the touch, written out, with a marking by where the calls ought to go. Note that the calls are written next to the row of the treble's handstroke lead, and are written on the left-hand side rather than the right as in the image of Plain Bob Major above; this is just down to different people preferring different conventions. There is no standardization on this matter so a certain amount of flexibility in seeing different notations is required.
+Of particular use, I think, is the "Blue Line" section, which can be expanded by clicking on the words "Blue Line" in the CompLib page. There, you can see each of the rows in the touch, written out, with a marking by where the calls ought to go. Note that the calls are written next to the row of the treble's handstroke lead, and are written on the left-hand side rather than the right as in the image of Plain Bob Major above; this is just down to different people preferring different conventions.
 
 {{< figure src="blueline.png" caption="The blue line view (from [Composition Library](https://www.complib.org))" >}}
 
-The blue line layout is very useful for this touch. It can warn you that the 3 calls at Before all line up right next to each other! Since the tenor runs out at each call, it repeats the lead it just did and is ready to run out again at the very next lead end. The call at Middle is just before the call at Home, and the "That's all!" comes just as the final bob is executed! So there's a lot happening at once. But it's a beautiful touch, very musical and reasonably short, and great practice for these four common calling positions.
+The blue line layout is very useful for this touch. It can warn you that the 3 calls at Before all line up right next to each other! Since the tenor runs out at each call, it repeats the lead it just rang and is ready to run out again at the very next lead end. The call at Middle is just before the call at Home, and the "That's all!" comes just as the final bob is executed! So there's a lot happening at once. But it's a beautiful touch, very musical and reasonably short, and great practice for these four common calling positions.
 
 
 ### Strategy 3: Give It A Go
@@ -93,11 +91,11 @@ Sometimes, there's nothing for it but to give it a go. See if you can input the 
 
 You've learned most of the major (ha) calling positions! This is no minor (ha) feat. But of course, there are dozens more calling positions; how is anybody supposed to keep track?
 
-If you are needing to learn a new calling position, it's likely because you have found or have been given a composition to learn that has a new-to-you calling position in it. Depending on how it is notated, it may or may not be obvious to see where the observation bell is in the lead head after the call is made. However, you have a few options for recourse: you can ask a band member or mentor, or you can look up the calling positions either in John Harrison's [Glossary](http://jaharrison.me.uk/Ringing/Glossary/index.html#top) or on [Composition Library in the Help at the very bottom](https://complib.org/help). Other print resources may exist as well, but I'm not aware of print resources that have in-depth explanations of calling positions not already covered in _Calling It Round_.
+If you are needing to learn a new calling position, it's likely because you have found or have been given a composition to learn that has a new-to-you calling position in it. Depending on how it is notated, it may or may not be obvious to see where the observation bell is in the lead head after the call is made. However, you have a few options for recourse: you can ask a band member or mentor, or you can look up the calling positions either in John Harrison's [Glossary](http://jaharrison.me.uk/Ringing/Glossary/index.html#top) or on [Composition Library in the Help at the very bottom](https://complib.org/help). Other resources may exist as well; please contact me if you'd like them linked here.
 
 ## Exercises
 
-### Quiz this
+### Answer this
 
 For the questions below, assume Plain Bob Major with the tenor as observation bell unless otherwise specified.
 

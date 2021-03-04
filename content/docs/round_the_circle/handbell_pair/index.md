@@ -1,6 +1,6 @@
 ---
-weight: 6
 title: Conducting from a handbell pair
+weight: 6
 ---
 
 # Conducting from a handbell pair
