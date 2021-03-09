@@ -3,7 +3,7 @@ title: Choosing Your Touch
 weight: 1
 ---
 
-# Choosing your touch
+# Choosing Your Touch
 
 Regardless of whether you are newly learning to call and conduct or whether you've already called 1000 peals of Surprise Royal, there will be times when you need to pick a touch for a practice night, or pick a quarter peal or peal composition. If you're very experienced, you've likely already got a "feel" for which compositions you prefer in style, but if you're just starting out, it's not unusual to feel a bit adrift in the huge variety of compositions available. Composition Library alone has over 43,000 compositions at the time of writing, and other collections of compositions may similarly number in the thousands (though they are less easy for this writer to quantify).
 

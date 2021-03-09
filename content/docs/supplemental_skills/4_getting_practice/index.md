@@ -3,7 +3,7 @@ title: Getting Practice
 weight: 4
 ---
 
-# Getting practice
+# Getting Practice
 
 A lot of this chapter on Supplemental Skills has been devoted to the growth and development of the band through the actions of the caller or conductor; that is, watching out for getting the right type of touch, placing your band just so, and giving guidance in a kind and sensitive manner while also being effective.
 

@@ -3,7 +3,7 @@ title: Placing Your Band
 weight: 2
 ---
 
-# Placing your band
+# Placing Your Band
 
 Band placement is, I think, one of the trickier things that callers and conductors do (other than conducting!). Not everyone chooses to place bands, for a variety of reasons, but many callers and conductors do choose to, especially for quarter peal and peal attempts. 
 
