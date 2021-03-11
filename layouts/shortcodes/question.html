@@ -5,13 +5,16 @@
                        new_text,
                        correct) {
     let label = document.getElementById(lab_id);
-    let old_text = label.innerText
-    label.innerText = old_text + " — " + new_text;
-    console.log(typeof correct)
-    if (correct) {
-      label.style.color = "blue"
-    } else {
-      label.style.color = "red"
+    if (!label.style.color) {
+      let old_text = label.innerText;
+      label.innerText = old_text + " — " + new_text;
+      console.log(typeof correct);
+    
+      if (correct) {
+        label.style.color = "blue"
+      } else {
+        label.style.color = "red"
+      }
     }
   }
 </script>

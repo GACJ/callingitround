@@ -1,0 +1,33 @@
+<script type="text/javascript">
+  function checkAnswer(id,
+  			           answer) {
+    answerLabel = document.getElementById('label'+id);
+	inp = document.getElementById(id).value;
+	console.log(inp)
+	if (inp === answer) {
+		answerLabel.innerText = "That's right!";
+		answerLabel.style.color = "blue";
+	} else {
+		answerLabel.innerText = "Not quite right...";
+		answerLabel.style.color = "red";
+	}
+  }
+</script>
+
+{{ $id := .Get "id" }}
+{{ $answer := .Get "answer" }}
+{{ $title := .Get "title" }}
+{{ $lab := .Get "label" }}
+<form accept-charset="UTF-8" type="number" onsubmit="checkAnswer('{{ $id }}',
+'{{ $answer }}'); return false;"><fieldset>
+        <legend>{{ $title | default "Exercise" }}</legend>
+        {{ .Inner }}
+        <p>
+          <label>{{ $lab | default "Coursing Order" }}</label>
+          <input type="text" id="{{ $id }}" pattern="[0-9]+?">
+          <button onsubmit="return false;">Submit</button>
+        </p>
+        <p>
+        	<label id="label{{ $id }}"></label>
+        </p>
+</fieldset></form>

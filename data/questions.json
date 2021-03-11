@@ -333,5 +333,85 @@
                 "correct": ""
             }
         }
+    },
+    "2_co1": {
+        "question": "When the 4 is hunting up, what bells does it pass, and in what order? Try writing it out yourself before looking at the possible answers below.", 
+        "possible_answers": {
+            "a": {
+                "label": "2468753",
+                "response": "Does the 4 pass itself? It seems you may have put down the same answer as was right for the treble.",
+                "correct": ""
+            },
+            "b": {
+                "label": "1357268",
+                "response": "Try following the path of the 4 as it hunts up. It doesn't cross the treble first; what does it cross first instead?",
+                "correct": ""
+            },
+            "c": {
+                "label": "6875312",
+                "response": "That's right!",
+                "correct": "yes"
+            }
+        }
+    },
+    "2_co2": {
+        "question": "When the 3 is hunting down, what bells does it pass, and in what order? Try writing it out yourself before looking at the possible answers below.", 
+        "possible_answers": {
+            "a": {
+                "label": "1246875",
+                "response": "That's right!",
+                "correct": "yes"
+            },
+            "b": {
+                "label": "4687512",
+                "response": "This is very close, and it is an acceptable coursing order, but it is not the order in which the 3 passes the bells while hunting down.",
+                "correct": ""
+            },
+            "c": {
+                "label": "2468751",
+                "response": "Not quite!",
+                "correct": ""
+            }
+        }
+    },
+    "2_co3": {
+        "question": "When the 8 is hunting down, what bells does it pass, and in what order? Try writing it out yourself before looking at the possible answers below.", 
+        "possible_answers": {
+            "a": {
+                "label": "2467531",
+                "response": "Not quite; that is a correct coursing order, but is it the order in which the 8 passes bells when the 8 is hunting down?",
+                "correct": ""
+            },
+            "b": {
+                "label": "7531246",
+                "response": "That's right!",
+                "correct": "yes"
+            },
+            "c": {
+                "label": "8642135",
+                "response": "Not quite; the 8 can't pass itself!",
+                "correct": ""
+            }
+        }
+    },
+    "2_co4": {
+        "question": "What's the coursing order from the heaviest bell, for the first lead? Include the treble.", 
+        "possible_answers": {
+            "a": {
+                "label": "13524",
+                "response": "That's Queens (missing out the 6), not the coursing order.",
+                "correct": ""
+            },
+            "b": {
+                "label": "246531",
+                "response": "This is the coursing order from the treble, which is not the heaviest bell.",
+                "correct": ""
+            },
+            "c": {
+                "label": "53124",
+                "response": "That's right!",
+                "correct": "yes"
+            }
+        }
     }
 }
