@@ -24,7 +24,7 @@
         {{ .Inner }}
         <p>
           <label>{{ $lab | default "Coursing Order" }}</label>
-          <input type="text" id="{{ $id }}" pattern="[0-9]+?">
+          <input type="text" id="{{ $id }}" pattern="[0-9]+?|[a-f]">
           <button onsubmit="return false;">Submit</button>
         </p>
         <p>
