@@ -7,7 +7,7 @@ weight: 4
 
 A lot of this chapter on Supplemental Skills has been devoted to the growth and development of the band through the actions of the caller or conductor; that is, watching out for getting the right type of touch, placing your band just so, and giving guidance in a kind and sensitive manner while also being effective.
 
-This section, on "Getting Practice," is about how to effectively advocate for yourself in getting the sorts of practice you will need to become a good conductor. Some people will not struggle with this problem at all; if anything, they will struggle with the opposite problem of over-confidence leading to a lot of very ambitious attempts, very few of which come round! But here we'll focus on the opposite side of the spectrum: perhaps you feel very shy about asking for opportunities, or your local tower leadership are not willing to let you have a go. Here, I'll talk over some different strategies you can use to get practice, regardless of your situation, by focussing on a few potential problems and some solutions to them.
+This section, on "Getting Practice," is about how to effectively advocate for yourself in getting the sorts of practice you will need to become a good conductor. Some people will not struggle with this problem at all; if anything, they will struggle with the opposite problem of over-confidence leading to a lot of very ambitious attempts, very few of which come round! But here we'll focus on the opposite side of the spectrum: perhaps you feel very shy about asking for opportunities, or your local tower leadership are not willing to let you have a go. Here, I'll talk over some different strategies you can use to get practice, regardless of your situation, by focusing on a few potential problems and some solutions to them.
 
 ## Problem: I don't know how to practice.
 
@@ -44,7 +44,7 @@ We have standers-behind all the time in ringing, and conducting is no exception.
 
 This problem is really tough! As one of the co-creators of Ringing Room, I see e-mails about this all the time from ringers --- you are certainly not alone if you feel this way. A common email might go like this:
 
-"I'd really love to use Ringing Room, but I'm so worried about messing up in front of my tower or wasting their time teaching me. Is there any solo practice mode on Ringing Room?"
+"I'd really love to use Ringing Room, but I'm so worried about messing up in front of my tower or wasting their time teaching me. Is there any solo practice mode on Ringing Room?"[^1]
 
 I think a useful first approach is to think about why you feel this way. Is your local tower (or perhaps just one or two local ringers) prone to rudeness when something doesn't go quite right, and have you had poor experiences with trying new things in front of them before? Or do you strongly dislike the feeling of being imperfect in front of others, even if they are perfectly friendly about it?
 
@@ -66,4 +66,8 @@ Having to set up your own opportunities does require extra work. And, for some p
 ---
 
 This set of problems and ideas for solutions is not comprehensive, and not every idea will work for every person. Are you encountering other difficulties in your conducting progress? Or do you have other thoughts on how people might get better practice? Contact me and I may add them to this space. 
+
+# Notes
+
+[^1]: These emails have decreased in frequency since we just released Wheatley, the Ringing Room bot!
 
