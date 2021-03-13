@@ -106,12 +106,20 @@ _Warnings_:
 
 ### Strategy 4: Coursing orders
 
-
+This strategy is, to my estimation, more involved than the above options. It requires you to be able to figure out a way to watch the coursing order from your bell, wherever it may be, and then figure out how you want to change the coursing order and then make _that_ call at the appropriate time. I think this is somewhat beyond the scope of this section, but I wanted to make you aware that this is an option and many of the best conductors I know use it to conduct from anywhere in the circle. 
 
 
 ## Conducting from: a handbell pair
 
-fixed pair or not (not all fixed pairs are made equal) trebles vs tenors vs other inside bells
+I really love conducting in hand. My first ringing experiences were all on handbells --- my first practice, first quarter, first as conductor --- and they hold a special place in my heart. So I'd like to talk about a few things to keep in mind when you're conducting from a handbell pair.
+
+{{< figure src="sted_caters.png" width=250px class="float-right" >}}
+
+One of the first choices you'll have to make is whether to conduct from a fixed pair or not. A fixed pair may not exist if you're ringing Minor! But not all fixed pairs are made equal, and the fixed pair may not always even be the tenors. For example, in this [1296 of Stedman Caters](https://complib.org/composition/22802), the fixed pair is the 5-6. This is not unusual for Stedman, since often it is musical (and compositionally convenient) to rotate the back bells around rather than leaving them fixed.
+
+Taking the trebles can be a fun choice, especially if you can work out a way to make the 2 the observation bell. A composition of this type will be presented in the next section.
+
+If you're particularly interested in conducting for handbells, I recommend also reading the Supplemental Skills section on [Conducting in Hand](../../supplemental_skills/5_conducting_in_hand).
 
 ## Notes
 

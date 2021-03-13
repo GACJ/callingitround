@@ -15,6 +15,8 @@ The skills and techniques you've learn can be applied to nearly any composition,
 
 ## Ringing from a lighter bell
 
+OOOIII (Kent/handbell)
+
 ## Good for practice transposing coursing orders
 
 ## Handbell-friendly
