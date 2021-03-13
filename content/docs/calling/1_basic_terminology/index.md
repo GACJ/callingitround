@@ -7,7 +7,7 @@ title: Basic Terminology
 
 English change ringing has a rich history spanning hundreds of years; it’s little wonder we’ve managed to create a language all our own. _Calling It Round_ assumes you have a certain amount of knowledge about change ringing terminology already. For example, by this time in your ringing development, you will be familiar with quite a lot of ringing terminology. “Look to” makes your ears perk up, you might have a favorite “method,” and you might already have rung a “quarter peal” (and if you haven’t already -- you know what it is!). 
 
-The purpose of this submodule is to introduce you to some basic terminology that is specific to calling and conducting. You may have heard some or all of these words before, but being aware of exact definitions can help you significantly as you progress. Investing early in cementing your knowledge of these terms will help you grow and learn quickly, as well as enabling you to have productive conversations with mentors and fellow learners.
+The purpose of this section is to introduce you to some basic terminology that is specific to calling and conducting. You may have heard some or all of these words before, but being aware of exact definitions can help you significantly as you progress. Investing early in cementing your knowledge of these terms will help you grow and learn quickly, as well as enabling you to have productive conversations with mentors and fellow learners.
 
 
 ## What’s the difference between: a caller and a conductor?
@@ -79,7 +79,7 @@ We will be talking a lot more about lead ends when we discuss where to put calls
 * **[John Harrison's Glossary of ringing terms](http://jaharrison.me.uk/Ringing/Glossary/)**
 * **[CCCBR Framework for Method Ringing](https://cccbr.github.io/method_ringing_framework/fundamentals.html)**
 
-## Test Yourself!
+## Exercises
 
 Try out this quiz to self-assess your grasp of the basics of bobs and singles, which will be assumed in _Calling It Round_. There will also be some questions on terminology. For all the questions below, assume we're discussing Plain Bob Minor.
 

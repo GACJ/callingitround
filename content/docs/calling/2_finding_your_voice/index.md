@@ -3,11 +3,11 @@ weight: 2
 title: Finding Your Voice 
 ---
 
-# Finding your voice: Putting the calls in
+# Finding Your Voice: Calling your first touch
 
-Now that you’ve got some terminology floating around your head, it’s time to start building up skills to help you learn to call your first touch. Let’s put your knowledge to practical use and think about where and how to put the bobs in. 
+Now that you’ve got some terminology floating around your head, it’s time to start building up skills to help you learn to "find your voice" to call your first touch. Let’s put your knowledge to practical use and think about where and how to put the bobs in. 
 
-By the end of this submodule, you should be able to:
+By the end of this section, you should be able to:
 
 *   Explain where, in a lead, the calls should go in;
 *   Listen to and “troubleshoot” a video of a caller who might have put some calls in the wrong places
@@ -16,7 +16,7 @@ In addition, you will be given some exercises to try out in your tower or with y
 
 ## Terminology review
 
-Just a bit of a review from last time. You’ll remember that in the first submodule we reviewed the definition of a **_lead_**. There is not wide agreement on _exactly_ where a lead begins and ends, and _exactly_ which changes are contained in a lead, though there are two common groups of thought (and many more groups of thought that are less common!). The important thing to know is that there is a **lead head** and a **lead end** associated with each lead, and the term **lead end** may also refer to the _change_ (not the _row_) at the end of the lead; in this case, it may be thought of as being an abbreviation of the term **lead end change**, though I think very few people consciously think of it as an abbreviation. **Lead end** may also refer to both _rows_ at the end of the lead (in other words, it may refer also to the lead head of the following lead). 
+Just a bit of a review from last time. You’ll remember that in the first section we reviewed the definition of a **_lead_**. There is not wide agreement on _exactly_ where a lead begins and ends, and _exactly_ which changes are contained in a lead, though there are two common groups of thought (and many more groups of thought that are less common!). The important thing to know is that there is a **lead head** and a **lead end** associated with each lead, and the term **lead end** may also refer to the _change_ (not the _row_) at the end of the lead; in this case, it may be thought of as being an abbreviation of the term **lead end change**, though I think very few people consciously think of it as an abbreviation. **Lead end** may also refer to both _rows_ at the end of the lead (in other words, it may refer also to the lead head of the following lead). 
 
 However, in the ringing chamber, it is relatively unusual to hear the words **lead head** shouted (unless ringers are somewhat heatedly discussing a composition in advance of starting ringing!). As a general rule: If you’re thinking about composing, you will likely want to remember the exact distinction between lead heads and lead ends. If you’re thinking about conducting, likely you will ignore the fine distinctions and think about the more general, broad use of the term **lead end** to mean the last two rows in a lead and the change between them. As this publication has the teaching of calling and conducting as its primary aim, I will use the broad sense of **lead end** throughout, only referring to lead heads where it would otherwise be confusing to the reader.
 
@@ -48,7 +48,7 @@ Callers who are young or have higher-pitched voices may particularly struggle wi
 
 Calls often go in a whole pull in advance, but there can be considerable variation depending on preference (and even region). The advice above holds for many common methods, like Plain Bob and various Surprise methods. Methods like Grandsire and principles like Stedman can operate somewhat differently, so if you’re called upon to call a touch of Grandsire or Stedman, make sure you are confident in knowing where the calls go in.
 
-## Exercises and Activities
+## Exercises
 
 This section also comes with a variety of exercises that can be tried at home or with other ringers.
 

@@ -57,9 +57,8 @@ This is a slightly trickier case, because in a call at Before, the tenor _is_ af
 
 Yes, here the coursing order changed from 5324 (the plain course coursing order) to 5432. I find this particular transposition is often confusing because there's so much happening in the calculation; even though the 5 _looks_ like it didn't move in the coursing order from the numbers on the page, it was involved in the bob --- and I just told you that the ones involved in the bob would be the ones that moved! What gives?
 
-We can figure it out by looking at the _full_ coursing order, including the 6. Remember how we talked about the limitations of Western left-to-right notation? This is another time where we will run into that issue. Recall that we can write the coursing order 53246 (the plain course coursing order) as 32465 if it suits our fancy, because it's really a cycle of numbers and _not_ a line. Now let's look at it:
-
-But here's what happened to the _full_ coursing order, including the 6:
+We can figure it out by looking at the _full_ coursing order, including the 6. Remember how we talked about the limitations of Western left-to-right notation? This is another time where we will run into that issue. Recall that we can write the coursing order 53246 (the plain course coursing order) as 32465 if it suits our fancy, because it's really a cycle of numbers and _not_ a line.
+Here's what happened to the _full_ coursing order, including the 6:
 
 {{< figure src="transpose_before.png" class="center" width=100px >}}
 

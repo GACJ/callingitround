@@ -5,7 +5,7 @@ title: Demystifying "In, Out, Make"
 
 # Demystifying “In, Out, Make”: The most common calling positions
 
-In this section, we’ll start to build the vocabulary and skills you’ll need to call longer and more complicated touches. When touches are longer than a few leads, it quickly becomes tiresome to memorize a long series of “plain, bob, bob, plain, bob, plain…”. To fix that problem, callers and conductors often use **calling positions** to help them remember where to put in the calls. We’ll first define calling positions and then tell you about some of the most common ones. Knowing this vocabulary will give you access to a much bigger number of compositions! In the next submodule, we’ll get down to brass tacks learning new compositions using this new vocabulary.
+In this section, we’ll start to build the vocabulary and skills you’ll need to call longer and more complicated touches. When touches are longer than a few leads, it quickly becomes tiresome to memorize a long series of “plain, bob, bob, plain, bob, plain…”. To fix that problem, callers and conductors often use **calling positions** to help them remember where to put in the calls. We’ll first define calling positions and then tell you about some of the most common ones. Knowing this vocabulary will give you access to a much bigger number of compositions! In the next section, we’ll get down to brass tacks learning new compositions using this new vocabulary.
 
 ## Terminology
 
@@ -31,7 +31,7 @@ Wrong[^3] | W | If a call is made here, the tenor winds up in 5ths at the backst
 
 These calling positions --- Home (H), In (I), Out (O), Before (B), Make (M), Fourths (F), and Wrong (W) --- make up the majority of calling positions used in most compositions. Be aware that these named calling positions may change, unfortunately, from method to method (or principle), or from stage to stage. Worse, the abbreviations are not always unique; most important to be aware of is that (M) may mean either make (make fourths) or _middle_, which we haven’t discussed yet since it only comes up in higher stages.
 
-With only 7 new words in your arsenal, you now have access to a huge number of compositions. For example, a great source of short touches is the Ringing World diary, of which a new edition is released each year; many compositions in the diary use only these calls, and the next submodule will introduce you to some of those compositions to help you get started.
+With only 7 new words in your arsenal, you now have access to a huge number of compositions. For example, a great source of short touches is the Ringing World diary, of which a new edition is released each year; many compositions in the diary use only these calls, and the next section will introduce you to some of those compositions to help you get started.
 
 ## Frequently Asked Questions
 
@@ -55,8 +55,8 @@ Yes and no. Some compositions are suitable to be rung with any bell as observati
 
 It is likely that there is at least one ringer in your local area who is happy to talk you through all your questions. However, there are other great resources to learn more:
 
-*   Steve Coleman’s _The Bob Caller’s Companion_
-*   Tina Stoecklin and Simon Gay’s _Change Ringing on Handbells_ (handbell focus)
+*   Steve Coleman’s _The Bob Caller’s Companion_, a great general-purpose resource for those learning to call
+*   Tina Stoecklin and Simon Gay’s _Change-Ringing on Handbells (Volume 1: Basic Techniques)_, another good general resource but focussed more on handbells
 *   [John Harrison’s Glossary](http://jaharrison.me.uk/Ringing/Glossary/), especially for looking up the names or abbreviations of other calling positions
 
 I’m sure there are many others. If you are aware of (or author of!) any other resources you’d like to make people aware of, please contact me and I will add it to this space.
@@ -84,7 +84,7 @@ Last section, we learned a simple composition of Plain Bob Doubles that consiste
 
 ### Consider This
 
-Last submodule, we learned a simple lead-by-lead notation for calls. This time, we learned about calling positions (and next time, we’ll talk more about notation for compositions using calling positions). What are some pros and cons of using lead-by-lead notation instead of named calling positions? Which would you rather use to learn a very short touch? Which would you rather use to learn a quarter peal?
+Last section, we learned a simple lead-by-lead notation for calls. This time, we learned about calling positions (and next time, we’ll talk more about notation for compositions using calling positions). What are some pros and cons of using lead-by-lead notation instead of named calling positions? Which would you rather use to learn a very short touch? Which would you rather use to learn a quarter peal?
 
 
 <!-- Footnotes themselves at the bottom. -->
@@ -97,7 +97,7 @@ Last submodule, we learned a simple lead-by-lead notation for calls. This time, 
      There is another call known as "Middle" that we won't cover in this section, but it can also be abbreviated with M. Often when there is a Middle (M) calling position available, the calling position used for making the fourths will be simply Fourths (F).
 
 [^3]:
-     It came up in the process of compiling this submodule that in fact, the two calling positions “Wrong and Home” used to be known as “Wrong and _Right_”. Conducting is definitely a living tradition and it has changed over time; clearly nothing here is set in stone! But I am setting down what I believe to be common practice these days.
+     It came up in the process of compiling this section that in fact, the two calling positions “Wrong and Home” used to be known as “Wrong and _Right_”. Conducting is definitely a living tradition and it has changed over time; clearly nothing here is set in stone! But I am setting down what I believe to be common practice these days.
 
 [^4]:
      Technically, there’s also “Home” for when long fifths are made, but this is more often just thought of as being unaffected!

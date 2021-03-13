@@ -44,11 +44,13 @@ So these two compositions, which have many similar features --- both quarter pea
 
 You can also look at these features without using CompLib, by simply looking at the lead heads throughout the composition, but this is certainly more error-prone much more time-consuming! However, one area that's useful to look at for any composition is the part ends of a multi-part composition. 
 
+{{< figure src="dncbm.png" class="float-right" width=300px >}}
+
 For example, take a look at [this composition](https://ringing.org/composition/?id=10824) of Robert T Kakuk's on ringing.org (noting that someone has already helpfully annotated it as "For handbells"!). The composition repeats itself, and the part end is 24365. Recall that this is short for the row 12436578; that is, rounds with the 3-4 and 5-6 swapped over. This part end means that in the second part, each person in the band will repeat the _exact same work_ they just did, but the ringers of the 3-4 and 5-6 pairs will simply be crossed over. This type of structure will make it much easier for your ringers to stay right or for you to put it right if required. If you're learning the course ends or the coursing orders, only half as much learning is required as you can simply remember that the 3-4 and 5-6 are swapped over in the second half.
 
 ## Other resources
 
-I highly recommend the book “Change-Ringing on Handbells Volume 1” by Tina Stoecklin and Simon Gay. They have many tips and tricks and go into much more detail than I have here.
+I highly recommend the book _Change-Ringing on Handbells (Volume 1: Basic Techniques)_ by Tina Stoecklin and Simon Gay. They have many tips and tricks and go into much more detail than I have here.
 
 ## Notes
 

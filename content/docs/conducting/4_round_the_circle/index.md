@@ -13,15 +13,15 @@ In many compositions, the observation bell is the heaviest working bell, and all
 
 {{< figure src="pbtrip_qp.png" width=200px class="float-right" >}}
 
-Sometimes compositions will be written out explicitly for other observation bells, but in my experience this is fairly rare (though [here's](https://www.ringing.org/quarters/triples/grandsire/#4775) an example; admittedly it's of Grandsire which we haven't talked much about). Often when the tenor is not intended to be the observation bell, no calling positions are given at all, and instead calls are shown at the lead number as in [this composition](https://complib.org/composition/32220), shown to the right. You'll need to pick your own observation bell --- or bells! A helpful strategy is to look at the part end and see if any of the bells end up in their "home" position at the parthead, because then you know their work repeats in each part.
+Sometimes compositions will be written out explicitly for other observation bells, but in my experience this is fairly rare. Often when the tenor is not intended to be the observation bell, no calling positions are given at all, and instead calls are shown at the lead number as in [this composition](https://complib.org/composition/32220), shown to the right. You'll need to pick your own observation bell --- or bells! A helpful strategy is to look at the part end and see if any of the bells end up in their "home" position at the part head, because then you know their work repeats in each part.
 
-Here, you can see that only the 5 ends up in the home position at the parthead, which is 342576. So, the 5 might end up being a wise choice for observation bell because it will do the same thing in all six parts. By contrast, the 7 (perhaps a more traditional choice of observation bell for a triples composition), swaps places with the 6 every other part. Still possible to memorize, but certainly harder work.
+Here, you can see that only the 5 ends up in the home position at the part head, which is 342576. So, the 5 might end up being a wise choice for observation bell because it will do the same thing in all six parts. By contrast, the 7 (perhaps a more traditional choice of observation bell for a triples composition), swaps places with the 6 every other part. Still possible to memorize, but certainly harder work.
 
 {{< figure src="pbmaj_1344.png" width=200px class="float-left" >}}
 
-To make matters harder, often you have to puzzle the observation bell out for yourself. Or, it might change from part to part, such as in [this composition](https://complib.org/composition/38525) shown to the left, where (depending on preference) it might make sense to use the 6 or the 8 for observation at different times. Note how the 7-8 pair and the 5-6 pair are "swapped around" at the parthead! Ringing the first part with both 6 and 8 as observation, you can think to yourself: "Before for the 8, Before for the 6, then five Homes for the 6" (remembering that the 3rd Home is a single, not a bob). Then the second part is "Before for the 6, Before for the 8, then five Homes for the 8". It's very structured in ways that might not be obvious from the ink on the page, and quite a pleasure to ring (very musical too!).
+To make matters harder, often you have to puzzle the observation bell out for yourself. Or, it might change from part to part, such as in [this composition](https://complib.org/composition/38525) shown to the left, where (depending on preference) it might make sense to use the 6 or the 8 for observation at different times. Note how the 7-8 pair and the 5-6 pair are "swapped around" at the part head! Ringing the first part with both 6 and 8 as observation, you can think to yourself: "Before for the 8, Before for the 6, then five Homes for the 6" (remembering that the 3rd Home is a single, not a bob). Then the second part is "Before for the 6, Before for the 8, then five Homes for the 8". It's very structured in ways that might not be obvious from the ink on the page, and quite a pleasure to ring (very musical too!).
 
-Another option for this composition is to use the 2 as observation, since it does return to its home position at the parthead. However, it requires you to use many more calling positions than just Before and Home for different bells! Different folks will find different strategies easier or harder. In cyclic compositions, where often _no_ bell returns to its "home" position at the parthead, this problem of choosing the observation bell can be particularly evident.
+Another option for this composition is to use the 2 as observation, since it does return to its home position at the part head. However, it requires you to use many more calling positions than just Before and Home for different bells! Different folks will find different strategies easier or harder. In cyclic compositions, where often _no_ bell returns to its "home" position at the part head, this problem of choosing the observation bell can be particularly evident.
 
 ## Conducting from: the cover
 
@@ -29,7 +29,7 @@ Conducting from the cover is not particularly often done,[^1] but I think it has
 
 ## Conducting from: the treble
 
-The treble is another great place from which to conduct. It's often a great place to watch coursing orders from, especially since you might not need to have as many brain cells concentrated on ringing the method. Similarly to the cover, you also get rope-sight practice watching the observation bell, but with the added challenge of ringing a bell that moves through the change. Bonus: you always know when the leadend and half-lead are.
+The treble is another great place from which to conduct. It's often a great place to watch coursing orders from, especially since you might not need to have as many brain cells concentrated on ringing the method. Similarly to the cover, you also get rope-sight practice watching the observation bell, but with the added challenge of ringing a bell that moves through the change. Bonus: you always know when the lead end and half lead are.
 
 ## Conducting from: a "non-observation" bell
 
@@ -39,7 +39,7 @@ I'm ordering the strategies roughly by what I perceive the relative difficulty t
 
 ### Strategy 1: Watch the observation bell from elsewhere
 
-This strategy requires some ropesight and maybe some advanced preparation, but is generally fairly accessible. It is the same strategy you can practice while ringing the cover or the treble, but this time you will be ringing an inside bell while watching another inside bell as observation. It can sometimes be beneficial to figure out good "landmarks" for watching the observation bell during this time that will give you a bit of warning. This may require some pen-and-paper work figuring out what the tenor does at various leadends or halfleads, for example. If you don't notice that the tenor is dodging the treble at the front until it's happening, you're already too late to call the Before!
+This strategy requires some ropesight and maybe some advanced preparation, but is generally fairly accessible. It is the same strategy you can practice while ringing the cover or the treble, but this time you will be ringing an inside bell while watching another inside bell as observation. It can sometimes be beneficial to figure out good "landmarks" for watching the observation bell during this time that will give you a bit of warning. This may require some pen-and-paper work figuring out what the tenor does at various lead ends or half leads, for example. If you don't notice that the tenor is dodging the treble at the front until it's happening, you're already too late to call the Before!
 
 ### Strategy 2: Take a lighter fixed bell
 
@@ -91,7 +91,7 @@ Writing this out by-the-lead, we know that Cambridge has 7 leads per course and 
 
 {{< figure src="rotated_camb.png" class="float-right" width=300px >}}
 
-Let's take a closer look. Before, the 7 and 8 were fixed (we know this because the 7 and 8 were _omitted_ from the partheads). Now, different bells are fixed. One fixed bell is still the 8; you can tell because it's at the end of every coursehead, in its home position. What is the other fixed bell?
+Let's take a closer look. Before, the 7 and 8 were fixed (we know this because the 7 and 8 were _omitted_ from the part heads). Now, different bells are fixed. One fixed bell is still the 8; you can tell because it's at the end of every course head, in its home position. What is the other fixed bell?
 
 {{< textbox id="fixedbellq" label="Fixed bell" answer="6" >}}
 {{< /textbox >}}

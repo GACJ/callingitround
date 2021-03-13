@@ -3,27 +3,19 @@ title: Checking the Ringing
 weight: 1
 ---
 
-# Checking the ringing
+# Checking the Ringing
 
-The ability to check the ringing is often thought to be the key difference between a caller and a conductor. In the first chapter, on Calling, I gave a common definition for a caller:
-
-**Caller:** A caller puts in the calls but does not need to correct or track the ringing except to know when the calls go in. A caller may be one who just says “go” and “stop,” but it’s more common for people to think of callers as “bob-callers,” who put in the bobs (and singles, etc) and not just the “auxiliary calls” (go, stop, stand). 
-
-Those skills were covered in the first chapter. I also gave a common definition for a conductor:
-
-**Conductor:** A conductor has the responsibilities of the caller, including keeping themselves right and putting the calls in the correct place. A conductor can also watch the others as they ring, at least part of the time, and the conductor has the “social mandate” to correct ringing issues, including striking issues. There are many ways of tracking and correcting ringing which will be discussed, but coursing orders are perhaps the most well-known (or at least most talked-about!). If you don’t know what ‘coursing orders’ means, don’t worry; it’ll be covered in a later chapter.
-
-So here, in this chapter on Conducting, we'll talk about tracking and checking the ringing, using information that you can get from the composition itself and doing some study beforehand.
+The ability to check the ringing is often thought to be the key difference between a caller and a conductor. In this chapter on Conducting, we'll talk about tracking and checking the ringing, using information that you can get from the composition itself and doing some study beforehand.
 
 This first section is on _checking the ringing_, and it focusses on how to use memorization and other skills you already have to check the ringing, without the use of coursing orders. Much of it is derived from an article I wrote for _The Ringing World_ in 2020.
 
-{{< figure src="pbmaj_1344.png" class="float-right" width=250px >}}
-
-When learning to check the ringing, it's often useful to start by studying the composition a little. The key is learning your landmarks and finding places where you know you can check that your ringing is accurate so far. I will focus on a few different _landmarks_ that you can use to check the ringing as it's going. I'll use an example example of a quarter peal of Plain Bob Major, rung with the following composition:
+When learning to check the ringing, it's often useful to start by studying the composition a little. The key is learning your landmarks and finding places where you know you can check that your ringing is accurate so far. I will focus on a few different landmarks that you can use to check the ringing as it's going. I'll use an example example of a quarter peal of Plain Bob Major.
 
 ## Landmarks
 
 ### Landmark: Fixed bells
+
+{{< figure src="pbmaj_1344.png" class="float-right" width=250px >}}
 
 The composition is laid out with each course displayed as a line. At the end of each course, the 6 is at the “end” of the line and the 7 and 8 are nowhere to be seen. This is by convention; since the 7 and 8 are unaffected, they are not written out in this style. So you can imagine a little “78” tacked on to the end of each of those rows. You’ll note the treble is also omitted, for similar shorthand reasons. In this composition, then, you can see that the 6, 7, and 8 remain fixed. So at the end of every course, you can check those three bells and make sure they are in the right place. Every other course, the 5 is also back in its usual position.
 
@@ -84,8 +76,7 @@ Read Simon Gay's two blog articles on [structural conducting](https://www.handbe
 
 ## Notes
 
-[^1]:
-  I remember one time at my local tower when a ringer's uncle came by to visit. He had never rung before, and didn't know anything about change ringing other than his niece's enthusiasm. I sat next to him during a course of Plain Bob Minor and was talking him through what the treble was doing. He paused for a minute, and then asked me why the 5 was ringing after the 6 like that. Immediately after he asked me the question, a lead end happened (the 5 made 2nds) and he exclaimed "Now it's changed!" and then described the new relationship between the 5 and the treble. He didn't know the ringing terminology, but he had incredible ropesight and an instinctive ability to pick out coursing orders, which to this day I find incredible. I suspect his level of innate skill at picking out coursing orders is very unusual!
+[^1]: I remember one time at my local tower when a ringer's uncle came by to visit. He had never rung before, and didn't know anything about change ringing other than his niece's enthusiasm. I sat next to him during a course of Plain Bob Minor and was talking him through what the treble was doing. He paused for a minute, and then asked me why the 5 was ringing after the 6 like that. Immediately after he asked me the question, a lead end happened (the 5 made 2nds) and he exclaimed "Now it's changed!" and then described the new relationship between the 5 and the treble. He didn't know the ringing terminology, but he had incredible ropesight and an instinctive ability to pick out coursing orders, which to this day I find incredible. I suspect his level of innate skill at picking out coursing orders is very unusual!
 
 
 

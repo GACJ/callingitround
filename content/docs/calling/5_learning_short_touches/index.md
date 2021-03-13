@@ -3,9 +3,9 @@ weight: 5
 title: Learning Short Touches
 ---
 
-# Reading and learning short touches using the most common calling positions 
+# Learning Short Touches
 
-In this section, we’ll put together everything we’ve covered over the course of _Caling It Round_ by learning 2 different short touches that use the most common calling positions. In addition, I’ve compiled some collections of other short touches that use these calling positions as well; these collections will be included at the bottom as resources.
+In this section, we’ll put together everything we’ve covered over the course of _Calling It Round_ so far by learning 2 different short touches that use the most common calling positions. In addition, I’ve compiled some collections of other short touches that use these calling positions as well; these collections will be included at the bottom as resources.
 
 
 ## Wrong Home, Wrong Home
@@ -65,7 +65,7 @@ Try calling one of the above touches!
 
 ### Find This
 
-Can you find another touch that uses only Wrong and Home for calling positions? It can be any method or any stage. Does the Wrong come at the start of the course, like in Plain Bob, or somewhere else? In addition to online resources, try the _Ringing World Diary_!
+Can you find another touch that uses only Wrong and Home for calling positions? It can be any method or any stage. Does the Wrong come at the start of the course, like in Plain Bob, or somewhere else? In addition to online resources, try _The Ringing World Diary_!
 
 
 <!-- Footnotes themselves at the bottom. -->

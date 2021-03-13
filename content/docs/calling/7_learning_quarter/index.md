@@ -3,7 +3,7 @@ weight: 8
 title: Learning Quarter-Length Compositions (or Longer)
 ---
 
-# Reading and learning quarter-length compositions (or longer)
+# Learning Quarter-Length Compositions (or Longer)
 
 In this concluding section of the chapter on calling, we'll be covering learning quarter-length or longer compositions. I debated for a long time whether to put this section in the Calling chapter or the Conducting chapter, because once you are calling longer compositions it is frequently very helpful to begin checking the ringing (conducting); however, it isn't necessary and I know I certainly wasn't checking the ringing when I called my first quarter peal. 
 

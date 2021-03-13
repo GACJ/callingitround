@@ -11,13 +11,9 @@ However, in my experience it's rare that there is frank discussion of how exactl
 
 I am reminded of a time in college (university, for the Brits reading) where my friends and I were discussing how to assign different solos to different people in our Renaissance chamber choir --- someone said it was "like solving a jigsaw puzzle, but where all the pieces have feelings" --- a comparison which often feels very apt to me when placing a band.
 
-Here are a few things that I think about when I'm placing a band; maybe you think about others, or in a very different order. If you have other things that come to mind, feel free to shoot me an email; I'm happy to update this space to be more inclusive to different philosophies.
+When I'm placing a band, I'm trying to think about how to balance everyone's needs and wants with my own desires for a certain standard of ringing, a certain method to be rung, or maybe something else entirely. Here are a few things that I think about when I'm placing a band; maybe you think about others, or in a very different order. If you have other things that come to mind, feel free to shoot me an email; I'm happy to update this space to be more inclusive to different philosophies. 
 
-## Considerations for placing a band
-
-One of my top priorities is making sure that the ringing is of a decent quality. I find that I enjoy ringing much more when the striking is consistent and even. To that end, I have a variety of thoughts in mind when I am placing a band.
-
-### Placing a stronger ringer or ringers
+## Placing a stronger ringer or ringers
 
 If there is a ringer who is stronger than the rest of the band --- in terms of method confidence and ringing ability, not physical strength --- it can be useful to think about where to place them to best advantage. You can trust them not to go wrong (or at least trust them more than others) and so it's worth taking time to consider where that would be best.
 
@@ -27,7 +23,7 @@ This choice can also be a convenient one, socially. The ringer in question will 
 
 Other good places put place your relatively stronger ringers: on the affected bells of a composition (often the front bells), or on the very back bells (if they are steady back bell ringers, or if they want to work on their back bell ringing). 
 
-### Placing a weaker ringer or ringers
+## Placing a weaker ringer or ringers
 
 Sometimes there will be a ringer, or several, who are relatively weaker than the rest of the band. There's nothing wrong with this; it's perfectly normal to have a band with a range of abilities, and it's part of your job as caller or conductor to make sure that all members of your band are supported, regardless of ability. Nonetheless, it can be a sensitive matter to place these ringers depending on their personality.
 
@@ -43,7 +39,7 @@ If you are placing a "stretchy" ringer on the inside, consider who their course 
 
 Other good places to put your "stretchy" ringers: on unaffected bells in the back (especially if you can "sandwich" the ringer between two more experienced ringers, or if you can make sure that their course and after bells are being rung by stronger ringers), or on affected bells in the front where you can keep an eye on them. You can also choose to put them on the observation bell (rather than yourself on the observation bell), on the logic that you'll probably know where the observation bell "ought" to be most of the time! These depend on your preferences as conductor and the ringer's preferences; there's no one-size-fits-all solution but these are a set of thoughts to get you started.
 
-### Further social advice
+## Further social advice
 
 Sometimes the ringers --- regardless of where they fall in the spectrum of ability in your band --- will have a Very Strong Preference about where they want to ring. When this aligns with your preference, that is all very well! But sometimes their desires and yours can be at odds. 
 

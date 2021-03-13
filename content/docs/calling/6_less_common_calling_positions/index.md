@@ -19,7 +19,7 @@ In the first subsection where we talked about calling positions, we discussed th
 
 {{< figure src="pbmajor.png" caption="credit: [https://rsw.me.uk/blueline/methods/view/Plain_Bob_Major](https://rsw.me.uk/blueline/methods/view/Plain_Bob_Major)">}}
 
-### Brief Review
+### Brief review
 
 From [_Demystifying 'In, Out, Make'_](../../calling/4_demystifying_in_out_make/), you should remember the Wrong (W) calling position, which comes after the first lead in Plain Bob. You can see it marked above as "-W," right at the row where the call Wrong would be made. The Home (H) calling position comes after the last lead in the plain course, when the tenor is about to come to its home position (here, 8ths place) at the lead end. Note that Wrong and Home are farther apart from each other in Major compared to Minor because the calling positions are relative to the _position of the observation bell_ (most often the tenor) rather than being, say, a certain number of leads in.
 

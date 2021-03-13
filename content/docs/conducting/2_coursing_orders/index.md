@@ -3,9 +3,9 @@ title: Coursing Orders
 weight: 2
 ---
 
-# Coursing orders
+# Coursing Orders
 
-Coursing orders are a fundamental tool of the conductor, and many if not most conductors use them for checking the ringing. But what is a coursing order? This section is here to answer that question. For this section and the next, we'll focus on coursing orders in the context of Plain Bob. In [Using Coursing Orders](../4_using_coursing_orders), I'll talk a little more about coursing orders for different methods.
+Coursing orders are a fundamental tool of the conductor, and many if not most conductors use them for checking the ringing. But what is a coursing order? This section is here to answer that question. For this section and the next, we'll focus on coursing orders in the context of Plain Bob.
 
 ## Back to Basics: Plain Hunt
 
@@ -116,6 +116,6 @@ Many people more knowledgeable than I am have shared their wisdom on coursing or
 
 ### In Print
 
-* John Longridge's "Conducting & Coursing Order" (CCCBR)
+* John Longridge's "Conducting & Coursing Order"
 * The Learning Curve "Conducting & Coursing order" (_The Ringing World_)
 * Steve Coleman's "The Bob Caller's Companion"
