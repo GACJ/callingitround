@@ -54,7 +54,9 @@ This section also comes with a variety of exercises that can be tried at home or
 
 ### Watch this
 
-Watch [this touch](https://www.youtube.com/watch?v=TQjfYuEqKIs) of Plain Bob Doubles and then answer the questions. The quiz will test your listening and ropesight skills as you watch the conductor put the calls in the correct place. [n.b. I haven’t gotten permission yet to use this clip -- believed to belong to Lizzie Colliss.]
+Watch this touch of Plain Bob Doubles and then answer the questions. The quiz will test your listening and ropesight skills as you watch the conductor put the calls in the correct place. [n.b. I haven’t gotten permission yet to use this clip -- believed to belong to Lizzie Colliss.]
+
+{{< youtube TQjfYuEqKIs >}}
 
 {{< question id="1_2001" >}}
 {{< question id="1_2002" >}}
@@ -63,7 +65,9 @@ Watch [this touch](https://www.youtube.com/watch?v=TQjfYuEqKIs) of Plain Bob Dou
 
 ### Troubleshoot this 
 
-A caller has called a touch of Little Bob Minor (ok --- it was me). Because of the coronavirus lockdown, I had to call it in Ringing Room, but the touch came round and I’m happy to share the video with you to get some feedback. However, I didn’t do a perfect job! What feedback do you have about the timing of my calls? [https://youtu.be/sRclOAUGH10](https://youtu.be/sRclOAUGH10)
+A caller has called a touch of Little Bob Minor (ok --- it was me). Because of the coronavirus lockdown, I had to call it in Ringing Room, but the touch came round and I’m happy to share the video with you to get some feedback. However, I didn’t do a perfect job! What feedback do you have about the timing of my calls?
+
+{{< youtube sRclOAUGH10 >}}
 
 {{< question id="1_2004" >}}
 {{< question id="1_2005" >}}
