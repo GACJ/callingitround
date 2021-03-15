@@ -11,13 +11,13 @@ In many resources about conducting, a particular emphasis is put on learning how
 
 In many compositions, the observation bell is the heaviest working bell, and all of the calling positions are portrayed relative to its path through the blueline. It is common to conduct from the observation bell, especially as a beginning conductor.
 
-{{< figure src="pbtrip_qp.png" width=200px class="float-right" >}}
+{{< figure src="pbtrip_qp.png" width=200px class="float-right" attr="[image source](https://complib.org/composition/32220)">}}
 
 Sometimes compositions will be written out explicitly for other observation bells, but in my experience this is fairly rare. Often when the tenor is not intended to be the observation bell, no calling positions are given at all, and instead calls are shown at the lead number as in [this composition](https://complib.org/composition/32220), shown to the right. You'll need to pick your own observation bell --- or bells! A helpful strategy is to look at the part end and see if any of the bells end up in their "home" position at the part head, because then you know their work repeats in each part.
 
 Here, you can see that only the 5 ends up in the home position at the part head, which is 342576. So, the 5 might end up being a wise choice for observation bell because it will do the same thing in all six parts. By contrast, the 7 (perhaps a more traditional choice of observation bell for a triples composition), swaps places with the 6 every other part. Still possible to memorize, but certainly harder work.
 
-{{< figure src="pbmaj_1344.png" width=200px class="float-left" >}}
+{{< figure src="pbmaj_1344.png" width=200px class="float-left" attr="[image source](https://complib.org/composition/38525)">}}
 
 To make matters harder, often you have to puzzle the observation bell out for yourself. Or, it might change from part to part, such as in [this composition](https://complib.org/composition/38525) shown to the left, where (depending on preference) it might make sense to use the 6 or the 8 for observation at different times. Note how the 7-8 pair and the 5-6 pair are "swapped around" at the part head! Ringing the first part with both 6 and 8 as observation, you can think to yourself: "Before for the 8, Before for the 6, then five Homes for the 6" (remembering that the 3rd Home is a single, not a bob). Then the second part is "Before for the 6, Before for the 8, then five Homes for the 8". It's very structured in ways that might not be obvious from the ink on the page, and quite a pleasure to ring (very musical too!).
 
@@ -43,17 +43,17 @@ This strategy requires some ropesight and maybe some advanced preparation, but i
 
 ### Strategy 2: Take a lighter fixed bell
 
-{{< figure src="camb_1250.png" class="float-right" width=300px >}}
+{{< figure src="camb_1250.png" class="float-right" width=300px attr="[image source](https://complib.org/composition/11965)">}}
 
 The strategy of taking a lighter fixed bell is sometimes easier said than done, since there are some compositions for which this will work and some for which it won't. Let's take an example of this [1250 of Cambridge Surprise Major](https://complib.org/composition/11965) shown to the right.
 
 You can see that there are only calls at Wrong and Home for the tenor, and that the 6 comes back to its home position at the end of every course. Since the 6 is therefore a fixed bell in this composition, it seems a good target for this strategy. The idea is to translate the composition from being tenor-based to being 6-based, so you can ring and use your own bell as observation, _even though_ the composition was not originally notated that way. Using your own knowledge of Cambridge or using the blueline feature on CompLib, you can see that "Wrong" for the 8 is "Home" for the 6. (Phrased another way: when the 8 is dodging 7-8 up, the 6 is dodging 7-8 down). 
 
-{{< figure src="home.png" class="center" width=200px >}}
+{{< figure src="home.png" class="center" width=200px attr="[image source](https://complib.org/composition/11965)" >}}
 
 Whereas "Home" for the 8 is "Middle" for the 6. (Phrased another way: When the 8 is dodging 7-8 up, the 6 is dodging 5-6 down.)
 
-{{< figure src="middle.png" class="center" width=200px >}}
+{{< figure src="middle.png" class="center" width=200px attr="[image source](https://complib.org/composition/11965)" >}}
 
 So for the 8, you could say the composition: "Wrong, Home, 3 Wrongs, 2 Homes, single Wrong". For the 6, the _same composition_ could be said "Home, Middle, 3 Homes, 2 Middles, single Home". The _only difference_ is that you are watching your own bell (the 6) using the calling positions relative to the 6 after you've translated them from "tenor-speak". 
 
@@ -83,13 +83,13 @@ It doesn't matter where on the circle you start --- plain or bob, top or bottom,
 
 This feature of compositions extends to more complex compositions. Often when you rotate a composition, different bells become more or less reasonable to use as observation bells. 
 
-{{< figure src="camb_1344.png" class="float-right" width=300px >}}
+{{< figure src="camb_1344.png" class="float-right" width=300px attr="[image source](https://complib.org/composition/12730)">}}
 
 I will show one example of rotation of a slightly more complex rotation. Here's a [1344 of Cambridge Surprise Major](https://complib.org/composition/12730). Note that the definition of a single is _not_ 1234 (so probably best to warn your band before ringing!). The composition has you ringing a single at Home (for the tenor) every course for 6 courses in total.
 
 Writing this out by-the-lead, we know that Cambridge has 7 leads per course and we get: ```pppppps pppppps pppppps pppppps pppppps pppppps```. Or more succinctly: ```pppppps```, 6 part. Just like with the short composition of Plain Bob Minor above, you can _rotate_ the singles to happen _anywhere_ in the composition. Let's try looking at what would happen if you put the single somewhere in the middle: ```pppsppp```, 6 part. You get the following rotation (the "4" at the top just means the 4th lead in the course gets the single).
 
-{{< figure src="rotated_camb.png" class="float-right" width=300px >}}
+{{< figure src="rotated_camb.png" class="float-right" width=300px attr="">}}
 
 Let's take a closer look. Before, the 7 and 8 were fixed (we know this because the 7 and 8 were _omitted_ from the part heads). Now, different bells are fixed. One fixed bell is still the 8; you can tell because it's at the end of every course head, in its home position. What is the other fixed bell?
 
@@ -113,7 +113,7 @@ This strategy is, to my estimation, more involved than the above options. It req
 
 I really love conducting in hand. My first ringing experiences were all on handbells --- my first practice, first quarter, first as conductor --- and they hold a special place in my heart. So I'd like to talk about a few things to keep in mind when you're conducting from a handbell pair.
 
-{{< figure src="sted_caters.png" width=250px class="float-right" >}}
+{{< figure src="sted_caters.png" width=250px class="float-right" attr="[image source](https://complib.org/composition/22802)">}}
 
 One of the first choices you'll have to make is whether to conduct from a fixed pair or not. A fixed pair may not exist if you're ringing Minor! But not all fixed pairs are made equal, and the fixed pair may not always even be the tenors. For example, in this [1296 of Stedman Caters](https://complib.org/composition/22802), the fixed pair is the 5-6. This is not unusual for Stedman, since often it is musical (and compositionally convenient) to rotate the back bells around rather than leaving them fixed.
 

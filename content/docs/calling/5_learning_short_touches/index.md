@@ -10,7 +10,7 @@ In this section, we’ll put together everything we’ve covered over the course
 
 ## Wrong Home, Wrong Home
 
-{{< figure src="pbm_120.png" class="float-left" width=200px >}}
+{{< figure src="pbm_120.png" class="float-left" width=200px attr="[image source](https://complib.org/composition/12031)">}}
 
 The first touch we’ll go over is a great one for practice night; simple, with relatively few calls, and short enough for a second attempt if the first goes awry. When ringers talk about this touch, they will often call it “Wrong Home, Wrong Home” or, more rarely, “Wrong Home, repeat”. You can see on left-hand side that using calling positions here instead of calling it “bpppbbpppb” saves us a lot of space and a lot of remembering; we can just write out “WH WH” (or “WHx2”) instead and be done with it!
 
@@ -27,7 +27,7 @@ Two things to be careful of when you’re trying this touch for the first time, 
 
 ## Three Homes
 
-{{< figure src="pbd_120.png" class="float-left" width=200px >}}
+{{< figure src="pbd_120.png" class="float-left" width=200px attr="[image source](https://complib.org/composition/11015)">}}
 
 The next (and final!) touch for this section is often called “Three Homes”. And it is what it says on the tin! See the left-hand side image for the composition. You can see there are three courses, with a call at Home in every course. 
 

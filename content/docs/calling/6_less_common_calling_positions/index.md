@@ -17,7 +17,7 @@ As we discussed in the previous section, you can do a lot with a little; knowing
 
 In the first subsection where we talked about calling positions, we discussed the calling positions of Plain Bob Minor. Today, we'll talk about two more calling positions which _don't_ exist in Plain Bob Minor, but _do_ exist for Plain Bob Major and the majority of other methods on 8 or more bells.[^1]
 
-{{< figure src="pbmajor.png" caption="credit: [https://rsw.me.uk/blueline/methods/view/Plain_Bob_Major](https://rsw.me.uk/blueline/methods/view/Plain_Bob_Major)">}}
+{{< figure src="pbmajor.png" caption="[image source](https://rsw.me.uk/blueline/methods/view/Plain_Bob_Major)">}}
 
 ### Brief review
 
@@ -67,7 +67,7 @@ Different people will have different impulses when they are given a composition 
 
 ### Strategy 1: Write It Out
 
-{{< figure src="w3bmh.png" caption="Writing out the composition using just the lead heads (from [Composition Library](https://www.complib.org))" 
+{{< figure src="w3bmh.png" caption="[image source](https://complib.org/composition/11243)" 
 class="float-right" width=200px >}}
 
 Maybe in the modern age this is a bit old-fashioned. After all, what are iPads for? But I think when you're first starting, writing out and taking the time to go slowly through the touch and understand where all the calls are can be very useful indeed. Write out as much or as little as you need. You may start by writing out every single row, from rounds back to rounds! Or you may only need to write out lead heads, or another helpful schematic. But if you can't figure out where to get started on a composition, writing it out is always a great starting place. Make sure you clearly understand where the calls go in and what they do to the bells; both your bell(s) and everyone else's.
@@ -78,7 +78,7 @@ Graham John's [Composition Library](https://www.complib.org) is a huge boon for 
 
 Of particular use, I think, is the "Blue Line" section, which can be expanded by clicking on the words "Blue Line" in the CompLib page. There, you can see each of the rows in the touch, written out, with a marking by where the calls ought to go. Note that the calls are written next to the row of the treble's handstroke lead, and are written on the left-hand side rather than the right as in the image of Plain Bob Major above; this is just down to different people preferring different conventions.
 
-{{< figure src="blueline.png" caption="The blue line view (from [Composition Library](https://www.complib.org))" >}}
+{{< figure src="blueline.png" caption="[image source](https://complib.org/composition/11243)" >}}
 
 The blue line layout is very useful for this touch. It can warn you that the 3 calls at Before all line up right next to each other! Since the tenor runs out at each call, it repeats the lead it just rang and is ready to run out again at the very next lead end. The call at Middle is just before the call at Home, and the "That's all!" comes just as the final bob is executed! So there's a lot happening at once. But it's a beautiful touch, very musical and reasonably short, and great practice for these four common calling positions.
 

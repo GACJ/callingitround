@@ -27,14 +27,14 @@ Don Morrison's website [ringing.org](https://ringing.org/) has particularly good
 
 There are a few other ways to figure out whether a composition is particularly handbell friendly which involve the use of CompLib's "Handbell Positions" tab under a given composition. For example, have a look at two different quarter peal compositions for Malpas Surprise Major. 
 
-{{< figure src="malpas_1344.png" >}}
+{{< figure src="malpas_1344.png" attr="[image source](https://complib.org/composition/36069)" >}}
 
 This 1344 has a limited number of calling positions and leaves the tenors unaffected. So far, so good; and it's fairly musical as well with a music score of 283. Let's look more in depth at the handbell pairs, though. By reading across each _row_ of the table, you can see the amount of the time that each pair is ringing its own pattern. So for example, the 1-2 pair will always be ringing leads from the 1-2 pattern, because the treble has a fixed line in each lead. In this composition, the 3-4 and 5-6 pairs spend about equal time in their own pattern and in the other two available patterns, with about 33\% of the time spent in each. 
 
 Compare that to this 1280 of Malpas Surprise Major, which is arguably slightly less musical with the music score of 273 and which has four calling positions instead of three.[^1]
 
 
-{{< figure src="malpas_1280.png" >}}
+{{< figure src="malpas_1280.png" attr="[image source](https://complib.org/composition/40492)">}}
 
 However, 3-4 pair spends _much_ less time in the 5-6 pattern, in fact only has 1 lead of the 5-6 pattern, and spends most of the rest of the time in the home pattern or in the 7-8 pattern. This is ideal: the ringer of the 3-4 pair will likely have practiced the 3-4 pair to plain courses and that will feel familiar. The 7-8 pattern is special because the 7-8 are often coursing, and are therefore often an "easier" pair to learn. Avoiding the 3-4 ringing the 5-6 pattern makes it an easier composition for a handbell band. Similarly, the 5-6 pair does not have to ring too many leads in the 3-4 pattern. 
 
@@ -44,7 +44,7 @@ So these two compositions, which have many similar features --- both quarter pea
 
 You can also look at these features without using CompLib, by simply looking at the lead heads throughout the composition, but this is certainly more error-prone much more time-consuming! However, one area that's useful to look at for any composition is the part ends of a multi-part composition. 
 
-{{< figure src="dncbm.png" class="float-right" width=300px >}}
+{{< figure src="dncbm.png" class="float-right" width=300px attr="[image source](https://ringing.org/peals/major/plain/#10824)" >}}
 
 For example, take a look at [this composition](https://ringing.org/composition/?id=10824) of Robert T Kakuk's on ringing.org (noting that someone has already helpfully annotated it as "For handbells"!). The composition repeats itself, and the part end is 24365. Recall that this is short for the row 12436578; that is, rounds with the 3-4 and 5-6 swapped over. This part end means that in the second part, each person in the band will repeat the _exact same work_ they just did, but the ringers of the 3-4 and 5-6 pairs will simply be crossed over. This type of structure will make it much easier for your ringers to stay right or for you to put it right if required. If you're learning the course ends or the coursing orders, only half as much learning is required as you can simply remember that the 3-4 and 5-6 are swapped over in the second half.
 

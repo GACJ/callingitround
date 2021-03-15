@@ -86,7 +86,7 @@ I’m sure there are other wonderful resources for touches using this notation o
 **Aside on notation**: Note that the Banners' site contains touches in a very slightly different format. There, you read the calls off the left-hand column of the touch. A hyphen ‘-’ is a bob, an ‘s’ is a single, and a blank space indicates a plain. For example, here's a 60 of Plain Bob Doubles from their site:
 
 {{< figure src="banner_img.png" alt="A touch of Plain Bob Doubles."
-width=150px class="float-right" >}}
+width=150px class="float-right" attr="[image source](https://www.thebanners.uk/touches/doubles/plain.html)" >}}
 
 Ignoring the numbers on the right-hand side, and focusing on just the left-hand annotations _between the dashed lines_, you can see a blank space (a plain) followed by a ‘-’ (bob), repeated twice to give “ - - -” or what we saw above as “pbpbpb”. Remember that the spaces in my table didn’t have meaning, they were just separators to show the pattern, so “pbpbpb” is the same as “pb pb pb”. The asterisk by the 60 indicates that the touch has been checked and is true. The authors also helpfully note some of the musical rows that turn up in the touch; here, Reverse Rounds (543216) and Kings (531246).
 

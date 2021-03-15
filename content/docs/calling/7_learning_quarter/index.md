@@ -13,7 +13,7 @@ Throughout, we'll use the same quarter peal composition displayed in different f
 
 ## How to read and learn a composition (by leads)
 
-{{< figure src="pbmin_leads.png" class="float-left" width=250 >}}
+{{< figure src="pbmin_leads.png" class="float-left" width=250 attr="[image source](https://complib.org/composition/10395)">}}
 
 First we'll review a familiar compositional layout, with a few new bits. This example on the left shows each lead of the first part a 720 of Plain Bob Minor. Since a 720 of Minor is an extent, ringing this composition twice would make a quarter peal. It would come round in the middle and the ringers would then keep going.
 
@@ -31,13 +31,13 @@ You can also see that the Home in the first course is right next to the Wrong of
 
 ## How to read and learn a composition (by courses)
 
-{{< figure src="pbmin_courses.png" class="float-right" width=250 >}}
+{{< figure src="pbmin_courses.png" class="float-right" width=250 attr="[image source](https://complib.org/composition/10395)">}}
 
 A more concise way to state the same composition is shown on the right. You can see that instead of showing every lead head on the right-hand side of the composition layout, only the course heads are shown. This cuts out a lot of information that you may want! However, some people may find this condensed format much easier to memorize, depending on personal memorization style.
 
 Here, the "-" stands for bob and the "s" stands for single as usual. The column headers "W" and "H" indicate the calling position. The brackets around "s" mean the same thing as above; omit the single in most parts, but include in parts 3 and 6 as per the footnote. Note that brackets do _not_ always mean to include a call at middle and end; they can also indicate a huge variety of different choices the composer may have made, so make sure you know what they mean and how they affect the composition before ringing.
 
-{{< figure src="pbmin_all_parts.png" class="float-left" width=250 >}}
+{{< figure src="pbmin_all_parts.png" class="float-left" width=250 attr="[image source](https://complib.org/composition/10395)">}}
 
 If the meaning of the bracketed single is still elusive, perhaps a look at the following view will help. This view also shows each course head (rather than each lead head), but it shows every part rather than just showing one part and telling you "6 part". The heavy solid lines separate out the different parts and indeed there are six of them. With this layout, it may be easier for you to visualize where exactly where the singles go.
 

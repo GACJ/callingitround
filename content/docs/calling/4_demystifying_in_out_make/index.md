@@ -11,7 +11,7 @@ In this section, we’ll start to build the vocabulary and skills you’ll need 
 
 A **plain course** is a course of a method where there is no call at any lead end. However, callers and conductors often talk about **courses** which may or may not have calls in them. A _course_ of this type starts when a tenor is in its home or natural position (in Plain Bob Minor, this is being in 6ths place at the backstroke of the lead end), and ends when the tenor has returned to its natural position. At some point, you have likely seen the plain course of a method written out like this:
 
-{{< figure src="pbminor.png" caption="credit: [https://rsw.me.uk/blueline/methods/view/Plain_Bob_Minor](https://rsw.me.uk/blueline/methods/view/Plain_Bob_Minor)">}}
+{{< figure src="pbminor.png" attr="[image source](https://rsw.me.uk/blueline/methods/view/Plain_Bob_Minor)">}}
 
 You’ll probably recognize this as Plain Bob Minor; there’s a treble (red line) plain hunting, and a bunch of other bells all dodging at the lead end (except one which is making seconds). Note that the tenor starts in 6ths place at the treble's backstroke lead during rounds, and returns to 6ths place at the treble's final backstroke lead in rounds. 
 
@@ -67,7 +67,7 @@ I’m sure there are many others. If you are aware of (or author of!) any other 
 
 Assume all questions refer to Plain Bob Minor, with the 6 as observation bell (as in the image), unless otherwise stated.
 
-{{< figure src="pbminor.png" caption="credit: [https://rsw.me.uk/blueline/methods/view/Plain_Bob_Minor](https://rsw.me.uk/blueline/methods/view/Plain_Bob_Minor)">}}
+{{< figure src="pbminor.png" caption="[image source](https://rsw.me.uk/blueline/methods/view/Plain_Bob_Minor)">}}
 
 {{< question id="1_demyst1" >}}
 {{< question id="1_demyst2" >}}

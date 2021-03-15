@@ -15,7 +15,7 @@ When learning to check the ringing, it's often useful to start by studying the c
 
 ### Landmark: Fixed bells
 
-{{< figure src="pbmaj_1344.png" class="float-right" width=250px >}}
+{{< figure src="pbmaj_1344.png" class="float-right" width=250px attr="[image source](https://complib.org/composition/33975)">}}
 
 The composition is laid out with each course displayed as a line. At the end of each course, the 6 is at the “end” of the line and the 7 and 8 are nowhere to be seen. This is by convention; since the 7 and 8 are unaffected, they are not written out in this style. So you can imagine a little “78” tacked on to the end of each of those rows. You’ll note the treble is also omitted, for similar shorthand reasons. In this composition, then, you can see that the 6, 7, and 8 remain fixed. So at the end of every course, you can check those three bells and make sure they are in the right place. Every other course, the 5 is also back in its usual position.
 
