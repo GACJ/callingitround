@@ -54,7 +54,7 @@ This section also comes with a variety of exercises that can be tried at home or
 
 ### Watch this
 
-Watch this touch of Plain Bob Doubles and then answer the questions. The quiz will test your listening and ropesight skills as you watch the conductor put the calls in the correct place. [n.b. I haven’t gotten permission yet to use this clip -- believed to belong to Lizzie Colliss.]
+Watch this touch of Plain Bob Doubles and then answer the questions. The quiz will test your listening and ropesight skills as you watch the conductor put the calls in the correct place. This video was used with permission of the owner.
 
 {{< youtube TQjfYuEqKIs >}}
 
