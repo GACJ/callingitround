@@ -28,6 +28,8 @@ Although I tried to give as much information as I thought expedient (and not mor
 
 ## About the Author
 
+{{< figure src="author_headshot_padded.jpeg" class="float-left" width=150px >}}
+
 I am an early-career conductor in the Boston, Massachusetts area. I learned to ring in late 2017 and called my first quarter a year later; and that was that! Since then, I've conducted a modest complement of quarters and peals, and a good number of practice night touches. Many of those have been called from a lighter bell, and through _Calling It Round_ I hope to encourage those who prefer to ring lighter bells to give calling a try!
 
-{{< figure src="author_headshot.jpeg" class="center" width=150px >}}
+

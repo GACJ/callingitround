@@ -40,6 +40,16 @@ Here are some of the things I do to make giving guidance during the ringing more
 2. When individual guidance cannot be avoided, I try to be polite about it. Think about how you would tell a work colleague that they had missed out a column in the spreadsheet; then think about how you tell a fellow ringer (and likely friend!) that they had missed out a dodge. It seems to me to be ideal to be _at least_ as nice to the fellow ringer. So I will say something like "Four, finish your lead please" (if I can spare the syllable for please!) Make eye contact if possible, and try for a smile; I know it's hard when concentrating but it does make a difference.
 3. Give encouragement as well as guidance. If there has just been a shaky section, let the band know that everyone's in the right place again with a happy "That's right!". Give a smile to a band member when they dodge with you or hunt past.
 
+### When two bells are swapped
+
+Sometimes it's obvious when the ringing has gone wrong; bells are all over each other and it's lumpy, or there may be firing. Sometimes, however, it can be much more subtle. A minor kerfuffle at a lead end you might think has straightened itself out --- only to find half a lead later that two bells are swapped. This, in my experience, is the most common way that the ringing can be "subtly" wrong. 
+
+It may be that your first impulse is to immediately shout out that the two bells are swapped. However, this isn't always the right choice depending on your band. Here are some options that I generally weigh when I'm thinking about when to speak:
+
+1. You could wait to tell the ringers until the next lead end, and tell them what their work should be and what their place bell should be. This option can be great if you have the spare brain power to figure out what their new placebells or work should be. It reduces any chance of confusion.
+2. You could wait to tell the ringers until they are ringing near each other, then let them know that they are swapped and what work they should do next. A particularly convenient place to do this can be at the lead. If the 2 and 3 are over and the 3 is heading down too quickly, let the 2 know that it's their turn to lead and tell the 3 to lead next. There will be a whole pull or two of chaos but then generally things will straighten out.
+3. You could _not_ wait to tell the ringers, just let them know as soon as you figure it out. This can work, depending on your band. Sometimes ringers are very good at figuring out where they ought to be, or pulling their bells where they ought to be. In handbell ringing in particular this isn't a terrible option, necessarily, though I'd argue it's less ideal than the above. In tower bell ringing, however, you could be giving your ringers a very difficult task. If the two swapped bells are at opposite ends of the row, chaos (and possibly firing) will ensue as the bells attempt to swap places, probably confusing other ringers in the process. The matter is even more difficult if the bells are at all heavy or difficult to ring.
+
 
 ## After the ringing
 

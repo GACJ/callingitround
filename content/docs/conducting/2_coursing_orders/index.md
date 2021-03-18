@@ -63,7 +63,7 @@ The treble may traipse through at will, but the 6 will always pass the working b
 
 ## Using coursing orders
 
-When you know what the coursing order ought to be, you can use it to set the ringing straight. For example, let's say you are in charge and ringing the 6 during a plain course of Plain Bob Minor. You know that the coursing order should be *5324* because just before practice you were scrolling through _Calling It Round_ on your phone. There's a kerfuffle, and suddenly you're passing the bells in this order: 5, 2, 3, 4. You can then shout out that the 3 and the 2 are over and ought to swap places!
+When you know what the coursing order ought to be, you can use it to set the ringing straight. For example, let's say you are in charge and ringing the 6 during a plain course of Plain Bob Minor. You know that the coursing order should be *5324* because just before practice you were scrolling through _Calling It Round_ on your phone. There's a kerfuffle, and suddenly you're passing the bells in this order: 5, 2, 3, 4. You can then shout out that the 3 and the 2 are over and ought to swap places![^1]
 
 Similarly, if you know the coursing order throughout a composition, you can keep a constant check on the ringing by looking at the order in which you pass the bells (bearing in mind that this works well for Plain Bob and many other methods, but there are some methods where watching how you personally pass the bells will _not_ tell you the whole story).
 
@@ -119,3 +119,7 @@ Many people more knowledgeable than I am have shared their wisdom on coursing or
 * John Longridge's "Conducting & Coursing Order"
 * The Learning Curve "Conducting & Coursing order" (_The Ringing World_)
 * Steve Coleman's "The Bob Caller's Companion"
+
+## Notes
+
+[^1]: For some bands, it's sufficient to shout that the bells are crossed and they'll immediately right themselves. However, there are some things you can do as a conductor to make that swapping easier; see [Giving Guidance](../../supplemental_skills/3_giving_guidance) for more information.

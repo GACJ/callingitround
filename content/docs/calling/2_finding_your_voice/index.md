@@ -16,9 +16,7 @@ In addition, you will be given some exercises to try out in your tower or with y
 
 ## Terminology review
 
-Just a bit of a review from last time. You’ll remember that in the first section we reviewed the definition of a **_lead_**. There is not wide agreement on _exactly_ where a lead begins and ends, and _exactly_ which changes are contained in a lead, though there are two common groups of thought (and many more groups of thought that are less common!). The important thing to know is that there is a **lead head** and a **lead end** associated with each lead, and the term **lead end** may also refer to the _change_ (not the _row_) at the end of the lead; in this case, it may be thought of as being an abbreviation of the term **lead end change**, though I think very few people consciously think of it as an abbreviation. **Lead end** may also refer to both _rows_ at the end of the lead (in other words, it may refer also to the lead head of the following lead). 
-
-However, in the ringing chamber, it is relatively unusual to hear the words **lead head** shouted (unless ringers are somewhat heatedly discussing a composition in advance of starting ringing!). As a general rule: If you’re thinking about composing, you will likely want to remember the exact distinction between lead heads and lead ends. If you’re thinking about conducting, likely you will ignore the fine distinctions and think about the more general, broad use of the term **lead end** to mean the last two rows in a lead and the change between them. As this publication has the teaching of calling and conducting as its primary aim, I will use the broad sense of **lead end** throughout, only referring to lead heads where it would otherwise be confusing to the reader.
+In _Calling It Round_, I will use the term **lead end** in the common (but imprecise) usage to refer to the two rows of the treble's lead and the change between them.[^2] Sometimes, I will use the term **lead head**, which refers only to the backstroke row.
 
 ## Where to put the calls in
 

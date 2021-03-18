@@ -64,15 +64,9 @@ In the diagram on the right, you can see a lead (and a little) of Little Bob Min
 
 {{< figure src="leadend.png" alt="A lead of Little Bob Minor" class="float-right">}}
 
-There is not wide agreement on _exactly_ where a lead begins and ends, and _exactly_ which changes are contained in a lead, though there are two common groups of thought (and, I'm sure, other groups of thought that are less common!). 
+There is not wide agreement on _exactly_ where a lead begins and ends, and _exactly_ which changes are contained in a lead, though there are two common groups of thought (and, I'm sure, other groups of thought that are less common!).[^1] While it is generally agreed upon that the **lead end** row is technically the row containing the treble’s handstroke lead, the term “lead end” in common usage refers more often to either the _two_ rows in the treble’s lead (in this case, 165432 and 164523) and/or to the lead end _change_ itself, that is, the change that results in the transformation from the lead end row to the lead head row.
 
-**Camp 1:** The lead head of this lead is rounds, and rounds is the first row in the lead. The last row in the lead is the row 165432, and therefore the lead is contained between two different times the treble is leading (the end of its lead, and the beginning of its next lead, inclusive). This interpretation is intuitive from a graphical perspective (starts when the treble is in 1, ends when the treble is in 1) and allows for the lead head and lead end both being included in the actual lead.
-
-**Camp 2:** The lead head of this lead is rounds, but rounds is _not_ contained in the lead itself. Rather, the lead consists of all of the rows that result from the application of the changes of the method to the lead head. The last row in the lead is therefore 164523, which is also the lead head of the next lead. This interpretation is consistent with the [CCCBR Framework for Method Ringing](https://cccbr.github.io/method_ringing_framework/classification.html), is consistent with the way many people think about splicing methods, and is also the interpretation that I favor. (A mathematical aside: under this interpretation of a lead, a method is a function from a lead head to a set of rows)
-
-The distinction between these two camps is complicated by the common use of the term **lead end**. While it is generally agreed upon that the lead end row is technically the row containing the treble’s handstroke lead, the term “lead end” in common usage refers more often to either the _two_ rows in the treble’s lead (in this case, 165432 and 164523) or to the lead end _change_ itself, that is, the change that results in the transformation from the lead end row to the lead head row.
-
-We will be talking a lot more about lead ends when we discuss where to put calls in and how to read simple compositions, but I think that’s enough for now!
+**Big picture**: In _Calling It Round_, I will use the term **lead end** in the common (but imprecise) usage to refer to the two rows of the treble's lead and the change between them.[^2] Sometimes, I will use the term **lead head**, which refers only to the backstroke row.
 
 ## Resources
 
@@ -87,3 +81,15 @@ Try out this quiz to self-assess your grasp of the basics of bobs and singles, w
 {{< question id="1_1002" >}}
 {{< question id="1_1003" >}}
 {{< question id="1_1004" >}}
+
+## Notes
+
+[^1]: Here are the two main philosophical camps I see in popular use: 
+
+	{{< figure src="leadend.png" alt="A lead of Little Bob Minor" class="float-right">}}
+
+	**Camp 1:** The lead head of this lead is rounds, and rounds is the first row in the lead. The last row in the lead is the row 165432, and therefore the lead is contained between two different times the treble is leading (the end of its lead, and the beginning of its next lead, inclusive). This interpretation is intuitive from a graphical perspective (starts when the treble is in 1, ends when the treble is in 1) and allows for the lead head and lead end both being included in the actual lead.
+
+	**Camp 2:** The lead head of this lead is rounds, but rounds is _not_ contained in the lead itself. Rather, the lead consists of all of the rows that result from the application of the changes of the method to the lead head. The last row in the lead is therefore 164523, which is also the lead head of the next lead. This interpretation is consistent with the [CCCBR Framework for Method Ringing](https://cccbr.github.io/method_ringing_framework/classification.html), is consistent with the way many people think about splicing methods, and is also the interpretation that I favor. (A mathematical aside: under this interpretation of a lead, a method is a function from a lead head to a set of rows)
+
+[^2]: Here's some of my reasoning for this decision, if you're curious. In the ringing chamber, it is relatively unusual to hear the words **lead head** shouted (unless ringers are somewhat heatedly discussing a composition in advance of starting ringing!). As a general rule: If one is thinking about composing, one will likely want to remember the exact distinction between lead heads and lead ends. If one is thinking about conducting, likely one will ignore the fine distinctions and think about the more general, broad use of the term **lead end** to mean the last two rows in a lead and the change between them. As this publication has the teaching of calling and conducting as its primary aim, I will use the broad sense of **lead end** throughout, only referring to lead heads where it would otherwise be confusing to the reader.
