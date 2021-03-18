@@ -2,3 +2,6 @@ baseURL = "https://ebook.brynmarie.com/"
 languageCode = "en-us"
 title = "Calling It Round"
 theme = "book"
+
+[params]
+  BookLogo = 'favicon.png'

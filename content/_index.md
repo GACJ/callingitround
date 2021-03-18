@@ -8,6 +8,8 @@ By: Bryn Reinstadler
 
 ---
 
+{{< figure src="favicon_padded.png" class="float-left" width=100px >}}
+
 Welcome to _Calling It Round_, a publication focused on getting ringers involved in calling and conducting from any bell.
 
 _Calling It Round_ is aimed at an audience who is familiar with Plain Bob Minor and other common methods, but it doesn't assume you've done _any_ calling before.
