@@ -4,7 +4,7 @@ type: docs
 ---
 
 # Calling It Round
-By: Bryn Reinstadler
+Bryn Reinstadler
 
 ---
 
@@ -24,7 +24,7 @@ Chapter 3, Supplemental Skills, gives a few extra items of guidance that might b
 
 While each section has its own unique focus, all of the sections will include content aimed at helping the aspiring caller or conductor to learn how to use their new skills _round_ the circle; that is, not just from the tenor or heaviest working bell.
 
-Although I tried to give as much information as I thought expedient (and not more!), but doubtless personal tastes will vary. I hope everything I have included is correct; please let me know if it is not. 
+Although I tried to give as much information as I thought expedient (and not more!), doubtless personal tastes will vary. I hope everything I have included is correct; please let me know if it is not. 
 
 ## About the Author
 
