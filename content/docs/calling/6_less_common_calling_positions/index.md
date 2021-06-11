@@ -38,7 +38,7 @@ Middle | M | Beware, this is M for Middle and _not_ M for Make! More on this cal
 
 _More about Middle_
 
-Middle is an extremely commonly used calling position, but it is a little trickier than some of the others. The name is not obvious unlike "In" or "Fourths," yet it's used in a huge variety of compositions. For even stage methods, like 6 or 8 or 10, Middle most often refers to the time when the observation bell becomes the place bell _two less_ than the number of bells ringing. So, if Major is being rung, the Middle is called when the observation bell becomes 6ths place bell. If Royal is being rung, the Middle is called when the observation bell becomes 8ths place bell, and so on; just subtract two from the stage. 
+Middle is an extremely commonly used calling position, but it is a little trickier than some of the others. The name is not obvious unlike "In" or "Fourths," yet it's used in a huge variety of compositions. For even stage methods, like 8 or 10 or 12, Middle most often refers to the time when the observation bell becomes the place bell _two less_ than the number of bells ringing. So, if Major is being rung, the Middle is called when the observation bell becomes 6ths place bell. If Royal is being rung, the Middle is called when the observation bell becomes 8ths place bell, and so on; just subtract two from the stage. 
 
 For odd stage methods, the definition of Middle can be confusing or inconsistent, so it's very important to make sure that you are aware of what the composer intended. 
 

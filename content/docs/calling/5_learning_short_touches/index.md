@@ -42,11 +42,11 @@ You can use “Three Homes” not only from different observation bells, but als
 ---
 
 
-Both of the above touches and more are included in a complib collection, linked below:
+Both of the above touches and more are included at this link:
 
 * [Short & Sweet: Touches of Plain Bob Collection](https://complib.org/collection/10903)
 
-This collection was compiled for those working their way through _Calling It Round_. Once you’re there, you’ll find a list of compositions. You can click on any of the compositions to learn more. CompLib, which is a site built and maintained by Graham John, is an excellent resource, and if you are interested in learning more about calling and conducting, I strongly recommend availing yourself of it. It is well worth the time spent playing with all of the settings and figuring out what is most useful. For a starting caller, it is often very useful to click the composition and then the “Blue Line” section of the composition, so you can get a good sense of what all the bells do through the composition (and maybe remind yourself of where the calling positions come!)
+This collection was compiled for those working their way through _Calling It Round_. Once you’re there, you’ll find a list of compositions. You can click on any of the compositions to learn more. The collection is hosted on [CompLib](https://complib.org), which is a site built and maintained by Graham John. It's an excellent resource, and if you are interested in learning more about calling and conducting, I strongly recommend availing yourself of it. It is well worth the time spent playing with all of the settings and figuring out what is most useful. For a starting caller, it is often very useful to click the composition and then the “Blue Line” section of the composition, so you can get a good sense of what all the bells do through the composition (and maybe remind yourself of where the calling positions come!)
 
 
 ## Exercises

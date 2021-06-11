@@ -16,7 +16,7 @@ In addition, you will be given some exercises to try out in your tower or with y
 
 ## Terminology review
 
-In _Calling It Round_, I will use the term **lead end** in the common (but imprecise) usage to refer to the two rows of the treble's lead and the change between them.[^2] Sometimes, I will use the term **lead head**, which refers only to the backstroke row.
+In _Calling It Round_, I will use the term **lead end** in the common (but imprecise) usage to refer to the two rows of the treble's lead and the change between them. Sometimes, I will use the term **lead head**, which refers only to the backstroke row.
 
 ## Where to put the calls in
 

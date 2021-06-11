@@ -294,6 +294,21 @@
             }
         }
     },
+    "1_learnqp1": {
+        "question": "Think about the two touches we dissected above. Is the number of parts always equal to the number of courses?",
+        "possible_answers":{
+            "a": {
+                "label": "Yes",
+                "response": "Not quite. How many courses were there in the ppbppb touch? How many parts? Remember that the number of parts is generally the number of times one can repeat the simplest, smallest element to get the whole touch.",
+                "correct": ""
+            },
+            "b": {
+                "label": "No",
+                "response": "That's right. Sometimes the number of parts will be the same as the number of courses; sometimes not.",
+                "correct": "yes"
+            }
+        }
+    },
     "2_less1": {
         "question": "The tenor is dodging 5-6 down at the lead end (in other words: it will be 6ths place bell). What is this calling position called?", 
         "possible_answers": {

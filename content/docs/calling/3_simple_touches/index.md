@@ -9,7 +9,7 @@ In this section, we’ll be covering some short and simple touches you can use f
 
 ## Terminology
 
-Here we’ll be learning about calling using very simple **compositions** which are limited to a single method and a small number of calls. A **touch** is simply the result of a composition being rung. Today we’ll discuss **short touches**, which are shorter than a quarter peal in length (less than 1250 changes), but our focus will be on _very_ short touches that are easy to memorize and practice.
+Here we’ll be learning about calling using very simple **compositions** which are limited to a single method and a small number of calls. When one rings a composition, the result is called a **touch**. Today we’ll discuss **short touches**, which are shorter than a quarter peal in length (less than 1250 changes), but our focus will be on _very_ short touches that are easy to memorize and practice.[^1]
 
 So, what makes a touch a touch, and why can’t you just call bob at random times while ringing and just enjoy the ride? Well, you can of course, but you risk violating one of several conventions that many people like to keep to when ringing:
 
@@ -83,12 +83,12 @@ This collection is a very cursory look at some simple touches, but there are man
 
 I’m sure there are other wonderful resources for touches using this notation out there; go forth and find! If you are the finder or creator of such a resource, please feel free to reach me and I will add it to this space.
 
-**Aside on notation**: Note that the Banners' site contains touches in a very slightly different format. There, you read the calls off the left-hand column of the touch. A hyphen ‘-’ is a bob, an ‘s’ is a single, and a blank space indicates a plain. For example, here's a 60 of Plain Bob Doubles from their site:
+**Aside on notation**: Note that the Banners' site contains touches in a very slightly different format. There, you read the calls off the left-hand column of the touch. A hyphen ‘-’ is a bob, an ‘s’ is a single, and a blank space indicates a plain. For example, consider the touch below: a 60 of Plain Bob Doubles from their site.
 
 {{< figure src="banner_img.png" alt="A touch of Plain Bob Doubles."
 width=150px class="float-right" attr="[image source](https://www.thebanners.uk/touches/doubles/plain.html)" >}}
 
-Ignoring the numbers on the right-hand side, and focusing on just the left-hand annotations _between the dashed lines_, you can see a blank space (a plain) followed by a ‘-’ (bob), repeated twice to give “ - - -” or what we saw above as “pbpbpb”. Remember that the spaces in my table didn’t have meaning, they were just separators to show the pattern, so “pbpbpb” is the same as “pb pb pb”. The asterisk by the 60 indicates that the touch has been checked and is true. The authors also helpfully note some of the musical rows that turn up in the touch; here, Reverse Rounds (543216) and Kings (531246).
+Ignoring the numbers on the right-hand side, and focusing on just the left-hand annotations _between the 4-dash lines_, you can see a blank space (a plain) followed by a ‘-’ (bob), repeated twice to give “ - - -” or what we saw above as “pbpbpb”. Remember that the spaces in my table didn’t have meaning, they were just separators to show the pattern, so “pbpbpb” is the same as “pb pb pb”. The asterisk by the 60 indicates that the touch has been checked and is true. The authors also helpfully note some of the musical rows that turn up in the touch; here, Reverse Rounds (543216) and Kings (531246).
 
 ## Exercises
 
@@ -100,7 +100,7 @@ Try calling the simple ‘bb’ touch of Plain Bob Doubles. You can either pract
 
 This exercise is designed to help you work out the “bones” of a composition, including how to tell which bells will be “easier” or “harder” to call from. 
 
-Here’s a composition of Plain Bob Minor: bbb. How many changes long is this touch (don’t forget: traditionally, we don’t include the repeated row of rounds in this total)? Write out the touch, including all of the rows. What do you notice about the path of the 2? The 3? Which bell makes each bob?
+Here’s a composition of Plain Bob Minor: bbb. How many changes long is this touch? Don’t forget: traditionally, we don’t include the repeated row of rounds in this total. Write out the touch, including all of the rows. What do you notice about the path of the 2? The 3? Which bell makes each bob?
 
 ### Compose this
 
@@ -110,3 +110,5 @@ The composition ‘bb’ results in a true touch of Plain Bob Doubles. The compo
 
 Note that in general, two examples do not a pattern make, and patterns are not always so obvious. But symmetry and patterns form a large part of the basis for composing, and are I think one of the most beautiful parts of ringing.
 
+
+[^1]: Touches can be very short or very long. A peal is a type of touch! However, when most people refer to ringing a touch on, say, a practice night, they are referring to a reasonably short length of ringing; maybe 15 or 20 minutes. Most ringers (and tower captains!) would be annoyed if you told them you were going to call a touch and then you called a peal-length touch! 

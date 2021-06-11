@@ -17,7 +17,7 @@ You’ll probably recognize this as Plain Bob Minor; there’s a treble (red lin
 
 In a tiny font off to the right hand side of each lead, you can see letters pointing to a particular place in the lead. These letters are shorthand for the names of various **calling positions relative to a specific observation bell**. Here, the observation bell is the tenor, in blue. An **observation bell** is a bell that you watch while you figure out where the calls go in a composition.
 
-A **calling position** is a position in the blue line (of the observation bell) where a call may be made.[^1] You can see that the hyphen next to the letter indicates the position in the row where the call would be made; it would then be executed at the treble’s lead. For convenience, many methods and principles have _named_ calling positions. In the image above, five of these named calling positions are labelled: Wrong (W), Fourths (F), Before (B), In (I), and Home (H). In this section, I will always spell out the whole name, but give the common abbreviation in parentheses after. The calling positions in the diagram refer to the position that the observation bell (here, the tenor) _would be in_ if a call were to be made. This fact can feel a bit unintuitive, because the plain course is written out such that there is a plain at every lead, but the calling positions refer to what _would_ happen if a call were made. Let’s work our way through those calling positions with that in mind:
+A **calling position** is a position in the blue line (of the observation bell) where a call may be made.[^1] You can see that the hyphen next to the letter indicates the position in the row where the call would be made; it would then be executed at the treble’s lead. For convenience, many methods and principles have _named_ calling positions. In the image above, five of these named calling positions are labelled: Wrong (W), Fourths (F), Before (B), In (I), and Home (H). In this section, I will always spell out the whole name, but give the common abbreviation in parentheses after. The calling positions in the diagram refer to the position that the observation bell (here, the tenor) _would be in_ if a call were to be made. This fact can feel a bit unintuitive, because the plain course is written out such that there is a plain at every lead, but the calling positions refer to what _would_ happen if a call were made.[^2] Let’s work our way through those calling positions with that in mind:
 
 
 **Calling Position(s)** | **Abbr** | **Definition (with tenor as observation bell)** 
@@ -25,13 +25,13 @@ A **calling position** is a position in the blue line (of the observation bell) 
 Home | H | This calling position is the one where the tenor ends up at home (the 6th bell ending up in 6th place) at the lead end if a call is made.
 In | I | This calling position is the one where the tenor would end up running in if a call were made. 
 Out (Sometimes: Before) | O or B | This calling position is the one where the tenor would end up running out if a call were made. It is sometimes known as “Before” because it happens when the tenor is coursing before the treble.
-Make (Sometimes: Fourths) | M[^2] or F | If a call is made here, the tenor will make fourths.
-Wrong[^3] | W | If a call is made here, the tenor winds up in 5ths at the backstroke of the lead end (by either dodging or hunting!). More generally, if a method is being rung on a stage with _n_ bells, the calling position where the tenor ends up at position (_n-1_) is called Wrong (W). For example, in Plain Bob Major, if the tenor winds up in 7 after the call, the call was made at Wrong.
+Make (Sometimes: Fourths) | M[^3] or F | If a call is made here, the tenor will make fourths.
+Wrong[^4] | W | If a call is made here, the tenor winds up in 5ths at the backstroke of the lead end (by either dodging or hunting!). More generally, if a method is being rung on a stage with _n_ bells, the calling position where the tenor ends up at position (_n-1_) is called Wrong (W). For example, in Plain Bob Major, if the tenor winds up in 7 after the call, the call was made at Wrong.
 
 
 These calling positions --- Home (H), In (I), Out (O), Before (B), Make (M), Fourths (F), and Wrong (W) --- make up the majority of calling positions used in most compositions. Be aware that these named calling positions may change, unfortunately, from method to method (or principle), or from stage to stage. Worse, the abbreviations are not always unique; most important to be aware of is that (M) may mean either make (make fourths) or _middle_, which we haven’t discussed yet since it only comes up in higher stages.
 
-With only 7 new words in your arsenal, you now have access to a huge number of compositions. For example, a great source of short touches is the Ringing World diary, of which a new edition is released each year; many compositions in the diary use only these calls, and the next section will introduce you to some of those compositions to help you get started.
+With only 7 new words in your arsenal, you now have access to a huge number of compositions. For example, a great source of short touches is the Ringing World diary, a new edition of which is released each year; many compositions in the diary use only these calls, and the next section will introduce you to some of those compositions to help you get started.
 
 ## Frequently Asked Questions
 
@@ -41,7 +41,7 @@ This phrase is often shorthand for “call a bob at the calling position Wrong�
 
 ### _When do I use Out vs Before? Or Make vs Fourths?_
 
-Out and Before are two different names for the same calling position relative to the position of the observation bell; they both refer to a place in the lead where calling “bob” would lead to the observation bell running out. As a general (though not perfect) rule, methods that have a bell making seconds at the lead end use the names Before and Fourths, and methods that have plain hunt at the lead end use the names Out and Make. There are exceptions to this rule; for example, the calling positions in some doubles methods (including Plain Bob Doubles) are In, Out, and Make[^4] even though a bell makes seconds at the lead end. Always make sure to check you know what the calling positions mean for the method and composition you are using.
+Out and Before are two different names for the same calling position relative to the position of the observation bell; they both refer to a place in the lead where calling “bob” would lead to the observation bell running out. As a general (though not perfect) rule, methods that have a bell making seconds at the lead end use the names Before and Fourths, and methods that have plain hunt at the lead end use the names Out and Make. There are exceptions to this rule; for example, the calling positions in some doubles methods (including Plain Bob Doubles) are In, Out, and Make[^5] even though a bell makes seconds at the lead end. Always make sure to check you know what the calling positions mean for the method and composition you are using.
 
 ### _How does my understanding of calling positions change if the observation bell is not the tenor?_
 
@@ -49,7 +49,7 @@ As discussed above, an observation bell is the bell that you are watching (and p
 
 ### _Does this mean I can ring a composition from any bell as observation, not just the tenor?_
 
-Yes and no. Some compositions are suitable to be rung with any bell as observation. However, most compositions are written with the tenor as observation, and often this is for good reason; the same composition with a different bell as observation may have undesirable musical qualities or other, bigger problems. If you’re planning on calling a composition in a different way to how it was set down by the composer, always check to make sure the resulting ringing will still be what you want it to be. In Conducting Part A, I will cover this topic in more detail.
+Yes and no. Some compositions are suitable to be rung with any bell as observation. However, most compositions are written with the tenor as observation, and often this is for good reason; the same composition with a different bell as observation may have undesirable musical qualities or other, bigger problems. If you’re planning on calling a composition in a different way to how it was set down by the composer, always check to make sure the resulting ringing will still be what you want it to be. In the Conducting section [Round the Circle](../../conducting/4_round_the_circle/), I will cover this topic in more detail.
 
 ### _Where do I go to learn more about calling positions?_
 
@@ -91,14 +91,16 @@ Last section, we learned a simple lead-by-lead notation for calls. This time, we
 ## Notes
 
 [^1]:
-     This is _mostly_ true. It is not true for Stedman or Erin, but is true for the vast majority of other methods (and some principles); the work of the observation bell directly relates to the name of the calling position.
-
-[^2]:
-     There is another call known as "Middle" that we won't cover in this section, but it can also be abbreviated with M. Often when there is a Middle (M) calling position available, the calling position used for making the fourths will be simply Fourths (F).
+     This is _mostly_ true. It is not true for Stedman or Erin, but is true for the vast majority of commonly rung methods (and some principles); the work of the observation bell directly relates to the name of the calling position.
+     
+[^2]: If it helps to hear it another way: the calling position is _not_ named by where the observation bell is when the call is made; it's named by where the observation bell is when the call has been executed, which is a whole pull later!
 
 [^3]:
-     It came up in the process of compiling this section that in fact, the two calling positions “Wrong and Home” used to be known as “Wrong and _Right_”. Conducting is definitely a living tradition and it has changed over time; clearly nothing here is set in stone! But I am setting down what I believe to be common practice these days.
+     There is another call known as "Middle" that we won't cover in this section, but it can also be abbreviated with M. Often when there is a Middle (M) calling position available, the calling position used for making the fourths will be simply Fourths (F).
 
 [^4]:
+     It came up in the process of compiling this section that in fact, the two calling positions “Wrong and Home” used to be known as “Wrong and _Right_”. Conducting is definitely a living tradition and it has changed over time; clearly nothing here is set in stone! But I am setting down what I believe to be common practice these days.
+
+[^5]:
      Technically, there’s also “Home” for when long fifths are made, but this is more often just thought of as being unaffected!
 
