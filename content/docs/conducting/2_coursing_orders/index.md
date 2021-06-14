@@ -19,7 +19,7 @@ Look at the order in which the bells come to lead. After rounds, the 2 leads, th
 
 Look at the order in which the treble passes all the bells. First the treble rings over the 2, and then the 4, the 6, and then 8. Then the odd bells: 7, 5, 3. Finally, it's the half lead and the treble turns around at the back. Who should the treble meet but the 2 again? Then it rings over the 4, 6, 8, 7, 5, 3 again before it gets to lead. 
 
-_The orders are the same_, and this ordering of the bells all passing by each other, rotating within the method, is known as a _coursing order_. This order is perturbed by calls but remains steady within a method otherwise. Because this order is preserved when there are no calls, and changes when there are calls, it will be useful for the conductor, who is concerned with how the order of the bells changes over the course of a composition.
+_The orders are the same_, and this ordering of the bells all passing by each other, rotating within the method, is known as a _coursing order_. This order is perturbed by calls but remains steady within a method otherwise. Because this order is preserved when there are no calls (and it changes when there are calls), it will be useful for the conductor, who is concerned with how the order of the bells changes over the course of a composition.
 
 When writing coursing orders down, we often write them in a condensed format, like this: 2468753. That long string of numbers corresponds to the order in which the bells lead in plain hunt, which (for Plain Hunt) is the same as the order in which the treble passes the bells. Other methods may have different ways of spotting the coursing orders, and different coursing orders entirely.
 
@@ -34,7 +34,7 @@ However, you can write down the coursing order relative to _any_ bell. Try it ou
 Here are a few things you might have noticed:
 
 1. Although I showed plain hunt on 8 bells, there are only 7 bells in each coursing order above. That is because it is conventional to _miss out_ the bell from which you are observing the coursing order. So if you are watching from the 2, you will generally not place the 2 in the coursing order. 
-2. You can also write out the entire coursing order, not relative to any bell at all. For plain hunt it might look like this: 13578642. Or it might look like this: 86421357. The order is _cyclic_, which means you can start anywhere and write out the rest of the bells and the order will be the same. Unfortunately our Western left-to-right writing system is terribly limited when it comes to discussing cyclic things, because otherwise I think a very sensible way to write out coursing orders would be like this:
+2. You can also write out the entire coursing order, not relative to any bell at all. For plain hunt it might look like this: 13578642. Or it might look like this: 86421357. The order is _a cycle_, which means you can start anywhere and write out the rest of the bells and the order will be the same. Unfortunately, because writing moves along the page in a line, it is terribly limited when it comes to discussing cyclic things --- especially on a computer. It takes a bit more work, but I think a very sensible way to write out coursing orders is like this:
 
 {{< figure src="coursing_order.png" width=200px class="center">}}
 
@@ -55,7 +55,7 @@ By convention, we pick the heaviest working bell and write out the coursing orde
 
 Great. You might note that I added the caveat "for the first lead" in the question. This is related to the convention to leave out the treble. Check out the coursing order relative to the 6 in the first lead, and then look at the second lead. Notice anything different? 
 
-That's right, the treble crosses the 6 at a different point in the second lead. That's because the treble has swapped spots with the 3 at the lead end! The treble will continue to do a do-si-do with various bells at the lead end and will therefore move all through the coursing order. However, because it is doing _different work_ to the rest of the bells, we often don't consider it when we're thinking about the coursing order. So, in Plain Bob Minor, the most canonical way to write the coursing order would be:
+That's right, the 6 crosses the treble at a different point in the second lead. That's because the treble has swapped spots with the 3 at the lead end! The treble will continue to do a do-si-do with various bells at the lead end and will therefore move all through the coursing order. However, because it is doing _different work_ to the rest of the bells, we often don't consider it when we're thinking about the coursing order. So, in Plain Bob Minor, the most usual way to write the coursing order would be:
 
 **5324**
 

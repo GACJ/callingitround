@@ -7,7 +7,7 @@ title: Simple Touches
 
 In this section, we’ll be covering some short and simple touches you can use for practice. This section will focus on touches that are short enough that it is practical to discuss which call is made at each lead, leaving discussions of “calling positions” (such as In, Wrong, or Make) for a later submodule.
 
-## Terminology
+## What Makes a Touch
 
 Here we’ll be learning about calling using very simple **compositions** which are limited to a single method and a small number of calls. When one rings a composition, the result is called a **touch**. Today we’ll discuss **short touches**, which are shorter than a quarter peal in length (less than 1250 changes), but our focus will be on _very_ short touches that are easy to memorize and practice.[^1]
 
@@ -86,7 +86,7 @@ I’m sure there are other wonderful resources for touches using this notation o
 **Aside on notation**: Note that the Banners' site contains touches in a very slightly different format. There, you read the calls off the left-hand column of the touch. A hyphen ‘-’ is a bob, an ‘s’ is a single, and a blank space indicates a plain. For example, consider the touch below: a 60 of Plain Bob Doubles from their site.
 
 {{< figure src="banner_img.png" alt="A touch of Plain Bob Doubles."
-width=150px class="float-right" attr="[image source](https://www.thebanners.uk/touches/doubles/plain.html)" >}}
+width=150px class="float-right" link="https://www.thebanners.uk/touches/doubles/plain.html" >}}
 
 Ignoring the numbers on the right-hand side, and focusing on just the left-hand annotations _between the 4-dash lines_, you can see a blank space (a plain) followed by a ‘-’ (bob), repeated twice to give “ - - -” or what we saw above as “pbpbpb”. Remember that the spaces in my table didn’t have meaning, they were just separators to show the pattern, so “pbpbpb” is the same as “pb pb pb”. The asterisk by the 60 indicates that the touch has been checked and is true. The authors also helpfully note some of the musical rows that turn up in the touch; here, Reverse Rounds (543216) and Kings (531246).
 

@@ -7,11 +7,11 @@ title: Demystifying "In, Out, Make"
 
 In this section, we’ll start to build the vocabulary and skills you’ll need to call longer and more complicated touches. When touches are longer than a few leads, it quickly becomes tiresome to memorize a long series of “plain, bob, bob, plain, bob, plain…”. To fix that problem, callers and conductors often use **calling positions** to help them remember where to put in the calls. We’ll first define calling positions and then tell you about some of the most common ones. Knowing this vocabulary will give you access to a much bigger number of compositions! In the next section, we’ll get down to brass tacks learning new compositions using this new vocabulary.
 
-## Terminology
+## Courses and Calling Positions
 
 A **plain course** is a course of a method where there is no call at any lead end. However, callers and conductors often talk about **courses** which may or may not have calls in them. A _course_ of this type starts when a tenor is in its home or natural position (in Plain Bob Minor, this is being in 6ths place at the backstroke of the lead end), and ends when the tenor has returned to its natural position. At some point, you have likely seen the plain course of a method written out like this:
 
-{{< figure src="pbminor.png" attr="[image source](https://rsw.me.uk/blueline/methods/view/Plain_Bob_Minor)">}}
+{{< figure src="pbminor.png" link="https://rsw.me.uk/blueline/methods/view/Plain_Bob_Minor">}}
 
 You’ll probably recognize this as Plain Bob Minor; there’s a treble (red line) plain hunting, and a bunch of other bells all dodging at the lead end (except one which is making seconds). Note that the tenor starts in 6ths place at the treble's backstroke lead during rounds, and returns to 6ths place at the treble's final backstroke lead in rounds. 
 

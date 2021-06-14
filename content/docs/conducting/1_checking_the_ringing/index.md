@@ -7,7 +7,7 @@ weight: 1
 
 The ability to check the ringing is often thought to be the key difference between a caller and a conductor. In this chapter on Conducting, we'll talk about tracking and checking the ringing, using information that you can get from the composition itself and doing some study beforehand.
 
-This first section is on _checking the ringing_, and it focusses on how to use memorization and other skills you already have to check the ringing, without the use of coursing orders. Much of it is derived from an article I wrote for _The Ringing World_ in 2020.
+This first section is on _checking the ringing_, and it focuses on how to use memorization and other skills you already have to check the ringing, without the use of coursing orders.[^1]
 
 When learning to check the ringing, it's often useful to start by studying the composition a little. The key is learning your landmarks and finding places where you know you can check that your ringing is accurate so far. I will focus on a few different landmarks that you can use to check the ringing as it's going. I'll use an example example of a quarter peal of Plain Bob Major.
 
@@ -15,9 +15,9 @@ When learning to check the ringing, it's often useful to start by studying the c
 
 ### Landmark: Fixed bells
 
-{{< figure src="pbmaj_1344.png" class="float-right" width=250px attr="[image source](https://complib.org/composition/33975)">}}
+{{< figure src="pbmaj_1344.png" class="float-right" width=250px link="https://complib.org/composition/33975">}}
 
-The composition is laid out with each course displayed as a line. At the end of each course, the 6 is at the “end” of the line and the 7 and 8 are nowhere to be seen. This is by convention; since the 7 and 8 are unaffected, they are not written out in this style. So you can imagine a little “78” tacked on to the end of each of those rows. You’ll note the treble is also omitted, for similar shorthand reasons. In this composition, then, you can see that the 6, 7, and 8 remain fixed. So at the end of every course, you can check those three bells and make sure they are in the right place. Every other course, the 5 is also back in its usual position.
+The composition is laid out with each course displayed as a line. At the end of each course, the 6 is at the “end” of the line and the 7 and 8 are nowhere to be seen. This is by convention; since the 7 and 8 are unaffected, they are not written out in this style. So you can imagine a little “78” tacked on to the end of each of those rows. You’ll note the treble is also omitted, for similar shorthand reasons. In this composition, then, you can see that the 6, 7, and 8 remain end up at the same place at the end of every course.[^2] So, at the end of every course, you can check those three bells and make sure they are in the right place. Every other course, the 5 is also back in its usual position.
 
 ### Landmark: Part heads
 
@@ -29,7 +29,7 @@ If you didn’t ring (nearly) an entire plain course at the beginning of a compo
 
 ### Other landmarks
 
-In a quarter peal or peal of minor, watch for it to come round (at least twice!). Watch for “roll-ups,” especially on high numbers. Know who’s making the bob, or involved in the single.
+In a quarter peal or peal of minor, watch for it to come round (at least twice!). Watch for “roll-ups,” especially on high numbers. Know who’s making the bob, or involved in the single. Maybe knowing what happens at _every_ call is too much, but you can still learn a few key ones, like at the end of a part.
 
 If you're particularly good at memorizing, you can also memorize any other aspect of the composition that is useful to you, like the course heads for example.
 
@@ -52,7 +52,7 @@ Body language and social cues can be a valuable tool for conducting. While these
 
 For some conductors the process of giving structural hints and watching social cues is very instinctual. I admit it was instinctual for me, and I find it hard to describe this process and teach it in a useful way. However, I found it revelatory when Simon Gay wrote a series of articles on his blog about this type of non-coursing-order-dependent conducting, and I highly recommend you read them if you are interested in learning more. The two in particular I am thinking of are his article on [structural conducting](https://www.handbellringing.co.uk/blog/conducting-techniques-1-structural-conducting) and his article on [local conducting](https://www.handbellringing.co.uk/blog/conducting-techniques-2-local-conducting).
 
-Whether you read those articles or not, I think one of the biggest determiners of whether these strategies are available to you have to do with how much ropesight you have. Building ropesight is so different for everyone; some people develop it nearly instantly and others struggle.[^1] 
+Whether you read those articles or not, I think one of the biggest determiners of whether these strategies are available to you have to do with how much ropesight you have. Building ropesight is so different for everyone; some people develop it nearly instantly and others struggle.[^3] 
 
 But there are a few exercises you can try for building ropesight. First, watch as much ringing as you can. If you're sitting out, watch the ringing. It's a method you've watched a million times before? Try to pick out the coursing orders. It's a method you've never even heard of, let alone knowing the line? See if you can quickly ask someone what the line of the treble is, and see if you can follow it up and down the changes. Or, see if you can tell which bell is ringing first or ringing last. These types of ropesight exercises can be practised at any level and will greatly aid your ability to see and react to what's happening around you in the tower. Other people will have written much more on ropesight than I have time for here!
 
@@ -76,7 +76,11 @@ Read Simon Gay's two blog articles on [structural conducting](https://www.handbe
 
 ## Notes
 
-[^1]: I remember one time at my local tower when a ringer's uncle came by to visit. He had never rung before, and didn't know anything about change ringing other than his niece's enthusiasm. I sat next to him during a course of Plain Bob Minor and was talking him through what the treble was doing. He paused for a minute, and then asked me why the 5 was ringing after the 6 like that. Immediately after he asked me the question, a lead end happened (the 5 made 2nds) and he exclaimed "Now it's changed!" and then described the new relationship between the 5 and the treble. He didn't know the ringing terminology, but he had incredible ropesight and an instinctive ability to pick out coursing orders, which to this day I find incredible. I suspect his level of innate skill at picking out coursing orders is very unusual!
+[^1]: If the advice seems familiar, it might be because much of it is derived from an article I wrote for _The Ringing World_ in 2020.
+
+[^2]: Bells that remain in the same position at the end of a course or part are often called *fixed bells*.
+
+[^3]: I remember one time at my local tower when a ringer's uncle came by to visit. He had never rung before, and didn't know anything about change ringing other than his niece's enthusiasm. I sat next to him during a course of Plain Bob Minor and was talking him through what the treble was doing. He paused for a minute, and then asked me why the 5 was ringing after the 6 like that. Immediately after he asked me the question, a lead end happened (the 5 made 2nds) and he exclaimed "Now it's changed!" and then described the new relationship between the 5 and the treble. He didn't know the ringing terminology, but he had incredible ropesight and an instinctive ability to pick out coursing orders, which to this day I find incredible. I suspect his level of innate skill at picking out coursing orders is very unusual!
 
 
 

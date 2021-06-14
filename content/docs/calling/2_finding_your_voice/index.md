@@ -14,7 +14,7 @@ By the end of this section, you should be able to:
 
 In addition, you will be given some exercises to try out in your tower or with your handbell band. These exercises are designed to help you “find your voice,” so that when it comes time to call a touch you have already gotten some practice talking while ringing.
 
-## Terminology review
+## Reminder: Lead Ends
 
 In _Calling It Round_, I will use the term **lead end** in the common (but imprecise) usage to refer to the two rows of the treble's lead and the change between them. Sometimes, I will use the term **lead head**, which refers only to the backstroke row.
 

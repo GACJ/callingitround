@@ -5,15 +5,15 @@ title: Learning Quarter-Length Compositions (or Longer)
 
 # Learning Quarter-Length Compositions (or Longer)
 
-In this concluding section of the chapter on calling, we'll be covering learning quarter-length or longer compositions. I debated for a long time whether to put this section in the Calling chapter or the Conducting chapter, because once you are calling longer compositions it is frequently very helpful to begin checking the ringing (conducting); however, it isn't necessary and I know I certainly wasn't checking the ringing when I called my first quarter peal. 
+In this concluding section of the chapter on Calling, we'll be covering learning quarter-length or longer compositions. I debated for a long time whether to put this section in the Calling chapter or the Conducting chapter, because once you are calling longer compositions it is frequently very helpful to begin checking the ringing (conducting); however, it isn't necessary and I know I certainly wasn't checking the ringing when I called my first quarter peal. 
 
-So here we'll talk about strategies that you can use to read and learn longer compositions, such as might be appropriate for a quarter-peal or a peal. Whether you've already called several quarters and a peal or whether you've just started calling touches at practice night, it's extremely useful to know the strategies that you can use to understand and "chunk up" longer compositions to make them easier to remember. So, to start of this chapter, we'll discuss a couple of the ways that I personally find useful when thinking about reading and learning longer compositions.  We'll start with how to read long-form compositions, using the most common notation, and then we'll cover strategies for learning them effectively for conducting purposes.
+So here we'll talk about strategies that you can use to read and learn longer compositions, such as might be appropriate for a quarter-peal or a peal. Whether you've already called several quarters and a peal or whether you've just started calling touches at practice night, it's extremely useful to know the strategies that you can use to understand and "chunk up" longer compositions to make them easier to remember. So, to start off this chapter, we'll discuss a couple of the ways that I personally find useful when thinking about reading and learning longer compositions.  We'll start with how to read long-form compositions, using the most common notation, and then we'll cover strategies for learning them effectively for conducting purposes.
 
 Throughout, we'll use the same quarter peal composition displayed in different formats. You may find one format easier than another, and this preference may change over the course of your journey as a caller or conductor. It may feel like the below is more of a [Composition Library](complib.org) tutorial than a briefing on how to conduct; but the reality of the situation is that "in the wild" you will see compositions in a huge variety of notations and styles, and Composition Library is one of the best tools available to the modern ringer for seeing a given composition presented in many styles at the click of a button.
 
 ## How to read and learn a composition (by leads)
 
-{{< figure src="pbmin_leads.png" class="float-left" width=250 attr="[image source](https://complib.org/composition/10395)">}}
+{{< figure src="pbmin_leads.png" class="float-left" width=250 link="https://complib.org/composition/10395">}}
 
 First we'll review a familiar compositional layout, with a few new bits. This example on the left shows each lead of the first part a 720 of Plain Bob Minor. Since a 720 of Minor is an extent, ringing this composition twice would make a quarter peal. It would come round in the middle and the ringers would then keep going.
 
@@ -31,13 +31,13 @@ You can also see that the Home in the first course is right next to the Wrong of
 
 ## How to read and learn a composition (by courses)
 
-{{< figure src="pbmin_courses.png" class="float-right" width=250 attr="[image source](https://complib.org/composition/10395)">}}
+{{< figure src="pbmin_courses.png" class="float-right" width=250 link="https://complib.org/composition/10395">}}
 
 A more concise way to state the same composition is shown on the right. You can see that instead of showing every lead head on the right-hand side of the composition layout, only the course heads are shown. This cuts out a lot of information that you may want! However, some people may find this condensed format much easier to memorize, depending on personal memorization style.
 
 Here, the "-" stands for bob and the "s" stands for single as usual. The column headers "W" and "H" indicate the calling position. The brackets around "s" mean that the call isn't included in all parts; the footnote further clarifies that one out to include it in parts 3 and 6. When you see brackets in a composition, make sure you know what they mean and how they affect the composition before ringing.
 
-{{< figure src="pbmin_all_parts.png" class="float-left" width=250 attr="[image source](https://complib.org/composition/10395)">}}
+{{< figure src="pbmin_all_parts.png" class="float-left" width=250 link="https://complib.org/composition/10395">}}
 
 If the meaning of the bracketed single is still elusive, perhaps a look at the following view will help. This view also shows each course head (rather than each lead head), but it shows every part rather than just showing one part and telling you "6 part". The heavy solid lines separate out the different parts and indeed there are six of them. With this layout, it may be easier for you to visualize where exactly where the singles go.
 

@@ -5,7 +5,7 @@ title: Less Common Calling Positions
 
 # Less Common Calling Positions
 
-As we discussed in the previous section, you can do a lot with a little; knowing only a few calling positions can enable you to call a good number of touches. However, to unlock the rest of the huge treasure trove of compositions that exist, it’s necessary to know just a few more things. In this subsection, we’ll cover:
+As we discussed in the previous section, you can do a lot with a little; knowing only a few calling positions can enable you to call a good number of touches. However, to unlock the rest of the huge treasure trove of compositions that exist, it’s necessary to know just a few more things. In this section, we’ll cover:
 
 
 1. A few more common calling positions (enough to get you through a majority of commonly-called compositions)
@@ -15,9 +15,9 @@ As we discussed in the previous section, you can do a lot with a little; knowing
 
 ## A few more calling positions
 
-In the first subsection where we talked about calling positions, we discussed the calling positions of Plain Bob Minor. Today, we'll talk about two more calling positions which _don't_ exist in Plain Bob Minor, but _do_ exist for Plain Bob Major and the majority of other methods on 8 or more bells.[^1]
+In the first section where we talked about calling positions, we discussed the calling positions of Plain Bob Minor. Today, we'll talk about two more calling positions which _don't_ exist in Plain Bob Minor, but _do_ exist for Plain Bob Major and the majority of other methods on 8 or more bells.[^1]
 
-{{< figure src="pbmajor.png" caption="[image source](https://rsw.me.uk/blueline/methods/view/Plain_Bob_Major)">}}
+{{< figure src="pbmajor.png" link="https://rsw.me.uk/blueline/methods/view/Plain_Bob_Major">}}
 
 ### Brief review
 
@@ -44,7 +44,7 @@ For odd stage methods, the definition of Middle can be confusing or inconsistent
 
 _Which of these calling positions are the "most important" and why?_
 
-In the table above, only Fifths, Fourths, and Middle are technically "new". Before and In were covered in the previous subsection on calling positions. If you are only going to learn one of the new calling positions at a time, **Middle** is the one to focus on first. 
+In the table above, only Fifths, Fourths, and Middle are technically "new". Before and In were covered in the previous section on calling positions. If you are only going to learn one of the new calling positions at a time, **Middle** is the one to focus on first. 
 
 Why? It's used in a huge variety of compositions. In my experience, knowledge of only Home, Wrong, and Middle will allow one access to a huge array of touches, quarters, and even peals. Okay, I hear you ask, but _why_ those three?
 
@@ -67,7 +67,7 @@ Different people will have different impulses when they are given a composition 
 
 ### Strategy 1: Write It Out
 
-{{< figure src="w3bmh.png" caption="[image source](https://complib.org/composition/11243)" 
+{{< figure src="w3bmh.png" link="https://complib.org/composition/11243" 
 class="float-right" width=200px >}}
 
 Maybe in the modern age this is a bit old-fashioned. After all, what are iPads for? But I think when you're first starting, writing out and taking the time to go slowly through the touch and understand where all the calls are can be very useful indeed. Write out as much or as little as you need. You may start by writing out every single row, from rounds back to rounds! Or you may only need to write out lead heads, or another helpful schematic. But if you can't figure out where to get started on a composition, writing it out is always a great starting place. Make sure you clearly understand where the calls go in and what they do to the bells; both your bell(s) and everyone else's.
@@ -78,7 +78,7 @@ Graham John's [Composition Library](https://www.complib.org) is a huge boon for 
 
 Of particular use, I think, is the "Blue Line" section, which can be expanded by clicking on the words "Blue Line" in the CompLib page. There, you can see each of the rows in the touch, written out, with a marking by where the calls ought to go. Note that the calls are written next to the row of the treble's handstroke lead, and are written on the left-hand side rather than the right as in the image of Plain Bob Major above; this is just down to different people preferring different conventions.
 
-{{< figure src="blueline.png" caption="[image source](https://complib.org/composition/11243)" >}}
+{{< figure src="blueline.png" link="https://complib.org/composition/11243" >}}
 
 The blue line layout is very useful for this touch. It can warn you that the 3 calls at Before all line up right next to each other! Since the tenor runs out at each call, it repeats the lead it just rang and is ready to run out again at the very next lead end. The call at Middle is just before the call at Home, and the "That's all!" comes just as the final bob is executed! So there's a lot happening at once. But it's a beautiful touch, very musical and reasonably short, and great practice for these four common calling positions.
 
