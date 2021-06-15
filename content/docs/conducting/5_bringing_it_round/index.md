@@ -33,10 +33,3 @@ As far as print resources, there are many good ones.
 
 The print resources, especially the older ones, may follow slightly different conventions than I have in _Calling It Round_; but variety is the spice of life and now it's up to you to figure out what you like best! There are also many other wonderful sources of compositions both on the internet and in print.
 
-## Final words
-
-I'm happy to say that there is a lot more content about calling and conducting than I could possibly write for _Calling It Round_. One of the biggest joys of ringing, for me, is the possibility of constant growth and learning; and there's so much more to learn about conducting than the meagre amount I've managed to set down here. My hope is that this site was helpful in giving you grounding in some basics, giving you context for some common conventions, and giving you a reason to go practice!
-
-I can only hope it was half as enjoyable and educational for you to browse this website as it was for me to make it. Special thanks are due to the people who helped bring this to life: Simon Linford, David Smith, and Leland Kusmer. They provided invaluable feedback throughout the process.
-
-
