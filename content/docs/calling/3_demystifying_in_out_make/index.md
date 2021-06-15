@@ -67,7 +67,7 @@ I’m sure there are many others. If you are aware of (or author of!) any other 
 
 Assume all questions refer to Plain Bob Minor, with the 6 as observation bell (as in the image), unless otherwise stated.
 
-{{< figure src="pbminor.png" caption="[image source](https://rsw.me.uk/blueline/methods/view/Plain_Bob_Minor)">}}
+{{< figure src="pbminor.png" link="https://rsw.me.uk/blueline/methods/view/Plain_Bob_Minor">}}
 
 {{< question id="1_demyst1" >}}
 {{< question id="1_demyst2" >}}

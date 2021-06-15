@@ -43,7 +43,7 @@ This strategy requires some ropesight and maybe some advanced preparation, but i
 
 ### Strategy 2: Take a lighter fixed bell
 
-{{< figure src="camb_1250.png" class="float-right" width=300px attr="[image source](https://complib.org/composition/11965)">}}
+{{< figure src="camb_1250.png" class="float-right" width=300px link="https://complib.org/composition/11965">}}
 
 The strategy of taking a lighter fixed bell is sometimes easier said than done, depending on what bell or bells you consider light. For example, this [1344 of Plain Bob Major](https://complib.org/composition/38969) does not have a fixed 2, 3, or 4! So you either have to ring a heavier bell, take on a greater memorization burden, or use one of the other strategies on this list. But let's say we're wanting to ring the 6 at our 8-bell tower to this [1250 of Cambridge Surprise Major](https://complib.org/composition/11965) shown to the right. 
 

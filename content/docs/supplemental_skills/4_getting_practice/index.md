@@ -67,7 +67,7 @@ Having to set up your own opportunities does require extra work. And, for some p
 
 This set of problems and ideas for solutions is not comprehensive, and not every idea will work for every person. Are you encountering other difficulties in your conducting progress? Or do you have other thoughts on how people might get better practice? Contact me and I may add them to this space. 
 
-# Notes
+## Notes
 
-[^1]: These emails have decreased in frequency since we just released Wheatley, the Ringing Room bot!
+[^1]: These emails have decreased in frequency since Wheatley the Ringing Room bot was released, in collaboration with its [developers](https://github.com/kneasle/wheatley).
 

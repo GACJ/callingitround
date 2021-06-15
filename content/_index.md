@@ -22,6 +22,8 @@ Chapter 2, Conducting, focuses on more complex compositions and gives a variety 
 
 Chapter 3, Supplemental Skills, gives a few extra items of guidance that might be thought of as auxiliary to the conducting itself, but which I think are useful. For example, there is a section with advice on picking a good handbell composition, and another on thoughts about placing a band for a touch or quarter peal.
 
+Chapter 4, Acknowledgements, is what it says on the tin!
+
 While each section has its own unique focus, all of the sections will include content aimed at helping the aspiring caller or conductor to learn how to use their new skills _round_ the circle; that is, not just from the tenor or heaviest working bell.
 
 Although I tried to give as much information as I thought expedient (and not more!), doubtless personal tastes will vary. I hope everything I have included is correct; please let me know if it is not. 
