@@ -214,7 +214,7 @@
         "possible_answers": {
             "a": {
                 "label": "True",
-                "response": "Review the definitions of calling positions above.",
+                "response": "Not quite. Review the definitions of calling positions above.",
                 "correct": ""
             },
             "b": {
@@ -229,12 +229,12 @@
         "possible_answers": {
             "a": {
                 "label": "True",
-                "response": "What happens at a Home (H)? How is this different to a Wrong (W)?",
+                "response": "Not quite. What happens at a Home (H)? How is this different to a Wrong (W)? Will the tenor be in 6ths place before or after the dodge?",
                 "correct": ""
             },
             "b": {
                 "label": "False",
-                "response": "That's right. The tenor will be in 6ths place before the dodge, but will wind up in 5ths place.",
+                "response": "You're correct. The call is made while the tenor is in fifths place, the tenor continues hunting up to 6ths place, and then dodges to 5 at the lead end.",
                 "correct": "yes"
             }
         }
@@ -249,7 +249,7 @@
             },
             "b": {
                 "label": "False",
-                "response": "Review the definition of Fourths (F).",
+                "response": "Not quite. Review the definition of Fourths (F).",
                 "correct": ""
             }
         }
@@ -259,7 +259,7 @@
         "possible_answers": {
             "a": {
                 "label": "4",
-                "response": "Try taking a look at the blue line above. How many different positions in the blue line are there to make a call?",
+                "response": "Not quite. Try taking a look at the blue line above. How many different positions in the blue line are there to make a call?",
                 "correct": ""
             },
             "b": {
@@ -284,12 +284,12 @@
             },
             "b": {
                 "label": "5",
-                "response": "How many place bells are there for Plain Bob Doubles? Can there be more calling positions than place bells?",
+                "response": "Not quite. How many place bells are there for Plain Bob Doubles? Can there be more calling positions than place bells?",
                 "correct": ""
             },
             "c": {
                 "label": "6",
-                "response": "Try writing out all of the calling positions for Plain Bob Doubles.",
+                "response": "Not quite. Try writing out all of the calling positions for Plain Bob Doubles.",
                 "correct": ""
             }
         }
@@ -319,7 +319,7 @@
             },
             "b": {
                 "label": "Before",
-                "response": "Was the tenor coursing before the treble?",
+                "response": "Not quite. Was the tenor coursing before the treble?",
                 "correct": ""
             },
             "c": {
