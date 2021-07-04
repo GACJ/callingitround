@@ -5,7 +5,7 @@ title: Simple Touches
 
 # Simple Touches
 
-In this section, we’ll be covering some short and simple touches you can use for practice. This section will focus on touches that are short enough that it is practical to discuss which call is made at each lead, leaving discussions of “calling positions” (such as In, Wrong, or Make) for a later submodule.
+In this section, we’ll be covering some short and simple touches you can use for practice. This section will focus on touches that are short enough that it is practical to discuss which call is made at each lead, leaving discussions of “calling positions” (such as In, Wrong, or Make) for a later submodule. Examples are focused on various stages of Plain Bob as well as a few other common methods, with a few short touches of Grandsire included. It is my hope to add more complete supplemental sections for Grandsire as well as Stedman and Erin in the coming months.
 
 ## What Makes a Touch
 

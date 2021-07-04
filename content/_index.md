@@ -12,7 +12,7 @@ Bryn Reinstadler
 
 Welcome to _Calling It Round_, a publication focused on getting ringers involved in calling and conducting from any bell.
 
-_Calling It Round_ is aimed at an audience who is familiar with Plain Bob Minor and other common methods, but it doesn't assume you've done _any_ calling before.
+_Calling It Round_ is aimed at an audience who is familiar with Plain Bob Minor and other common methods, but it doesn't assume you've done _any_ calling before. Examples are focused on various stages of Plain Bob as well as a few other common methods, with a few short touches of Grandsire included. It is my hope to add supplemental sections for Grandsire as well as Stedman and Erin in the coming months.
 
 ## Overview
 
@@ -30,7 +30,7 @@ Although I tried to give as much information as I thought expedient (and not mor
 
 ## About the Author
 
-{{< figure src="author_headshot_padded.jpeg" class="float-left" width=150px >}}
+{{< figure src="author_headshot_padded_small.jpeg" class="float-left" width=150px >}}
 
 I am an early-career conductor in the Boston, Massachusetts area. I learned to ring in late 2017 and called my first quarter a year later; and that was that! Since then, I've conducted a modest complement of quarters and peals, and a good number of practice night touches. Many of those have been called from a lighter bell, and through _Calling It Round_ I hope to encourage those who prefer to ring lighter bells to give calling a try!
 

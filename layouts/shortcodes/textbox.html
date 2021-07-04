@@ -2,12 +2,16 @@
   function checkAnswer(id,
   			           answer) {
     answerLabel = document.getElementById('label'+id);
-	inp = document.getElementById(id).value;
-	console.log(inp)
+	rawinp = document.getElementById(id).value;
+	var inp = rawinp.trim();
+    console.log(inp)
 	if (inp === answer) {
 		answerLabel.innerText = "That's right!";
 		answerLabel.style.color = "blue";
-	} else {
+    } else if (inp === "") {
+        answerLabel.innerText = "Please type in the box and then submit.";
+        answerLabel.style.color = "black";
+    } else {
 		answerLabel.innerText = "Not quite right...";
 		answerLabel.style.color = "red";
 	}

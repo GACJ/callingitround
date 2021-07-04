@@ -17,7 +17,7 @@ Personally: If I think that at least one other ringer will be interested to know
 2. Are there bobs _and_ singles or just bobs or just singles? Is it mostly bobs but a single at middle and end? 
 3. Are there any particular features that people should watch out for? For example, are some handbell pairs preserved (but swapped) part-to-part, or is there some interesting symmetry?
 4. Are there any unusual calls? If there is _any_ ambiguity about the call type (are singles 1234 or 1678?), I make sure to specify before we begin, even if the band were given the information in an email beforehand. Not worth the risk of a fire-up!
-5. If you're ringing spliced, a quick re-cap of the methods involved (Something like "Yes, it's the 14, not the 10" will do in many cases; or if you're only ringing a few, reminding by method name).
+5. If you're ringing spliced, the name of the first method, and maybe a quick re-cap of the other methods involved (Something like "Yes, it's the 14, not the 10" will do in many cases; or if you're only ringing a few, reminding by method name).
 
 ## During the ringing
 

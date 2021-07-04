@@ -5,7 +5,7 @@ title: Demystifying "In, Out, Make"
 
 # Demystifying “In, Out, Make”: The most common calling positions
 
-In this section, we’ll start to build the vocabulary and skills you’ll need to call longer and more complicated touches. When touches are longer than a few leads, it quickly becomes tiresome to memorize a long series of “plain, bob, bob, plain, bob, plain…”. To fix that problem, callers and conductors often use **calling positions** to help them remember where to put in the calls. We’ll first define calling positions and then tell you about some of the most common ones. Knowing this vocabulary will give you access to a much bigger number of compositions! In the next section, we’ll get down to brass tacks learning new compositions using this new vocabulary.
+In this section, we’ll start to build the vocabulary and skills you’ll need to call longer and more complicated touches. When touches are longer than a few leads, it quickly becomes tiresome to memorize a long series of “plain, bob, bob, plain, bob, plain…”. To fix that problem, callers and conductors often use **calling positions** to help them remember where to put in the calls. We’ll first define calling positions and then tell you about some of the most common ones. In _Calling It Round_, we will mostly be covering methods like Plain Bob or Cambridge Surprise, which are methods with a single hunt bell, the treble. I hope to add supplements about Grandsire (a method with two hunt bells) and Stedman (a principle), so stay tuned if those interest you! Knowing this vocabulary will give you access to a much bigger number of compositions! In the next section, we’ll get down to brass tacks learning new compositions using this new vocabulary.
 
 ## Courses and Calling Positions
 
@@ -91,12 +91,12 @@ Last section, we learned a simple lead-by-lead notation for calls. This time, we
 ## Notes
 
 [^1]:
-     This is _mostly_ true. It is not true for Stedman or Erin, but is true for the vast majority of commonly rung methods (and some principles); the work of the observation bell directly relates to the name of the calling position.
+     This is _mostly_ true. It is not always true for Stedman or Erin, but is true for the vast majority of commonly rung methods (and some principles); the work of the observation bell directly relates to the name of the calling position. Grandsire, Stedman, and Erin have a language of their own which I won't be covering here!
      
 [^2]: If it helps to hear it another way: the calling position is _not_ named by where the observation bell is when the call is made; it's named by where the observation bell is when the call has been executed, which is a whole pull later!
 
 [^3]:
-     There is another call known as "Middle" that we won't cover in this section, but it can also be abbreviated with M. Often when there is a Middle (M) calling position available, the calling position used for making the fourths will be simply Fourths (F).
+     There is another call known as "Middle" that we won't cover in this section, but it can also be abbreviated with M. Often when there is a Middle (M) calling position available, the calling position used for making the fourths will be simply Fourths (F). 
 
 [^4]:
      It came up in the process of compiling this section that in fact, the two calling positions “Wrong and Home” used to be known as “Wrong and _Right_”. Conducting is definitely a living tradition and it has changed over time; clearly nothing here is set in stone! But I am setting down what I believe to be common practice these days.

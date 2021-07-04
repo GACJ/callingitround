@@ -9,7 +9,7 @@ We've been through a lot of material together! This last section is just for com
 
 ## Composition collections
 
-The skills and techniques you've learn can be applied to nearly any composition, including those from the chapter on Calling. However, it's sometimes useful to have access to a small list of compositions to choose from which are uniquely suited to one's needs. With that in mind, I've compiled a few compositions for you. There are two CompLib collections which I think you might enjoy:
+The skills and techniques you've learned can be applied to nearly any composition, including those from the chapter on Calling. However, it's sometimes useful to have access to a small list of compositions to choose from which are uniquely suited to one's needs. With that in mind, I've compiled a few compositions for you. There are two CompLib collections which I think you might enjoy:
 
 1. [_Calling It Round: Good quarters for practice_](https://complib.org/collection/11083) is a collection that has 13 quarter compositions for Major methods. 
 2. [_Mix and Match: Simple Quarter Peals of Minor_](https://complib.org/collection/10904) is a collection that does what it says on the tin! It has several 720s (extents of minor) and a few bits less than that to add up to make a quarter.
