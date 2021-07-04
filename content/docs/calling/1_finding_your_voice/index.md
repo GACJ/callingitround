@@ -49,7 +49,7 @@ Calls often go in a whole pull in advance, but there can be considerable variati
 If you want to know more about these definitions, or other ringing terms, you can try the following excellent resources:
 
 * **[John Harrison's Glossary of ringing terms](http://jaharrison.me.uk/Ringing/Glossary/)**
-* **[CCCBR Framework for Method Ringing](https://cccbr.github.io/method_ringing_framework/fundamentals.html)**
+* **[CCCBR Framework for Method Ringing](https://cccbr.github.io/method_ringing_framework/version1/fundamentals.html)**
 
 ## Exercises
 
