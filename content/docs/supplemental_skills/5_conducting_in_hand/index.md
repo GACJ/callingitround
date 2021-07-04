@@ -25,20 +25,19 @@ Don Morrison's website [ringing.org](https://ringing.org/) has particularly good
 
 ### Using CompLib's Handbell Positions
 
-There are a few other ways to figure out whether a composition is particularly handbell friendly which involve the use of CompLib's "Handbell Positions" tab under a given composition. For example, have a look at two different quarter peal compositions for Malpas Surprise Major. 
+There are a few other ways to figure out whether a composition is particularly handbell friendly which involve the use of CompLib's "Handbell Positions" tab under a given composition. For example, have a look at two different quarter peal compositions for Plain Bob Major. 
 
-{{< figure src="malpas_1344.png" link="https://complib.org/composition/36069" >}}
+{{< figure src="pb_jrp.png" link="https://complib.org/composition/73009">}}
 
-This 1344 has a limited number of calling positions and leaves the tenors unaffected. So far, so good; and it's fairly musical as well with a music score of 283. Let's look more in depth at the handbell pairs, though. By reading across each _row_ of the table, you can see the amount of the time that each pair is ringing its own pattern. So for example, the 1-2 pair will always be ringing leads from the 1-2 pattern, because the treble has a fixed line in each lead. In this composition, the 3-4 and 5-6 pairs spend about equal time in their own pattern and in the other two available patterns, with about 33\% of the time spent in each. 
+This 1264 has a limited number of calling positions and leaves the tenors unaffected. So far, so good; and it's fairly musical as well with a music score of 212. Let's look more in depth at the handbell pairs, though. By reading across each _row_ of the table, you can see the amount of the time that each pair is ringing its own pattern. So for example, the 1-2 pair will always be ringing leads from the 1-2 pattern, because the treble has a fixed line in each lead. In this composition, the 3-4 and 5-6 pairs spend a good amount of time in their own pattern, but also spend a fair amount of time in the other two available patterns.
 
-Compare that to this 1280 of Malpas Surprise Major, which is arguably slightly less musical with the music score of 273 and which has four calling positions instead of three.[^1]
+Compare that to this 1264 of Plain Bob Major, which is arguably slightly less musical with the music score of 203 and which has fewer calls at Home.[^1]
 
+{{< figure src="pb_mbd.png" link="https://complib.org/composition/10411" >}}
 
-{{< figure src="malpas_1280.png" link="https://complib.org/composition/40492">}}
+However, 3-4 pair spends _no_ time in the 5-6 pattern, and is only ever in its home pattern or in the 7-8 pattern. This is great: the ringer of the 3-4 pair will likely have practiced the 3-4 pair to plain courses and that will feel familiar. The 7-8 pattern is special because the 7-8 are often coursing, and are therefore often an "easier" pair to learn. Avoiding the 3-4 ringing the 5-6 pattern makes it an easier composition for a handbell band. Similarly, the 5-6 pair does not have to ring too many leads in the 3-4 pattern and spends the majority of its time at home or in the 7-8 pattern.
 
-However, 3-4 pair spends _much_ less time in the 5-6 pattern, in fact only has 1 lead of the 5-6 pattern, and spends most of the rest of the time in the home pattern or in the 7-8 pattern. This is ideal: the ringer of the 3-4 pair will likely have practiced the 3-4 pair to plain courses and that will feel familiar. The 7-8 pattern is special because the 7-8 are often coursing, and are therefore often an "easier" pair to learn. Avoiding the 3-4 ringing the 5-6 pattern makes it an easier composition for a handbell band. Similarly, the 5-6 pair does not have to ring too many leads in the 3-4 pattern. 
-
-So these two compositions, which have many similar features --- both quarter peals of Malpas, both relatively similarly musical and with only a few calling positions each --- will feel quite different to one another for a handbell band. 
+So these two compositions, which have many similar features --- both are nice quarter peals of Plain Bob, relatively similarly musical and with only a few calling positions each --- will feel quite different to one another for a handbell band. 
 
 ### Using lead heads
 
@@ -55,4 +54,4 @@ I highly recommend the book _Change-Ringing on Handbells (Volume 1: Basic Techni
 ## Notes
 
 [^1]:
-	Note that this is actually confounded: longer compositions are likely to be slightly more musical because they have more "chances" at musical changes. Also, music scores reflect a certain musical taste (you can see what is judged by clicking on the Music Score tab) but the scores are by no means objective arbiters of taste!
+	Music scores reflect a certain musical preference (you can see what is judged by clicking on the Music Score tab) but the scores are by no means objective arbiters of taste!
