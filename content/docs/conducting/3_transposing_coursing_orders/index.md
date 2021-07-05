@@ -33,7 +33,7 @@ The amazing thing about viewing a bob as a transposition of a coursing order is 
 
 {{< figure src="transpose_wrong.png" class="center" width=100px >}}
 
-You can confidently know that there was a call at Wrong. It is definitional: at a Wrong, the first three bells in the coursing order are transposed. In this case, it's the 532. When there is a bob, the way the three bells move about tells you what they do at the bob. In this case, the 5 made it, the 3 ran out, and the 2 ran in. And no matter what the coursing order is, this will work! If you start with 2354 and make a call at Wrong, you will get 3524; the 2 will make it, the 3 will run out, and the 5 will run in. These universal patterns are part of what make learning about coursing orders so useful.
+You can confidently know that there was a call at Wrong, _even if the starting coursing order were different_. It is definitional: at a Wrong, the first three bells in the coursing order (written by this convention) are transposed. In this case, it's the 532. A further pattern: when there is a bob, the way the three bells move about tells you _what they do at that bob_. In this case, the 5 made it, the 3 ran out, and the 2 ran in. And no matter what the coursing order is, this will work! If you start with 2354 and make a call at Wrong, you will get 3524; the 2 will make it, the 3 will run out, and the 5 will run in. These patterns are part of what make learning about coursing orders so useful.
 
 
 ## Home

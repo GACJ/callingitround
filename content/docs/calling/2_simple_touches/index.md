@@ -61,7 +61,9 @@ Compositions like this, where you make the call ‘bob’ at every lead, are cal
 
 ## Several more short practice night touches
 
-These practice night touches were chosen for being short (so that they can be put in notation that is easy-to-read) and for being true in commonly-rung methods. For each touch in this table, I put the method, the number of rows, the composition, and some notes. Calling from the treble is appropriate for every touch; calling from an inside bell will be easier for some touches than others, and this fact is noted where appropriate.
+These practice night touches were chosen for being short (so that they can be put in notation that is easy-to-read) and for being true in commonly-rung methods. For each touch in this table, I put the method, the number of rows, the composition, and some notes. Calling from the treble is appropriate for every touch; calling from an inside bell will be easier for some touches than others, and this fact is noted where appropriate. 
+
+A brief side note: I know that many bands ring a good deal of Grandsire. Grandsire is a lovely method! However, it does behave somewhat differently to Plain Bob and the other methods I'm focusing on here. I am going to include a few Grandsire compositions below, but I'm really not doing it justice; I want to add an entire supplemental section (or whole chapter?) on Grandsire at some point in the future. For now, if you want to try calling some Grandsire, here's the most relevant difference at this stage: The calls are made at the treble's _handstroke in 3_ (a whole pull before they take effect: right before the lead end). 
 
 In this table, ‘b’ is for ‘bob’; ‘s’ is for ‘single’; and ‘p’ is for ‘plain’ (no call). Spaces are not meaningful; they just chunk up the composition so patterns are easier to spot.
 
@@ -69,7 +71,11 @@ In this table, ‘b’ is for ‘bob’; ‘s’ is for ‘single’; and ‘p�
 ----- | -----: | ----- | -----
 Plain Bob Doubles | 20 | bb | Called from the 2 or 3, you plain hunt the whole time.
 Plain Bob Doubles | 60 | pb pb pb | Called from the 4, you make every bob.
+Grandsire Doubles | 20 | bb | A bob course of Grandsire Doubles -- everyone's affected!
+Grandsire Doubles | 60 | pb pb pb | Called from the 5, this is known as "calling yourself half hunt". You do the same work every two leads.
+Grandsire Doubles | 120 | pb pb ps pb pb ps | Turns the previous touch into an extent.
 Plain Bob Minor | 72 | ppb ppb | Called from the 4, you make every bob.
+Grandsire Triples | 42 | bbb | A bob course of Grandsire Triples.
 Cambridge Surprise Minor | 120 | bbbbb | This one is deceptively tricky, but fun!
 Kent Treble Bob Major | 96 | bbb | Easiest from the treble or the back 4 bells. Often called "Three leads of Kent".
 
