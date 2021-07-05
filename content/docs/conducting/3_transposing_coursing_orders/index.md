@@ -13,7 +13,7 @@ One way to do this is by straight memorization, and doing some memorization of c
 
 ## Calls and coursing orders
 
-Let's talk about a few common calls and how those affect the coursing order. We'll use Plain Bob Minor again as our example, because there's only a small number of bells to keep track of.
+Let's talk about a few common calls and how those affect the coursing order. We'll use Plain Bob Minor again as our example, because there's only a few bells to keep track of.
 
 ## Wrong
 
@@ -29,16 +29,22 @@ In the example given above, the coursing order changed from 5324 (the plain cour
 
 So the bell in the "front" of the coursing order (the 5) got moved two places back and shuffled everything else around accordingly. Note that the 5 is actually the bell that made the bob! And the other two bells that "moved" in the coursing order were the other bells affected in the bob.
 
+The amazing thing about viewing a bob as a transposition of a coursing order is that it works _at every calling position_. All that happens when you move calling positions is that you move _which_ bells are affected by the transposition; but the shape of the thing -- the directions the arrows point and how many there are -- remain the same. When you see:
+
+{{< figure src="transpose_wrong.png" class="center" width=100px >}}
+
+You can confidently know that there was a call at Wrong. It is definitional: at a Wrong, the first three bells in the coursing order are transposed. In this case, it's the 532. When there is a bob, the way the three bells move about tells you what they do at the bob. In this case, the 5 made it, the 3 ran out, and the 2 ran in. And no matter what the coursing order is, this will work! If you start with 2354 and make a call at Wrong, you will get 3524; the 2 will make it, the 3 will run out, and the 5 will run in. These universal patterns are part of what make learning about coursing orders so useful.
+
 
 ## Home
 
-Let's try that trick again, but with a bob at Home. Remember to use the same convention as before: don't include the treble or the tenor in your coursing order answer.
+So with that weighty knowledge in hand, let's try our trick again, but with a bob at Home. Remember to use the same convention as before: don't include the treble or the tenor in your coursing order answer.
 
 {{< textbox id="tra2" answer="5243" >}}
 {{< figure src="home_bob.png" class="float-right" width=200px >}}
 {{< /textbox >}}
 
-Here the coursing order changed from 5324 (the plain course coursing order) to 5243. Unlike in the bob at Wrong example, here the 5 stayed put and the other bells swapped around:
+Here the coursing order changed from 5324 (the plain course coursing order) to 5243. Unlike in the bob at Wrong example, here the first bell in the order (the 5) stayed put and the other bells swapped around:
 
 {{< figure src="transpose_home.png" class="center" width=100px >}}
 
@@ -95,13 +101,13 @@ Take a moment and consider what happens if you ring two singles at Home. Write i
 
 ## Other things to know
 
-I have covered a relatively limited set of information about transposition of coursing orders; just a few calling positions and two types of calls. But this should be enough to get you started! Just be aware that calls at different calling positions may affect the way the transposition works, especially when the heaviest bell is affected. Calls at the same calling position in a different method may affect the transposition differently! This is one of those things where you must be careful to know what effect the calls in your composition have on the bells. It will be easiest to work up to it from a limited number of calling positions and relatively little number of bells (Minor or Major).
+I have covered a relatively limited set of information about transposition of coursing orders; just a few calling positions and two types of calls. But this should be enough to get you started! Just be aware that calls at different calling positions may affect the way the transposition works in your head, especially when the heaviest bell is affected -- like we saw above with the Before. Calls at the same calling position -- even in a different method! -- mean the same thing for the transposition. The nearly-universal nature of this pattern is what makes it so useful.[^2]
 
 ## Coursing orders on higher numbers
 
-In minor, it is common to write the coursing orders as 4-bell coursing orders, such as 5324, because that covers all of the working bells except the heaviest one. In major, even though you add _two_ bells, it is common to write a 5-bell coursing order, omitting both the 7 and the 8. So for example, the "usual" coursing order of bells in Plain Bob Major would be commonly written as 53246. There is an implied 7 and 8 in there (I usually think of it as [7]53246[8] but others prefer to think of it as [87]53246 --- it's all preference). 
+In minor, I like to write the coursing orders as 4-bell coursing orders, such as 5324, because that covers all of the working bells except the heaviest one, which is often fixed. Others will write out the full thing: 53246. In major, even though you add _two_ bells, it is common to write a 5-bell coursing order, omitting both the 7 and the 8. So for example, the "usual" coursing order of bells in Plain Bob Major would be commonly written as 53246. There is an implied 7 and 8 in there (I usually think of it as [7]53246[8] but others prefer to think of it as [87]53246 --- it's all preference). 
 
-On still higher stages like Royal or Maximus, it is still common to have only a 5 or 6 bell coursing order. This is because many composers choose to create compositions that only affect the "little bells" even when many bells are being rung. It saves space to write down only those bells which will actually be changing over the course of the composition. However, sometimes you will still see very large coursing orders given for larger stages.
+On still higher stages like Royal or Maximus, it is still common to have only a 5 or 6 bell coursing order. This is because many composers choose to create compositions that only affect the front bells even when many bells are being rung. It saves space to write down only those bells which will actually be changing over the course of the composition. However, sometimes you will still see very large coursing orders given for larger stages.
 
 ## Resources
 
@@ -121,3 +127,7 @@ Once again I have an excellent set of blog posts from Simon Gay to recommend you
 
 [^1]:
 	If transpose isn't a familiar word to you, here's a definition: transpose means to change things around. It can have a more technical meaning if you're using it in mathematics, but that's the general meaning. Changing bells from the order 243 to 234 is a transposition.
+	
+[^2]:
+	Unfortunately, in a small number of cases, the pattern does break. Either through differences in conventions or just mistakes, there are published compositions that use the same calling position to mean transposing different bells to "normal" (as defined above). This is most apparent with the definition of Middle in triples compositions, but can be seen elsewhere as well. It's not very common, but it does warrant a warning.
+	

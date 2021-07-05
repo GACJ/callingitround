@@ -29,7 +29,9 @@ Conducting from the cover is not particularly often done,[^2] but I think it has
 
 ## Conducting from: the treble
 
-The treble is another great place from which to conduct. It's often a great place to watch coursing orders from, especially since you might not need to have as many brain cells concentrated on ringing the method. Similarly to the cover, you also get rope-sight practice watching the observation bell, but with the added challenge of ringing a bell that moves through the change. Bonus: you always know when the lead end and half lead are.
+The treble is another great place from which to start learning to conduct. It's often a great place from which to watch coursing orders, especially since you might not need to have as many brain cells concentrated on ringing the method. Similarly to the cover, you also get rope-sight practice watching the observation bell, but with the added challenge of ringing a bell that moves through the method a little more. Bonus: you always know when the lead end and half lead are. 
+
+It's worth noting that eventually, conducting from the treble may feel harder than conducting from inside, especially on large numbers of bells. But lots of people do at least a little bit of conducting from the treble, and it can be great fun and good practice.
 
 ## Conducting from: a "non-observation" bell
 
@@ -111,15 +113,7 @@ This strategy is, to my estimation, more involved than the above options. It req
 
 ## Conducting from: a handbell pair
 
-I really love conducting in hand. My first ringing experiences were all on handbells --- my first practice, first quarter, first as conductor --- and they hold a special place in my heart. So I'd like to talk about a few things to keep in mind when you're conducting from a handbell pair.
-
-{{< figure src="sted_caters.png" width=250px class="float-right" link="https://complib.org/composition/22802">}}
-
-One of the first choices you'll have to make is whether to conduct from a fixed pair or not. A fixed pair may not exist if you're ringing Minor! But not all fixed pairs are made equal, and the fixed pair may not always even be the tenors. For example, in this [1296 of Stedman Caters](https://complib.org/composition/22802), the fixed pair is the 5-6. This is not unusual for Stedman, since often it is musical (and compositionally convenient) to rotate the back bells around rather than leaving them fixed.
-
-Taking the trebles can be a fun choice, especially if you can work out a way to make the 2 the observation bell. A composition of this type will be presented in the next section.
-
-If you're particularly interested in conducting for handbells, I recommend also reading the Supplemental Skills section on [Conducting in Hand](../../supplemental_skills/5_conducting_in_hand).
+If you're particularly interested in conducting for handbells, I recommend reading the Supplemental Skills section on [Conducting in Hand](../../supplemental_skills/5_conducting_in_hand).
 
 ## Notes
 
