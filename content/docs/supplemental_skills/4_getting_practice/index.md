@@ -28,9 +28,9 @@ Once you've studied in advance, give it a go with a band (or with a virtual help
 Think about which problems were specific to this composition with this band ("Well, it was a tricky cyclic composition and I put myself on the 3, which was a bad idea") and which problems are more general ("I am putting some of my calls in slightly late"). Consider how to best fix those up next time. If you don't know, try to ask other people what they do to get ideas. These can be local people or people on the internet; Facebook has several change ringing groups that can be useful resources for questions like these.
 
 
-### Strategy 3: Ask for a "stander behind"
+### Strategy 3: Ask for a shadow
 
-We have standers-behind all the time in ringing, and conducting is no exception. It is not uncommon for a learning conductor to ask for someone to "shadow" the composition. I do this even now, especially if I'm conducting something particularly tricky. I found I have only ever used my shadow conductor once or twice; just knowing I have someone else watching the composition makes me feel more calm.
+It's very common when learning to ring to have someone watch with an eye to help, and learning to conduct is no exception. It is not uncommon for a learning conductor to ask for someone to "shadow" the composition. These shadow conductors watch the composition as closely as you will, and will step in if you go awry or get lost. They may even give a call if you miss one. I ask for this type of help sometimes even now, especially if I'm conducting something particularly tricky. I found I have only ever used my shadow conductor a few times; just knowing I have someone else watching the composition makes me feel more calm.
 
 **Who to ask**: Ask someone who is (a) friendly and (b) ideally, a better conductor than you are!
 

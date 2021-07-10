@@ -55,15 +55,15 @@ By convention, we pick the heaviest working bell and write out the coursing orde
 
 Great. You might note that I added the caveat "for the first lead" in the question. This is related to the convention to leave out the treble. Check out the coursing order relative to the 6 in the first lead, and then look at the second lead. Notice anything different? 
 
-That's right, the 6 crosses the treble at a different point in the second lead. That's because the treble has swapped spots with the 3 at the lead end! The treble will continue to do a do-si-do with various bells at the lead end and will therefore move all through the coursing order. However, because it is doing _different work_ to the rest of the bells, we often don't consider it when we're thinking about the coursing order. So, in Plain Bob Minor, the most usual way to write the coursing order would be:
+That's right, the 6 crosses the treble at a different point in the second lead. That's because the treble has swapped spots with the 3 at the lead end! The treble will continue to do a do-si-do with various bells at the lead end and will therefore move all through the coursing order. However, because it is doing _different work_ to the rest of the bells, we often don't consider it when we're thinking about the coursing order. So, in Plain Bob Minor, a common way to write the coursing order would be:
 
 **5324**
 
-The treble may traipse through at will, but the 6 will always pass the working bells in that order in the plain course.
+The treble may traipse through at will, but the 6 will always pass the working bells in that order in the plain course. Note that some people will prefer to write the 6 in all the time (giving 53246), but that is not the convention I will follow here in _Calling It Round_.[^1]
 
 ## Using coursing orders
 
-When you know what the coursing order ought to be, you can use it to set the ringing straight. For example, let's say you are in charge and ringing the 6 during a plain course of Plain Bob Minor. You know that the coursing order should be *5324* because just before practice you were scrolling through _Calling It Round_ on your phone. There's a kerfuffle, and suddenly you're passing the bells in this order: 5, 2, 3, 4. You can then shout out that the 3 and the 2 are over and ought to swap places![^1]
+When you know what the coursing order ought to be, you can use it to set the ringing straight. For example, let's say you are in charge and ringing the 6 during a plain course of Plain Bob Minor. You know that the coursing order should be *5324* because just before practice you were scrolling through _Calling It Round_ on your phone. There's a kerfuffle, and suddenly you're passing the bells in this order: 5, 2, 3, 4. You can then shout out that the 3 and the 2 are over and ought to swap places.[^2]
 
 Similarly, if you know the coursing order throughout a composition, you can keep a constant check on the ringing by looking at the order in which you pass the bells (bearing in mind that this works well for Plain Bob and many other methods, but there are some methods where watching how you personally pass the bells will _not_ tell you the whole story).
 
@@ -122,4 +122,6 @@ Many people more knowledgeable than I am have shared their wisdom on coursing or
 
 ## Notes
 
-[^1]: For some bands, it's sufficient to shout that the bells are crossed and they'll immediately right themselves. However, there are some things you can do as a conductor to make that swapping easier; see [Giving Guidance](../../supplemental_skills/3_giving_guidance) for more information.
+[^1]: Writing 53246 instead of 5324 gives more information and is less ambiguous. However, you will see 5324 at least as commonly as 53246, so I feel working with these abbreviated coursing orders is a useful skill to build. When you start calling and conducting on higher stages, too, the coursing orders will also commonly be abbreviated, and using this convention for minor gives good practice.
+
+[^2]: For some bands, it's sufficient to shout that the bells are crossed and they'll immediately right themselves. However, there are some things you can do as a conductor to make that swapping easier; see [Giving Guidance](../../supplemental_skills/3_giving_guidance) for more information.

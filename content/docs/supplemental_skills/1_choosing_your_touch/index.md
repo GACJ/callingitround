@@ -31,13 +31,13 @@ Sunday service ringing often gives rise to a new set of priorities. Regardless o
 3. Should we ring a touch or a plain course or half course or call changes or something else entirely? It may be that a touch is not the most appropriate choice for your band on a particular Sunday.
 4. What is the right length? Do we have exactly enough ringers to ring something fairly long, or do I need a variety of short pieces to cycle a large number of ringers in and out?
 
-Other than the special emphasis on high-quality ringing, the considerations are often similar to those about a practice night touch.
+Other than the special emphasis on high-quality ringing, the considerations are often similar to those about a practice night touch. However, there is often an extra-special consideration given to the very last touch rung before the start of a service (before the lower, if your band lower your bells after service ringing). This touch will have the widest audience, and it is nice for the parishioners and ringers alike if they can be welcomed to their Sunday service by the best ringing the ringers have to offer! As such, it can be wise to think of what you _could_ do, and then take it back a step simpler to something you can do extremely well. Eleanor Linford contributes that she always thinks of a quote from Coco Chanel when considering choosing a Sunday service touch: "Before you leave the house, look in the mirror and take one thing off." Before you pull off, look in the mirror and choose something a little simpler! 
 
 
 ## Picking a quarter peal or peal composition
 
 
-Picking a quarter peal or peal composition often feels fairly different. I personally often spend more time picking out quarter peal or peal compositions than I do random practice night touches, in part because they are longer and I want to be assured of my ability to conduct them well. The band is often taking special time out of their schedule for the attempt and it's nicest when the conductor has put in the work ahead of time to give the attempt its best chance of success.
+Picking a quarter peal or peal composition often feels fairly different. I personally often spend more time picking out quarter peal or peal compositions than I do random practice night touches, in part because they are longer and I want to be assured of my ability to conduct them well. The band is often taking special time out of their schedule for the attempt and it's nicest when the conductor has put in the work ahead of time to give the attempt its best chance of success.[^1]
 
 In this section, to keep it simple we'll assume that you have a band of ringers of equal ability, so anyone can ring anywhere in your quarter peal or peal. (If this is not the case, read on to the next section about placing your band, which will discuss some ideas about band placement).
 
@@ -49,10 +49,13 @@ You may or may not already have picked a method and stage, even though you likel
 4. If choosing a multi-part, what type of part end do I want? Do I want the challenge of a cyclic part end, the comfort of a handbell-friendly part end, or something else entirely?
 5. How many calling positions am I comfortable with using?
 6. Do I want a composition on the shorter side (1250 for a quarter peal) or am I ok with it being on the longer side (1500 for a quarter peal). Do I want a date touch?
+7. How important is this to "get"? Should I choose something dead simple I have a very good chance of getting, or stretch myself and my band a bit?
 
 In the end, picking something you are confident that you can conduct well and that your ringers can ring well is likely to lead to the highest probability of success. That said, not all ringing is about "success"! Sometimes it's about stretching yourself, making progress, and challenging your band, all of which can be equally enjoyable. Only you know yourself and your band well enough to make these kinds of choices.
 
+## Notes
 
+[^1]: However, 100\% chance of success is never a guarantee, nor necessarily should it be! Simon Linford shares that he often likes to choose compositions which he has a 95\% chance of calling. Everyone messes up sometimes, and it's alright to go in with that perspective. Study what you can and aim to do well, and then what happens will happen. 
 
 
 
