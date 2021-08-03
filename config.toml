@@ -1,3 +1,4 @@
+baseUrl = "brynmarier.github.io/ebook-site/"
 languageCode = "en-us"
 title = "Calling It Round"
 theme = "book"
