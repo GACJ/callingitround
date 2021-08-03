@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Docs on Calling It Round</title>
-    <link>https://ebook.brynmarie.com/docs/</link>
+    <link>/docs/</link>
     <description>Recent content in Docs on Calling It Round</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://ebook.brynmarie.com/docs/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Acknowledgements</title>
-      <link>https://ebook.brynmarie.com/docs/acknowledgements/</link>
+      <link>/docs/acknowledgements/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ebook.brynmarie.com/docs/acknowledgements/</guid>
+      <guid>/docs/acknowledgements/</guid>
       <description>Final Words #  I&amp;rsquo;m happy to say that there is a lot more content about calling and conducting than I could possibly write for Calling It Round. One of the biggest joys of ringing, for me, is the possibility of constant growth and learning; and there&amp;rsquo;s so much more to learn about conducting than the meagre amount I&amp;rsquo;ve managed to set down here. My hope is that this site was helpful in giving you grounding in some basics, giving you context for some common conventions, and giving you a reason to go practice!</description>
     </item>
     
