@@ -1,7 +1,8 @@
-baseUrl = "brynmarier.github.io/ebook-site/"
+baseUrl = "https://brynmarier.github.io/ebook-site/"
 languageCode = "en-us"
 title = "Calling It Round"
 theme = "book"
+publishDir = "docs/"
 
 [params]
   BookLogo = 'favicon.png'
