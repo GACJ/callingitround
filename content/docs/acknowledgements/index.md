@@ -10,7 +10,7 @@ I'm happy to say that there is a lot more content about calling and conducting t
 
 I have tried to acknowledge my sources in the text itself; and in all cases, the source of the image is linked if you click on the image (unless it was a Bryn original!). However, I just want to make special mention of those websites that I used throughout, namely:
 
-- [CompLib](complib.org)
+- [CompLib](https://complib.org/)
 - [Blueline](https://rsw.me.uk/blueline/methods/)
 - [TheBanners](https://www.thebanners.uk/touches/)
 
